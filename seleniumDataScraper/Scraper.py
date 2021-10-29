@@ -15,9 +15,13 @@ class Scraper:
 
         # regex the links and save to a list, find lines like https://dl.acm.org/doi/pdf/*
         links = re.findall(r'https://dl.acm.org/doi/pdf/[0-9]+\.[0-9]+/[0-9]+\.[0-9]+', text)
+        #links = re.findall(r'doi/pdf/[0-9]+\.[0-9]+/[0-9]+\.[0-9]+', text)
         print(htmlFile +', Size = '+str(len(links)))
         print(links)
 
         return links
 
+    def buildLink(self, index):
+        link = "https://dl.acm.org/doi/pdf/10.1145/" + str(index)
 
+        return link

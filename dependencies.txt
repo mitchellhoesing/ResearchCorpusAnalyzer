@@ -1,0 +1,8 @@
+BERT Dependencies
+
+seleniumDataScraper Dependencies
+tika:
+pip install tika
+
+java SDK:
+https://www.oracle.com/java/technologies/downloads/
