@@ -1,14 +1,14 @@
 # ResearchCorpusAnalyzer
 
-# Execution Step 1
+## Execution Step 1
 
-Chrome
-Chrome web driver
+Chrome web driver:
+FIXME
 
 selenium:
 FIXME
 
-# Execution Step 2
+## Execution Step 2
 
 java SDK:
 https://www.oracle.com/java/technologies/downloads/
@@ -16,10 +16,11 @@ https://www.oracle.com/java/technologies/downloads/
 tika:
 pip install tika
 
-# Execution Step 3
+## Execution Step 3
 
 torch:
 FIXME
 
 transformers:
 FIXME
+
