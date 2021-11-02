@@ -6,3 +6,6 @@ pip install tika
 
 java SDK:
 https://www.oracle.com/java/technologies/downloads/
+
+Chrome
+Chrome web driver
