@@ -47,12 +47,6 @@
 # One script to download pdfs
     # Check if have data, if not build links, else don't.
 
-# One script to parse out text
-# One script to analyze text
-# Break extraction into a class
-# Merge BERT folder and seleniumDataScraper under 1 folder.
-# Can change main executes in top right, edit configs.
-
 # Will want to break apart and get partial results because of large amount of data.
 # To pull a specific commit
 # Git fetch,
