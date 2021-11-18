@@ -48,7 +48,7 @@ for filename in filenameList:
     # TODO
     # 0) add newlines to regex to break on. This is being a pain in the ass, do we care? Relevant sentences should be delimited by a "."
     # 1) Store all data results and graph a histogram.
-    # 2) list: year, title ,doi ,max , argmax,list of scores
+    # 2) list: year, title ,doi ,max , argmax, list of scores
     # Results:
     # Only print results after each paper, not each sentence.
     # List containing: Year, Title, DOI, result list
@@ -65,10 +65,11 @@ for filename in filenameList:
 
     # Per paraphrase
     for iParaphrases in range(len(paraphrases)):
-
+        paraphrasePercents = []
         results.append(paraphrases[iParaphrases])
         # Per sentence in a paper
         for iSentences in range(len(sentences)):
+
             # Tokenize and encode into a tensor.
             paraphrase = tokenizer.encode_plus(paraphrases[iParaphrases], sentences[iSentences], padding=True, return_tensors="pt")
 
@@ -82,7 +83,7 @@ for filename in filenameList:
             paraphraseResults = torch.softmax(paraphraseClassificationLogits, dim=1).tolist()[0]
 
             # Append the isParaphrase % onto results.
-            results.append(round(paraphraseResults[1] * 100))
+            paraphrasePercents.append(round(paraphraseResults[1] * 100))
 
             # Print sentences and paraphrase probabilities.
             print(f"{sentences[iSentences]}")
@@ -97,9 +98,8 @@ for filename in filenameList:
                 highestProbabilityIsParaphrase = sentences[iSentences]
                 #print(f"New Highest: {highestPercent}% {highestProbabilityIsParaphrase}")
 
-        print(f"Highest: {highestPercent}% {highestProbabilityIsParaphrase}")
-
+        #print(f"Highest: {highestPercent}% {highestProbabilityIsParaphrase}")
+        print("Results:")
         results.append(highestProbabilityIsParaphrase + ": " + str(highestPercent) +"%")
-
-    for i in range(len(results)):
-        print(results[i], end="\t")
+        results.append(paraphrasePercents)
+        print(*results, end="\t")
