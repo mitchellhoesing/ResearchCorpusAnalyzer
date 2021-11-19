@@ -1,7 +1,6 @@
 import os
 import re
 
-from torch.autograd import Variable
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
 import torch
@@ -22,7 +21,8 @@ if torch.cuda.is_available():
     model.cuda()
 else:
     print("You are not using Cuda Cores.")
-
+# Initialize
+results = []
 # Per file
 for filename in filenameList:
     print("*************************************************", filename, end="\t")
@@ -37,9 +37,11 @@ for filename in filenameList:
     # Parse text by period delimiter into sentences.
     #OLD: sentences = re.split(r' *[\.\?!][\'"\)\]]* *', onlyAlphaNumericText)
     sentences = re.split(r'\.', onlyAlphaNumericText)
-    # Initialize
-    results = []
-    results = ["year", "title", "DOI"]
+
+    # Extract/scrape year title and doi
+    results.append("year")
+    results.append("title")
+    results.append("DOI")
     # Type of study and source of data.
     # Types of studies: Brainstorming and focus group, interviews, questionnaires, think aloud sessions, instrumenting systems, fly on the wall, analysis of tool use logs, static and dynamic analysis
     # Sources of data: social media, interviews,
@@ -57,7 +59,7 @@ for filename in filenameList:
     # highest pct and sentence that gave highest %
     # Output results as tab separated and copy paste into excel.
 
-    paraphrases = [#"Using scientific findings to learn design practice is a vital, but complex, task in HCI",
+    paraphrases = ["Using scientific findings to learn design practice is a vital, but complex, task in HCI",
                    "Gender and Digital Harassment in Southern Asia"
                    ]
 
