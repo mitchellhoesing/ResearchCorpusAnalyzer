@@ -23,7 +23,7 @@ else:
     print("You are not using Cuda Cores.")
 # Initialize
 results = []
-# Per file
+# Per paper
 for filename in filenameList:
     print("*************************************************", filename, end="\t")
     with open(filename) as f:

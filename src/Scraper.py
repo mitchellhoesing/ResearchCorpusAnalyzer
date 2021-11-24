@@ -21,7 +21,9 @@ class Scraper:
 
         return links
 
-    def buildLink(self, index):
-        link = "https://dl.acm.org/doi/pdf/10.1145/" + str(index)
+    def buildLinks(self, index):
+        pdfLink = "https://dl.acm.org/doi/pdf/10.1145/" + str(index)
+        bibtexLink = "https://dl.acm.org/doi/10.1145/" + str(index)
 
-        return link
+        return pdfLink, bibtexLink
+
