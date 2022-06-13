@@ -6,7 +6,7 @@ import re
 
 class Scraper:
 
-    def getLinks(self,htmlFile):
+    def getLinks(self, htmlFile):
         # read in file
         path = "./proceedings/" + htmlFile
         with open(path, 'r', encoding='UTF-8') as f:
@@ -15,8 +15,7 @@ class Scraper:
 
         # regex the links and save to a list, find lines like https://dl.acm.org/doi/pdf/*
         links = re.findall(r'https://dl.acm.org/doi/pdf/[0-9]+\.[0-9]+/[0-9]+\.[0-9]+', text)
-        #links = re.findall(r'doi/pdf/[0-9]+\.[0-9]+/[0-9]+\.[0-9]+', text)
-        print(htmlFile +', Size = '+str(len(links)))
+        print(htmlFile + ', Size = '+str(len(links)))
         print(links)
 
         return links

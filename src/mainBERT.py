@@ -5,13 +5,25 @@ from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
 import torch
 
+# Get txt file names.
 os.chdir("../inputTXTs")
-filenameList = os.listdir()
-if ".DS_Store" in filenameList:
-    filenameList.remove(".DS_Store")
-if ".gitignore" in filenameList:
-    filenameList.remove(".gitignore")
-filenameList.sort()
+txtFileNameList = os.listdir()
+if ".DS_Store" in txtFileNameList:
+    txtFileNameList.remove(".DS_Store")
+if ".gitignore" in txtFileNameList:
+    txtFileNameList.remove(".gitignore")
+txtFileNameList.sort()
+print(txtFileNameList)
+
+# Get bib file names
+os.chdir("../bibliographies")
+bibFileNameList = os.listdir()
+if ".DS_Store" in bibFileNameList:
+    bibFileNameList.remove(".DS_Store")
+if ".gitignore" in bibFileNameList:
+    bibFileNameList.remove(".gitignore")
+bibFileNameList.sort()
+print(bibFileNameList)
 
 # Initialize BERT
 tokenizer = AutoTokenizer.from_pretrained("bert-base-cased-finetuned-mrpc")
@@ -24,9 +36,10 @@ else:
 # Initialize
 results = []
 # Per paper
-for filename in filenameList:
-    print("*************************************************", filename, end="\t")
-    with open(filename) as f:
+for filename in txtFileNameList:
+    print("*************************************************", filename, "*************************************************", end="\t")
+    filePath = r"../InputTXTs/" + filename
+    with open(filePath) as f:
         text = f.read()
         f.close()
 
@@ -35,7 +48,6 @@ for filename in filenameList:
     # Replace all newlines with spaces.
     onlyAlphaNumericText = onlyAlphaNumericText.replace("\n", " ")
     # Parse text by period delimiter into sentences.
-    #OLD: sentences = re.split(r' *[\.\?!][\'"\)\]]* *', onlyAlphaNumericText)
     sentences = re.split(r'\.', onlyAlphaNumericText)
 
     # Extract/scrape year title and doi
@@ -48,20 +60,34 @@ for filename in filenameList:
     # What are good paraphrases?
 
     # TODO
-    # 0) add newlines to regex to break on. This is being a pain in the ass, do we care? Relevant sentences should be delimited by a "."
-    # 1) Store all data results and graph a histogram.
-    # 2) list: year, title ,doi ,max , argmax, list of scores
+
+    # 1) list: year, title ,doi ,max , argmax?, list of scores
+    # 2) Store all data results and graph a histogram.
     # Results:
     # Only print results after each paper, not each sentence.
     # List containing: Year, Title, DOI, result list
-    # result list: Type of study, paraphrase, Sentence yielding max, %s
-    # store paraphraseResults (%s) in list
-    # highest pct and sentence that gave highest %
-    # Output results as tab separated and copy paste into excel.
+    # result list: Type of study, paraphrase, Sentence yielding max, %'s
 
     paraphrases = ["Using scientific findings to learn design practice is a vital, but complex, task in HCI",
-                   "Gender and Digital Harassment in Southern Asia"
+                   "Gender and Digital Harassment in Southern Asia",
                    ]
+    """
+    Consider method and sources.
+    
+    potential paraphrases list:
+    
+    Data corpus origin is Twitter.
+    Data corpus origin is Facebook.
+    Data corpus origin is Crowd Workers.
+    Data corpus origin is human participants in meat space.
+    
+    We conducted a lab study.
+    we conducted an interview.
+    we conducted a survey.
+    We conducted is a think aloud.
+    We conducted an empirical quantitative study.
+    
+    """
 
     highestPercent = 0
 

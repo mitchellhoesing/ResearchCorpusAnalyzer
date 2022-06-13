@@ -1,5 +1,9 @@
 # ResearchCorpusAnalyzer
 
+## Pre-execution
+### Python 3.9
+torch only supports Python 3.9 currently.
+
 ## Execution Step 1
 
 Chrome web driver:
@@ -23,4 +27,3 @@ FIXME
 
 transformers:
 FIXME
-
