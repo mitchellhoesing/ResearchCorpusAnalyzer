@@ -1,3 +1,5 @@
+# Deprecate for PDF.py
+
 import os
 import tika
 tika.initVM()
@@ -14,7 +16,7 @@ filenameList.sort()
 
 outputPath = "../inputTXTs/"
 for filename in filenameList:
-    print("*************************************************", filename, end="\t")
+    print("*************************************************", filename, "*************************************************", end="\t")
 
     # Extract plain text from pdf
     raw = parser.from_file(inputPath + filename)
