@@ -5,12 +5,12 @@ from tika import parser
 
 
 class PDF:
-    def __init__(self):
-        self.inputPath = None
+    def __init__(self, inPath, outPath):
+        self.inputPath = inPath
         self.fileNameList = None
-        self.outputDirectory = None
+        self.outputDirectory = outPath
 
-    def setDirectory(self, path):
+    def setReadDirectory(self, path):
         self.inputPath = path
         # TODO Error check path exists
         os.chdir(self.inputPath)
@@ -37,7 +37,6 @@ class PDF:
         outFile = open(self.outputDirectory + fileName[:-4] + ".txt", "w")
         encodedText = raw['content'].encode("ascii", "ignore")
         decodedText = encodedText.decode()
-        print(decodedText)
         outFile.write(decodedText)
         outFile.close()
 

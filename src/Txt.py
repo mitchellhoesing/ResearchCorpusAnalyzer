@@ -1,0 +1,41 @@
+import re
+import os
+
+
+class Txt:
+
+    def __init__(self, inPath, outPath):
+        self.txtFileNames = None
+        self.inputPath = inPath
+        self.outputPath = outPath
+
+    # WHY DO WE NEED THIS AGAIN?
+    def getTxtFileNames(self):
+        os.chdir(self.inputPath)
+        # Return directory list of file names
+        self.txtFileNames = os.listdir()
+        # TODO Error check if txtFileNames is empty.
+        # Ignore .DS_Store and .gitignore files
+        if ".DS_Store" in self.txtFileNames:
+            self.txtFileNames.remove(".DS_Store")
+        if ".gitignore" in self.txtFileNames:
+            self.txtFileNames.remove(".gitignore")
+        self.txtFileNames.sort()
+
+        return self.txtFileNames
+
+    def sanitizeTxtFile(self, filename):
+        print("*************************************************", filename,
+              "*************************************************", end="\t")
+        filePath = self.inputPath + filename
+        # TODO Error check if file exists at path
+        with open(filePath) as f:
+            text = f.read()
+            f.close()
+
+        # Remove all non-alphanumeric characters except spaces and periods.
+        onlyAlphaNumericText = re.sub(r'[^A-Za-z0-9\s\.]+', "", text)
+        # Replace all newlines with spaces.
+        sanitizedPaper = onlyAlphaNumericText.replace("\n", " ")
+        self.outputPath.write(sanitizedPaper)
+
