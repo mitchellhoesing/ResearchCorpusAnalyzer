@@ -3,11 +3,29 @@ from src.HTML import HTML
 from src.PDF import PDF
 from src.Txt import Txt
 
-bertModel = BERT()
-pdf = PDF("", "")
-html = HTML()
-txt = Txt("", "")
+paraphrases = ["We showcase Group Touch, a method for identifying among multiple users at the same time interacting with "
+               "a desktop computer using only the touch information supplied by the computer.",
+               "Gender and Digital Harassment in Southern Asia",
+               ]
+"""
+Consider method and sources.
 
+potential paraphrases list:
 
-html.downloadPDF("https://dl.acm.org/doi/pdf/10.1145/3025453.3025793")
+Data corpus origin is Twitter.
+Data corpus origin is Facebook.
+Data corpus origin is Crowd Workers.
+Data corpus origin is human participants in meat space.
+
+We conducted a lab study.
+we conducted an interview.
+we conducted a survey.
+We conducted is a think aloud.
+We conducted an empirical quantitative study.
+
+"""
+
+bertModel = BERT(paraphrases)
+bertModel.analyze()
+
 

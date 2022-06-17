@@ -4,12 +4,11 @@ import os
 
 class Txt:
 
-    def __init__(self, inPath, outPath):
+    def __init__(self, inPath):
         self.txtFileNames = None
         self.inputPath = inPath
-        self.outputPath = outPath
+        self.sanitizedTxt = None
 
-    # WHY DO WE NEED THIS AGAIN?
     def getTxtFileNames(self):
         os.chdir(self.inputPath)
         # Return directory list of file names
@@ -26,8 +25,8 @@ class Txt:
 
     def sanitizeTxtFile(self, filename):
         print("*************************************************", filename,
-              "*************************************************", end="\t")
-        filePath = self.inputPath + filename
+              "*************************************************", end="\n")
+        filePath = os.path.abspath(self.inputPath + filename)
         # TODO Error check if file exists at path
         with open(filePath) as f:
             text = f.read()
@@ -36,6 +35,8 @@ class Txt:
         # Remove all non-alphanumeric characters except spaces and periods.
         onlyAlphaNumericText = re.sub(r'[^A-Za-z0-9\s\.]+', "", text)
         # Replace all newlines with spaces.
-        sanitizedPaper = onlyAlphaNumericText.replace("\n", " ")
-        self.outputPath.write(sanitizedPaper)
+        onlyAlphaNumericText = onlyAlphaNumericText.replace("\n", " ")
+        self.sanitizedTxt = re.split(r'\.', onlyAlphaNumericText)
+
+        return self.sanitizedTxt
 
