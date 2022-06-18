@@ -3,10 +3,7 @@ from src.HTML import HTML
 from src.PDF import PDF
 from src.Txt import Txt
 
-paraphrases = ["We showcase Group Touch, a method for identifying among multiple users at the same time interacting with "
-               "a desktop computer using only the touch information supplied by the computer.",
-               "Gender and Digital Harassment in Southern Asia",
-               ]
+
 """
 Consider method and sources.
 
@@ -25,7 +22,14 @@ We conducted an empirical quantitative study.
 
 """
 
+paraphrases = ["We showcase Group Touch, a method for identifying among multiple users at the same time interacting with "
+               "a desktop computer using only the touch information supplied by the computer.",
+               "Gender and Digital Harassment in Southern Asia",
+               ]
+
+
 bertModel = BERT(paraphrases)
 bertModel.analyze()
+
 
 

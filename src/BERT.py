@@ -18,9 +18,11 @@ class BERT:
         self.bibFilesPath = None
         self.bibFileNames = None
         self.paraphrases = paraphrases
-        self.results = []
+        self._results = ['BERT: Results: ']
         self.txt = Txt("..\\inputTXTs\\")
         self._highestProbabilityParaphrase = ""
+        self._paraphrasePercents = []
+        self._highestPercent = 0
         if torch.cuda.is_available():
             self.model.cuda()
         else:
@@ -56,13 +58,13 @@ class BERT:
         txtFiles = self.txt.getTxtFileNames()
         for txtFile in txtFiles:
             sanitizedTxt = self.txt.sanitizeTxtFile(txtFile)
-            self.results.append("year")
-            self.results.append("title")
-            self.results.append("DOI")
-            highestPercent = 0
+            self._results.append("year")
+            self._results.append("title")
+            self._results.append("DOI")
             for paraphrase in self.paraphrases:
-                paraphrasePercents = []
-                self.results.append(paraphrase)
+                self._paraphrasePercents = []
+                self._results.append(paraphrase)
+                print("BERT: Analyzing phrase: \"" + paraphrase + "\"\nBERT: IN FILE: \"" + txtFile + "\"", end="\n")
                 for sentence in sanitizedTxt:
                     # Tokenize and encode into a tensor.
                     tensor = self.tokenizer.encode_plus(paraphrase, sentence, padding=True, return_tensors="pt")
@@ -76,24 +78,27 @@ class BERT:
                     # Normalize the result into a probability distribution using softmax.
                     paraphraseResults = torch.softmax(paraphraseClassificationLogits, dim=1).tolist()[0]
 
-                    # Append the isParaphrase % onto results.
-                    paraphrasePercents.append(round(paraphraseResults[1] * 100))
-
-                    # Print sentences and paraphrase probabilities.
-                    print(f"{sentence}")
-                    for i in range(len(self.classes)):
-                        print(f"{self.classes[i]}: {round(paraphraseResults[i] * 100)}%")
+                    # Append the isParaphrase % onto paraphrasePercents.
+                    self._paraphrasePercents.append(round(paraphraseResults[1] * 100))
 
                     # TODO
                     # Save all sentences over given threshold
                     # Store the sentence with the highest probability of being a paraphrase.
-                    if round(paraphraseResults[1] * 100) > highestPercent:
-                        highestPercent = round(paraphraseResults[1] * 100)
-                        _highestProbabilityParaphrase = sentence
+                    if round(paraphraseResults[1] * 100) > self._highestPercent:
+                        self._highestPercent = round(paraphraseResults[1] * 100)
+                        self._highestProbabilityParaphrase = sentence
+                        
+                self._printResults()
+                self._clearResults()
 
-                print("Results:")
-                self.results.append(self._highestProbabilityParaphrase + ": " + str(highestPercent) + "%")
-                self.results.append(paraphrasePercents)
-                print(*self.results, end="\t")
-
-# Print results
+    def _printResults(self):
+        self._results.append("\nBERT: Best Paraphrase: \"" + self._highestProbabilityParaphrase + "\" WITH CONFIDENCE: " + str(self._highestPercent) + "%")
+        self._results.append("\nBERT: Full Analysis: " + str(self._paraphrasePercents))
+        self._results.append('\n')
+        print(*self._results)
+    
+    def _clearResults(self):
+        self._highestProbabilityParaphrase = ""
+        self._highestPercent = 0
+        self._paraphrasePercents = []
+        self._results = ['BERT: Results: ']
