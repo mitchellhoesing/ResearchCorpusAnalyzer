@@ -1,7 +1,7 @@
 import os
 import tika
-tika.initVM()
 from tika import parser
+tika.initVM()
 
 
 class PDF:
