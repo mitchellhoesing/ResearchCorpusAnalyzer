@@ -3,20 +3,22 @@ import tika
 from tika import parser
 tika.initVM()
 
+# TODO Error check all paths on construction.
+
 
 class PDF:
-    def __init__(self, inPath, outPath):
-        self.inputPath = inPath
+    def __init__(self, readDirectory, writeDirectory):
+        self.readDirectory = readDirectory
         self.fileNameList = None
-        self.outputDirectory = outPath
+        self.writeDirectory = writeDirectory
 
-    def setReadDirectory(self, path):
-        self.inputPath = path
-        # TODO Error check path exists
-        os.chdir(self.inputPath)
+    def setPDFReadDirectory(self, readDirectory):
+        self.readDirectory = readDirectory
+        os.chdir(self.readDirectory)
 
-    def readFileNames(self):
-        # TODO Error check if os.directory exists. Instantiate with setDirectory()
+    def readPDFFileNames(self):
+        # TODO: this method is sanitizing the list, sorting and returning. It does too many things, refactor.
+
         self.fileNameList = os.listdir()
         if ".DS_Store" in self.fileNameList:
             self.fileNameList.remove(".DS_Store")
@@ -24,17 +26,14 @@ class PDF:
             self.fileNameList.remove(".gitignore")
         self.fileNameList.sort()
 
-    def setOutputDirectory(self, path):
-        # TODO Error check path exists
-        self.outputDirectory = path
+    def setPDFWriteDirectory(self, writeDirectory):
+        self.writeDirectory = writeDirectory
 
-    def convertToTxt(self, fileName):
-        print("*************************************************", fileName,
+    def convertPDFToTxt(self, pdfFile):
+        print("*************************************************", pdfFile,
               "*************************************************", end="\t")
-
-        # Extract plain text from pdf
-        raw = parser.from_file(self.inputPath + fileName)
-        outFile = open(self.outputDirectory + fileName[:-4] + ".txt", "w")
+        raw = parser.from_file(self.readDirectory + pdfFile)
+        outFile = open(self.writeDirectory + pdfFile[:-4] + ".txt", "w")
         encodedText = raw['content'].encode("ascii", "ignore")
         decodedText = encodedText.decode()
         outFile.write(decodedText)

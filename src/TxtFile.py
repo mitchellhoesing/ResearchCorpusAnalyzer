@@ -2,7 +2,9 @@ import re
 import os
 
 
-class Txt:
+class TxtFile:
+
+    # TODO Error check all paths on construction.
 
     def __init__(self, inPath):
         self.txtFileNames = None
@@ -13,7 +15,6 @@ class Txt:
         os.chdir(self.inputPath)
         # Return directory list of file names
         self.txtFileNames = os.listdir()
-        # TODO Error check if txtFileNames is empty.
         # Ignore .DS_Store and .gitignore files
         if ".DS_Store" in self.txtFileNames:
             self.txtFileNames.remove(".DS_Store")
@@ -27,7 +28,6 @@ class Txt:
         print("*************************************************", filename,
               "*************************************************", end="\n")
         filePath = os.path.abspath(self.inputPath + filename)
-        # TODO Error check if file exists at path
         with open(filePath) as f:
             text = f.read()
             f.close()
