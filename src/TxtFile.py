@@ -1,33 +1,25 @@
 import re
 import os
+from FileUtility import FileUtility
 
 
 class TxtFile:
-
-    # TODO Error check all paths on construction.
-
-    def __init__(self, inPath):
+    # TODO Make factory for this class.
+    def __init__(self, inputPath):
         self.txtFileNames = None
-        self.inputPath = inPath
         self.sanitizedTxt = None
+        self.inputPath = inputPath
 
     def getTxtFileNames(self):
-        os.chdir(self.inputPath)
-        # Return directory list of file names
-        self.txtFileNames = os.listdir()
-        # Ignore .DS_Store and .gitignore files
-        if ".DS_Store" in self.txtFileNames:
-            self.txtFileNames.remove(".DS_Store")
-        if ".gitignore" in self.txtFileNames:
-            self.txtFileNames.remove(".gitignore")
-        self.txtFileNames.sort()
+        FileUtility.changeWorkingDirectory(self.inputPath)
+        self.txtFileNames = FileUtility.createFileList()
+        FileUtility.removeGitFiles(self.txtFileNames)
+        self.txtFileNames = FileUtility.sortFiles(self.txtFileNames)
 
         return self.txtFileNames
 
-    def sanitizeTxtFile(self, filename):
-        print("*************************************************", filename,
-              "*************************************************", end="\n")
-        filePath = os.path.abspath(self.inputPath + filename)
+    def sanitizeTxtFile(self, fileName):
+        filePath = os.path.abspath(self.inputPath + fileName)
         with open(filePath) as f:
             text = f.read()
             f.close()
@@ -39,4 +31,6 @@ class TxtFile:
         self.sanitizedTxt = re.split(r'\.', onlyAlphaNumericText)
 
         return self.sanitizedTxt
+
+
 
