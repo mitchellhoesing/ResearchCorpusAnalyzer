@@ -1,7 +1,4 @@
 from src.BERT import BERT
-from src.HTML import HTML
-from src.PDF import PDF
-from src.TxtFile import TxtFile
 
 
 paraphrases = ["Data corpus is Facebook",

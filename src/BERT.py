@@ -1,21 +1,18 @@
-import os
-import re
+import logging
 
 import torch
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
 from src.TxtFile import TxtFile
+from logging import warning
 
 
 class BERT:
 
     def __init__(self, paraphrases):
-        # TODO Refactor to class level
         self.classes = ["not paraphrase", "is paraphrase"]
         self.model = AutoModelForSequenceClassification.from_pretrained("bert-base-cased-finetuned-mrpc")
         self.tokenizer = AutoTokenizer.from_pretrained("bert-base-cased-finetuned-mrpc")
-        # TODO set default values if reasonable
-        # TODO Create bib class
         self.paraphrases = paraphrases
         self._results = ['BERT: Results: ']
         self.txtFile = TxtFile("..\\inputTXTs\\")
@@ -25,15 +22,7 @@ class BERT:
         if torch.cuda.is_available():
             self.model.cuda()
         else:
-            print("You are not using Cuda Cores.")
-
-    # TODO Refactor to Paraphrase class
-    def setParaphrases(self, paraphraseList):
-        # TODO Error check if paraphraseList is empty
-        self.paraphrases = paraphraseList
-
-    def getParaphrases(self):
-        return self.paraphrases
+            logging.log("You are not using Cuda Cores.")
 
     # TODO REFACTOR. Break into multiple methods. Rename to be more descriptive.
     def analyze(self):
