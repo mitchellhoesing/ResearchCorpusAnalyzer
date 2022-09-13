@@ -20,15 +20,17 @@ class HTML:
         # TODO Make chromedriver.exe exist in venv or denote in a relative path.
         self.driver = webdriver.Chrome(chrome_options=self.options, service=Service(r"C:\chromedriver_win32\chromedriver.exe"))
 
+    # TODO Refactor to PDF class?
     def downloadPDF(self, url):
         self.driver.get(url)
         time.sleep(2)
         self.driver.close()
 
+    # TODO Refactor to BibTex class
     def downloadBibtex(self, url):
         self.driver.get(url)
 
-        # TODO abstract hard-coded element paths?
+        # TODO abstract the hard-coded element paths?
         # Navigate to the bibtex button, click it.
         button = self.driver.find_element(By.XPATH, "//*[@id='pb-page-content']/div/main/div[2]/article/div[1]/div[2]/div/div/div[6]/div/div[2]/ul[1]/li[3]/a/i")
         button.click()
