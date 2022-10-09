@@ -1,0 +1,1 @@
+bABSTRACTnnDEMAIS is an informal design tool that we claim helps a multimedia designer explore and communicate temporal and interactive behavioral design ideas better than existing tools

@@ -1,0 +1,1 @@
+bABSTRACTnnWe explore the feasibility of musclecomputer interfaces muCIs an interaction methodology that directly senses and decodes human muscular activity rather than relying on physical device actuation or user actions that are externally visible or audible

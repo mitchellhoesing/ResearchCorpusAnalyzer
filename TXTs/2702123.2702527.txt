@@ -1,0 +1,1 @@
+bABSTRACTnnIn this study we analyze user image search behavior on a largescale query log from Yahoo Image Search based on the hypothesis that behavior is dependent on query type

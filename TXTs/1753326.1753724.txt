@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper introduces two novel navigation techniquesnCycloPan for clutchfree 2D panning and browsing andnCycloZoom for integrated 2D panning and zooming

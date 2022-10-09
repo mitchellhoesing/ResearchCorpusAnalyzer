@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents an investigation into musicians ability to control sound synthesiser parameters using various interfaces

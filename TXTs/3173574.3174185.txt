@@ -1,0 +1,1 @@
+bABSTRACTnnThe relationships between sounds and their perceived meaning and connotations are complex making auditory perception an important factor to consider when designing sonification systems

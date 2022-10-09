@@ -1,0 +1,1 @@
+bABSTRACTnnThe Propositional Production System PPS for describing interactive dialogs is defined

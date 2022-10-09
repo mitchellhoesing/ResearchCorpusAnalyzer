@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper describes a new approach for dealing with the vocabulary problem in humancomputer interaction

@@ -1,0 +1,1 @@
+bABSTRACTnnDynamic peephole navigation is an increasingly popular technique for navigating large information spaces such as maps

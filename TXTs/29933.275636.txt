@@ -1,0 +1,1 @@
+bAbstractnnThe presentation of an application program specifies how the data and operations provided by an application are presented to users

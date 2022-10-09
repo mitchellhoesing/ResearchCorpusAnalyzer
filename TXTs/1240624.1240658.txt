@@ -1,0 +1,1 @@
+bABSTRACTnnWe present an evaluation of mudibo a prototype system for determining the position of dialog boxes in a multiplemonitor system

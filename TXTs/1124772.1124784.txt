@@ -1,0 +1,1 @@
+bABSTRACTnnWe address the problem of collecting a database of commonsense facts using a computer game

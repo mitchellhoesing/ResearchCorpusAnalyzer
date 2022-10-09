@@ -1,0 +1,1 @@
+bABSTRACTnnWe present the Bubble Lens a new target acquisition technique that remedies the limitations of the Bubble Cursor to increase the speed and accuracy of acquiring small dense targetsprecisely those targets for which the Bubble Cursor degenerates to a point cursor

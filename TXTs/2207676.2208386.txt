@@ -1,0 +1,1 @@
+bABSTRACTnnDictation using speech recognition could potentially serve as an efficient input method for touchscreen devices

@@ -11,12 +11,8 @@ class FileUtility:
         return os.path.exists(path)
 
     @staticmethod
-    def changeWorkingDirectory(path):
-        os.chdir(path)
-
-    @staticmethod
-    def createFileList():
-        return os.listdir()
+    def createFileListFromPath(path):
+        return os.listdir(path)
 
     @staticmethod
     def sortFiles(fileList):
@@ -30,4 +26,5 @@ class FileUtility:
             fileList.remove(".gitignore")
             
         return fileList
+
     

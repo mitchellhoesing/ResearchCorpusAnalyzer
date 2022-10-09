@@ -1,0 +1,1 @@
+bABSTRACTnnIn current interfaces users select objects apply operations and change viewing parameters in distinct steps that require switching attention among several screen areas

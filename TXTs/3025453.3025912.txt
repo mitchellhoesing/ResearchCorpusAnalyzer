@@ -1,0 +1,1 @@
+bABSTRACTnnDatasets which are identical over a number of statistical properties yet produce dissimilar graphs are frequently used to illustrate the importance of graphical representations when exploring data

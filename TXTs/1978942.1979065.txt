@@ -1,0 +1,1 @@
+bABSTRACTnnNumerous applications such as simulations air traffic control systems and video surveillance systems are inherently composed of spatial objects that move in a scene

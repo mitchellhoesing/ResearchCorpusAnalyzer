@@ -1,0 +1,1 @@
+bABSTRACTn Touch sensing and computer vision have made humancomputer interaction possible in environments where keyboards mice or other handheld implements are not available or desirable

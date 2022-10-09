@@ -1,0 +1,1 @@
+bABSTRACTn Audio and vibrotactile output are the standard mechanisms mobile devices use to attract their owners attention

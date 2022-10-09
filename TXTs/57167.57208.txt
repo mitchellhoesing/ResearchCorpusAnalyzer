@@ -1,0 +1,1 @@
+bABSTRACTnnIn order to be able to show contextdependent responses to the users actual needs adaptive systems have to be provided with models of possible task contexts

@@ -1,0 +1,1 @@
+bABSTRACTnnEngineering models of human performance permit some aspects of usability of interface designs to be predicted from an analysis of the task and thus can replace to some extent expensive user testing data

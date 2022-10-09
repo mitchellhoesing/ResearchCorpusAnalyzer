@@ -1,0 +1,1 @@
+bABSTRACTn This paper details the design and evaluation of Being the Machine a portable digital fabrication system that places digital fabrication activity outside of the traditional fab lab environment

@@ -1,0 +1,1 @@
+bABSTRACTn When human partners attend to peripheral computing devices while interacting with conversational robots the inability of the robots to determine the actual engagement level of the human partners after gaze shift may cause communication breakdown

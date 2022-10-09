@@ -1,0 +1,1 @@
+bABSTRACTnnA prime attraction of objectoriented programming lanages is the possibility of reusing code

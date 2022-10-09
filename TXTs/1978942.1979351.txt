@@ -1,0 +1,1 @@
+bABSTRACTn Previous research comparing methods of issuing commands found that selecting a toolbar item is faster than selecting an item from two menus with either a mouse or keyboard shortcut

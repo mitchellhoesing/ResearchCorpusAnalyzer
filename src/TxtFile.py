@@ -1,36 +1,36 @@
 import re
-import os
 from FileUtility import FileUtility
 
 
-class TxtFile:
-    # TODO Make factory for this class.
-    def __init__(self, inputPath):
+class TxtFile(FileUtility):
+    def __init__(self):
+        super().__init__()
         self.txtFileNames = None
         self.sanitizedTxt = None
-        self.inputPath = inputPath
+        self.txtFiles = None
 
-    def getTxtFileNames(self):
-        FileUtility.changeWorkingDirectory(self.inputPath)
-        self.txtFileNames = FileUtility.createFileList()
-        FileUtility.removeGitFiles(self.txtFileNames)
-        self.txtFileNames = FileUtility.sortFiles(self.txtFileNames)
+    def createTxtFileListFromPath(self, path):
+        self.txtFiles = FileUtility.createFileListFromPath(path)
+        FileUtility.removeGitFiles(self.txtFiles)
+        FileUtility.sortFiles(self.txtFiles)
+        self.sanitizeTxtFiles(path)
 
-        return self.txtFileNames
+        return self.txtFiles
 
-    def sanitizeTxtFile(self, fileName):
-        filePath = os.path.abspath(self.inputPath + fileName)
-        with open(filePath) as f:
-            text = f.read()
+    # TODO FIX ME
+    def sanitizeTxtFiles(self, path):
+        tempList = []
+        for txtFile in self.txtFiles:
+            file = open(path + txtFile, "r")
+            fileContents = file.read()
+            # Remove all non-alphanumeric characters except spaces and periods.
+            fileContents = re.sub(r'[^A-Za-z0-9\s\.]+', "", fileContents)
+            # Replace all newlines with spaces.
+            fileContents = fileContents.replace(r"\n", " ")
+            fileContents = re.split(r'\.', fileContents)
+            f = open(r"C:\Users\Mitch\PycharmProjects\ResearchCorpusAnalyzer\TXTs\\" + txtFile, "w")
+            f.write(fileContents[0])
             f.close()
-
-        # Remove all non-alphanumeric characters except spaces and periods.
-        onlyAlphaNumericText = re.sub(r'[^A-Za-z0-9\s\.]+', "", text)
-        # Replace all newlines with spaces.
-        onlyAlphaNumericText = onlyAlphaNumericText.replace("\n", " ")
-        self.sanitizedTxt = re.split(r'\.', onlyAlphaNumericText)
-
-        return self.sanitizedTxt
-
+            file.close()
 
 

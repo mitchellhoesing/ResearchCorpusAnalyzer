@@ -1,0 +1,1 @@
+bABSTRACTnnTo maintain a mobile form factor the screen real estate of a mobile device canIn this paper we present SurfacePhone a novel configuration of a projector phone which aligns the projector to project onto a physical surface to allow tabletoplike interaction in a mobile setup

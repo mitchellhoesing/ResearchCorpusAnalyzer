@@ -1,0 +1,1 @@
+bABSTRACTnnCurrent interactive fabrication tools offer tangible feedback by allowing users to work directly on the physical model but they are slow because users need to participate in the physical instantiation of their designs

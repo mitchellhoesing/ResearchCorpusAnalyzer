@@ -1,0 +1,1 @@
+bABSTRACTn We describe a usage study of NetscanTech a system that generates and publishes daily a range of social metrics across three dimensions newsgroup author and thread for a set of approximately 15000 technical newsgroups in Usenet

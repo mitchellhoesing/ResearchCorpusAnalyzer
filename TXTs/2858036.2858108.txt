@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents the MicroWriter a system that decomposes the task of writing into three types of microtasks to produce a single report 1 generating ideas 2 labeling ideas to organize them and 3 writing paragraphs given a few related ideas

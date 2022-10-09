@@ -1,0 +1,1 @@
+bEvaluating the Suggestiveness ofnCommand Names darrett RosenbergnDepartment of PsychologynUniversity of California Berkeley CA 94720nnXerox Palo Alto Research Centern3333 Coyote Hill RoadnPalo Alto CA 94304nAn important feature of the design of humancomputer interfaces is that of command languagesnthe vocabulary and syntax that allow a user to express commands to the system

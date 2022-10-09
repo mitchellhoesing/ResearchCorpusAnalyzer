@@ -1,0 +1,1 @@
+bABSTRACTnnInstrumented with a single depth camera a stereoscopic projector and a curved screen MirageTable is an interactive system designed to merge real and virtual worlds into a single spatially registered experience on top of a table

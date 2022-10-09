@@ -1,0 +1,1 @@
+bABSTRACTnnEvent sequence analysis is an important task in many domains medical researchers may study the patterns of transfers within the hospital for quality control transportation experts may study accident response logs to identify best practices

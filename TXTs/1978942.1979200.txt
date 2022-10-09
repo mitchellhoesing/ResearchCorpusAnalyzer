@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we investigate how decisions made while using a granular access control mechanism for sharing photographs are influenced by contextual factors and properties relating to the identities of contacts

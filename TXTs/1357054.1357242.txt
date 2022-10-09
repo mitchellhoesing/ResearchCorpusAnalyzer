@@ -1,0 +1,1 @@
+bABSTRACTn Current user interfaces for Web search including browsers and search engine sites typically treat search as a transient activity

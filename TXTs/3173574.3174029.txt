@@ -1,0 +1,1 @@
+bABSTRACTnnDeveloping interactive systems often involves a large set of callback functions for handling user interaction which makes it challenging to manage UI behaviors create descriptive documentation and track code revisions

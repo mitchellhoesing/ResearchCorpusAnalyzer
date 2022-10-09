@@ -1,0 +1,1 @@
+bABSTRACTnnINTRODUCTIONnnInteraction and navigation in large geometric spaces typiCurrent visualization applications often involve navigation cally require a sequence of pan and zoom actions

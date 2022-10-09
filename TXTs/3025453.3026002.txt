@@ -1,0 +1,1 @@
+bABSTRACTn Despite decades of research there is yet no general rapid prototyping recognizer for dynamic gestures that can be trained with few samples work with continuous data and achieve high accuracy that is also modalityagnostic

@@ -1,0 +1,1 @@
+bABSTRACTnnFlicking is a common interaction technique to move objects across large interactive surfaces but little is known about its suitability for use on nonplanar curved surfaces

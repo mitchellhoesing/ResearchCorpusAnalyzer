@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we investigate how a debugging environment should support a population doing work at the core of HCI research cognitive modelers

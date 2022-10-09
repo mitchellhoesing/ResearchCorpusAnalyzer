@@ -1,0 +1,1 @@
+bABSTRACTnnTransforming analog graphic data such as maps into digital format by manual digitizing is slow and expensive but is nevertheless widely performed

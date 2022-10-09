@@ -1,0 +1,1 @@
+bABSTRACTnnWe present UnWindows VI a set of tools designed to assist low vision users of X Windows in effectively accomplishing two mundane yet critical interaction tasks selectively magnifying areas of the screen so that the contents can be seen comfortably and keeping track of the location of the mouse pointer

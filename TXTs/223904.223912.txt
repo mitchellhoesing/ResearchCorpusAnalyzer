@@ -1,0 +1,1 @@
+bABSTRACTnnThe field of information retrieval has traditionally focused on textbases consisting of titles and abstracts

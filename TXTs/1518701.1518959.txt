@@ -1,0 +1,1 @@
+bABSTRACTn Hierarchical file systems and file browsers offer powerful capabilities for managing and organizing folders and files

@@ -1,0 +1,1 @@
+bABSTRACTnnWe describe a software architecture for virtual worlds built on a base of multiple processes communicating through a central crcntdrien user interface management system

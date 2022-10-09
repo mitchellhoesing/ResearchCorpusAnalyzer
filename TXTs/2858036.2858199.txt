@@ -1,0 +1,1 @@
+bABSTRACTnnA growing number of domains including affect recognition and movement analysis require a single real number ground truth label capturing some property of a video clip

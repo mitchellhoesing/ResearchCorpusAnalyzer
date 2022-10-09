@@ -1,0 +1,1 @@
+bAbstractnnThis paper presents a cognitive model for one aspect of how notices learn text editorsthe acquisition of procedural skill by problem solving in problem spaces and the use of analogy for building a representation of the semantics of texteditor commands which we call operators

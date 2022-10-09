@@ -1,0 +1,1 @@
+bABSTRACTnnTo make motion gestures more widely adopted on mobile devices it is important that devices be able to distinguish between motion intended for mobile interaction and everyday motion

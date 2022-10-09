@@ -1,0 +1,1 @@
+bABSTRACTnnTo overcome display limitations of smallscreen devices researchers have proposed techniques that point users to objects located offscreen

@@ -1,0 +1,1 @@
+bAbstractn In this paper we seek to contribute to the Ubiquitous Computing agenda by focusing on one of its earliest but most difficult design ambitions  making technology invisible in use

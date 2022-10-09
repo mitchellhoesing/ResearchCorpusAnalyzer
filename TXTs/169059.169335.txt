@@ -1,0 +1,1 @@
+bABSTRACTnnA method and a set of supporting tools have been developed for an improved integration of user interface design with software engineering methods and tools

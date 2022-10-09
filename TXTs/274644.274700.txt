@@ -1,0 +1,1 @@
+bABSTRACTnnThe original SenseMaker interface for information exploration used tables to present heterogeneous document descriptions

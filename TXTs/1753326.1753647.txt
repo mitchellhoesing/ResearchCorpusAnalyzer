@@ -1,0 +1,1 @@
+bABSTRACTn Humancomputer systems intended for timecritical multitasking need to be designed with an understanding of how humans can coordinate and interleave perceptual memory and motor processes

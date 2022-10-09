@@ -1,0 +1,1 @@
+bABSTRACTn Todays widely deployed painting applications use a linear undo model that allows users to backtrack previous operations in reverse chronological order

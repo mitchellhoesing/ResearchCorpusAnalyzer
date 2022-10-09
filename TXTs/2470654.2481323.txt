@@ -1,0 +1,1 @@
+bABSTRACTn Navigating through a file hierarchy is one of the most common methods for accessing files yet it can be slow and repetitive

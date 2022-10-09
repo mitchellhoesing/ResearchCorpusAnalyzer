@@ -1,0 +1,1 @@
+bABSTRACTnnMachine translation MT has the potential to allow members of multilingual organizations to interact via their own native languages but issues with the quality of MT output have made it difficult to realize this potential

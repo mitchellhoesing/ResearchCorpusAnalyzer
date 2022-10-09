@@ -1,0 +1,1 @@
+bABSTRACTnnBecause it is impractical to record human voice for everchanging dynamic content such as email messages and news many commercial speech applications use human speech for fixed prompts and synthetic speech TTS for the dynamic content

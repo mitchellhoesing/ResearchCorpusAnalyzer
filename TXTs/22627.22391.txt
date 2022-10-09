@@ -1,0 +1,1 @@
+bAbstractnnA method for interactive validation of transaction data with autocompletion is introduced and analyzed in a library information system for periodical publications

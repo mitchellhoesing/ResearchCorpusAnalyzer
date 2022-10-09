@@ -1,0 +1,1 @@
+bABSTRACTn We present LiveRAC a visualization system that supports the analysis of large collections of system management timeseries data consisting of hundreds of parameters across thousands of network devices

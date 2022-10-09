@@ -1,0 +1,1 @@
+bABSTRACTnnBootlegger is a system for creating multicamera films of live music events using mobile devices

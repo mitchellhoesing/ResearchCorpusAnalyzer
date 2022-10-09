@@ -1,0 +1,1 @@
+bABSTRACTnnThe Cognitive Walkthrough methodology was developed in an effort to bring cognitive theory closer to practice to enhance the design and evaluation of user interfaces in industrial settings

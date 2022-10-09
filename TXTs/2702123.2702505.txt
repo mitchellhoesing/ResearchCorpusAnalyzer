@@ -1,0 +1,1 @@
+bABSTRACTn We present a novel gesture recognizer suitable for fast prototyping of gesturebased applications

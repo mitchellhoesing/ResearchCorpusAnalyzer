@@ -1,0 +1,1 @@
+bABSTRACTnnHeadtracked 3D displays can provide a compelling 3D effect but even small inaccuracies in the calibration of the participants viewpoint to the display can disrupt the 3D illusion

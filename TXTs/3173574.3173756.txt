@@ -1,0 +1,1 @@
+bABSTRACTnnEmbedding sensors into objects allow them to recognize various interactions

@@ -1,0 +1,1 @@
+bABSTRACTnnMost User Interface Management systems are state based and some use state transition diagrams for dialog specification

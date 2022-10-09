@@ -1,0 +1,1 @@
+bABSTRACTnnDesigners of GUI applications typically arrange commands in hierarchical structures such as menus due to screen space limitations

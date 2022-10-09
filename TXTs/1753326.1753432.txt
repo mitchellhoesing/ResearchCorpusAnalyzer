@@ -1,0 +1,1 @@
+bABSTRACTnnActionShot is an integrated web browser tool that creates a finegrained history of users browsing activities by continually recording their browsing actions at the level of interactions such as button clicks and entries into form fields

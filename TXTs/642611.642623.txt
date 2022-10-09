@@ -1,0 +1,1 @@
+bABSTRACTn This paper describes the design and deployment of a novel interactional workspace intended to provide more effective support for facetoface consultations between two parties

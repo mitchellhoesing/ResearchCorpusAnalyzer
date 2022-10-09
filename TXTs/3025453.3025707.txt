@@ -1,0 +1,1 @@
+bABSTRACTn While it is well known that menu usage follows a Zipfian distribution there has been little interest in the impact of menu item frequency distribution on users behavior

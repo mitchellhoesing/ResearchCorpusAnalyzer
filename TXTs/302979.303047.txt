@@ -1,0 +1,1 @@
+bABSTRACTnnThe proliferation of multiple toolbars and UI widgets around the perimeter of application windows is an indication that the traditional GUI design of a single menubar is not sufficient to support large scale applications with numerous functions

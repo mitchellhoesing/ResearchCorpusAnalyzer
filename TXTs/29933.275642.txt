@@ -1,0 +1,1 @@
+bABSTRACTnnWhen creating highlyinteractive Direct Manipulation interfaces one of the most difficult design and implementation tasks is handling the mouse and other input devices

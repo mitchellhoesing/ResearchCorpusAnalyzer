@@ -1,0 +1,1 @@
+bABSTRACTnnThe research area of Single Display Groupware SDG confronts the standard model of computing interaction one user working on one computer by investigating how to best support groups of users interacting with a shared display

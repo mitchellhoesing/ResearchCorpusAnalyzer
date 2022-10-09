@@ -1,0 +1,1 @@
+bABSTRACTn A common problem with designing and developing applications with tactile interfaces is the lack of a vocabulary that allows one to describe or communicate about haptics

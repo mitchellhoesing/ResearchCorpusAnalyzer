@@ -1,0 +1,1 @@
+bABSTRACTnnGestureBar is a novel approachable UI for learning gestural interactions that enables a walkupanduse experience which is in the same class as standard menu and toolbar interfaces

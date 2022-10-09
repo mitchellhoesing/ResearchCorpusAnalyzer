@@ -1,0 +1,1 @@
+bABSTRACTnnInterfaces are commonly designed from the perspective of individual users even though most of the systems we use in everyday life are in fact shared

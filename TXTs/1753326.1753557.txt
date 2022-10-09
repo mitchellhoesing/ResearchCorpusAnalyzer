@@ -1,0 +1,1 @@
+bABSTRACTnnAlthough network bandwidth has increased dramatically highresolution images often take several seconds to load and considerably longer on mobile devices over wireless connections

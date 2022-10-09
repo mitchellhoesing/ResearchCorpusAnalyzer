@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we describe the development and initial testing of a tool for selfassessment of affect while interacting with computer systems the Sensual Evaluation Instrument

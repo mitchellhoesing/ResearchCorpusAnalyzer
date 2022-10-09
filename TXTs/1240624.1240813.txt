@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we present the MapMover project as a case study into the use and design of an interactive system for collective expression

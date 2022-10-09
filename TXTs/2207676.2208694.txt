@@ -1,0 +1,1 @@
+bABSTRACTnnCurrent multitouch frameworks require application developers to write recognition code for custom gestures this code is split across multiple eventhandling callbacks

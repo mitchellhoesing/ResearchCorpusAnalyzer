@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we identify design guidelines for stereoscopic 3D S3D user interfaces UIs and present the MirrorBox and the FrameBox two UI prototyping tools for S3D displays

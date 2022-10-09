@@ -1,0 +1,1 @@
+bABSTRACTn Proximate mobile devices that are aware of their orientation relative to one another can support novel and natural forms of interaction

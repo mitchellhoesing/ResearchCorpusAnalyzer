@@ -1,0 +1,1 @@
+bABSTRACTnnAlthough speech is a potentially rich information source a major barrier to exploiting speech archives is the lack of useful tools for efficiently accessing lengthy speech recordings

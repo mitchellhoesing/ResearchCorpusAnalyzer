@@ -1,0 +1,1 @@
+bABSTRACTnnDespite the considerable quantity of research directed towards multitouch technologies a set of standardized UI components have not been developed

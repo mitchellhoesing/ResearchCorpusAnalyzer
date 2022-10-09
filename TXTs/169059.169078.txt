@@ -1,0 +1,1 @@
+bABSTRACTnnAlgorithm animations are dynamic graphical illustrations of computer algorithms and they are used as teaching aids to help explain how the algorithms work

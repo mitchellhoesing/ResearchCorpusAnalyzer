@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents a model allowing inferences of perceivable screen content in relation to position and orientation of mobile or wearable devices with respect to their user

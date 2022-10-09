@@ -1,0 +1,1 @@
+bABSTRACTnnWe present Brain Automated Chorales BACh an adaptive braincomputer system that dynamically increases the levels of difficulty in a musical learning task based on pianists cognitive workload measured by functional nearinfrared spectroscopy

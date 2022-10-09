@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper describes how we use a hypermedia systemnKMS for our collaborative work Based on our experience with KMS and our previous research with thenZOG system at Carnegie Mellon University we believe that a shareddatabase hypermedia system provides a powerful foundation for collaboration

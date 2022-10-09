@@ -1,0 +1,1 @@
+bABSTRACTnnTools that provide visual feedback about emotions to the user in the form of an avatar or an emoticon have become increasingly important

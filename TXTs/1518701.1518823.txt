@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we propose a new video interaction model called adaptive fastforwarding to help people quickly browse videos with predefined semantic rules

@@ -1,0 +1,1 @@
+bABSTRACTn We tested PointAssist software that assists in pointing tasks by detecting difficulty through a submovement analysis and triggering help with adjustments proposed to personalize the assistance provided to individuals with motor impairments

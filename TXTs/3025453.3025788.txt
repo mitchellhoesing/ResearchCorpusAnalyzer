@@ -1,0 +1,1 @@
+bABSTRACTn A common security practice used to deal with a password breach is locking user accounts and sending out an email to tell users that they need to reset their password to unlock their account

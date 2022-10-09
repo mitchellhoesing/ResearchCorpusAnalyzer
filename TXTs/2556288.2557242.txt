@@ -1,0 +1,1 @@
+bABSTRACTnnWe present ACCD an interaction technique that allows di rect drawing of long curves on 3D shapes with a tablet display over both multiple depth layers and multiple viewpoints

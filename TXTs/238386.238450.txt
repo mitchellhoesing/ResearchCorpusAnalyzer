@@ -1,0 +1,1 @@
+bABSTRACTnnIn its current implementation the WorldWide Web lacks much of the explicit structure and strong typing found in many closed hypertext systems

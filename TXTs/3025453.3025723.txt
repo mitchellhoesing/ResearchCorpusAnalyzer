@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we present and evaluate Ambiotherm a wearable accessory for Head Mounted Displays HMD that provides thermal and wind stimuli to simulate realworld environmental conditions such as ambient temperatures and wind conditions to enhance the sense of presence in Virtual Reality VR

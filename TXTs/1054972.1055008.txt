@@ -1,0 +1,1 @@
+bABSTRACTn A virtually connected medium called tranStick is described that functions both as a virtual wire and as a memory card containing a shared space

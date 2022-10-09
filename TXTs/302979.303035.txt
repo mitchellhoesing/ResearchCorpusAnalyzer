@@ -1,0 +1,1 @@
+bABSTRACTnnCurrent objectoriented drawing programs have an established way of drawing in which the shape of an object is controlled by manipulating control points

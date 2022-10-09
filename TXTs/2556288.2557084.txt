@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we describe the design evolution of a novel technology that collects and displays presence information to be used in the homes of older adults

@@ -1,0 +1,1 @@
+bABSTRACTnnResearch on graphical perception of time series visualisations has focused on visual representation and not on interaction

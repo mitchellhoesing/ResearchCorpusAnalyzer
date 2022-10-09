@@ -1,0 +1,1 @@
+bABSTRACTnnA valuable task in text visualization is to have viewers make judgments about text that has been annotated either by hand or by some algorithm such as text clustering or entity extraction

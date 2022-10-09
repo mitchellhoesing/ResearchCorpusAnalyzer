@@ -1,0 +1,1 @@
+bABSTRACTn Human multitasking often involves complex task interactions and subtle tradeoffs which might be best understood through detailed computational cognitive modeling yet traditional cognitive modeling approaches may not explore a sufficient range of task strategies to reveal the true complexity of multitasking behavior

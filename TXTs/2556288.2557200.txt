@@ -1,0 +1,1 @@
+bABSTRACTnnMany visualization tasks require the viewer to make judgments about aggregate properties of data

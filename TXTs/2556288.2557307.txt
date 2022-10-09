@@ -1,0 +1,1 @@
+bABSTRACTnnIn this work we present a usercentered development process for a GPSbased monitoring system to be used in dementia care

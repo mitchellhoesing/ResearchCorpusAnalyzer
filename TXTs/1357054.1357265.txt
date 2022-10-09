@@ -1,0 +1,1 @@
+bABSTRACTnnFaceted browsing is a promising way to incrementally refine data sets

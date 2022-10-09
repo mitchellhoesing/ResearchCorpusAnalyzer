@@ -1,0 +1,1 @@
+bABSTRACTnnTraditional information access systems generally assume that a wellarticulated query exists and that once an object is found it can be readily understood

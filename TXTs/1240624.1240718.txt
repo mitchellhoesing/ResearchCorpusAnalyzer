@@ -1,0 +1,1 @@
+bABSTRACTn Current web image search engines still rely on user typing textual description query words for visual targets

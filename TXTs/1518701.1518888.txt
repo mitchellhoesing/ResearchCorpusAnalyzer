@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we describe VPlay a multitouch tabletop application that allows users to mix and manipulate multiple video streams in realtime

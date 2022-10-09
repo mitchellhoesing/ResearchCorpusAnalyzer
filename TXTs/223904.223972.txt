@@ -1,0 +1,1 @@
+bABSTRACTnnThe accuracy of handwriting recognition is often seen as a key factor in determining the acceptability of handheld computers that employ a pen for user interaction

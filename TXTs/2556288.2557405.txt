@@ -1,0 +1,1 @@
+bABSTRACTn We contribute Permulin an integrated set of interaction and visualization techniques for multiview tabletops to support colocated collaboration across a wide variety of collaborative coupling styles

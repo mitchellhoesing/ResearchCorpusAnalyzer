@@ -1,0 +1,1 @@
+bABSTRACTn Eager is a Programming by Example system for the HyperCard environment

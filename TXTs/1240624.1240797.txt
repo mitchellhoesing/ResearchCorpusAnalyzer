@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents a new command selection method that provides an alternative to pulldown menus in penbased mobile interfaces

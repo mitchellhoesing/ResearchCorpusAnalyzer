@@ -1,0 +1,1 @@
+bABSTRACTn Standard input devices such as a mouse and a keyboard in present computeraided design systems do not provide users with direct and intuitive facilities for highly 3D shape manipulation

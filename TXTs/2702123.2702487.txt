@@ -1,0 +1,1 @@
+bABSTRACTnnWe present PaperPulse a design and fabrication approach that enables designers without a technical background to pro duce standalone interactive paper artifacts by augmenting them with electronics

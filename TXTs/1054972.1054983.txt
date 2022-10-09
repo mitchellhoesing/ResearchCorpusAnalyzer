@@ -1,0 +1,1 @@
+bABSTRACTn Speed dependent automatic zooming SDAZ is a promising refinement to scrolling in which documents are automatically zoomedout as the scroll rate increases

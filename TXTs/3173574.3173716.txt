@@ -1,0 +1,1 @@
+bABSTRACTnnMultiscale navigation interfaces were originally designed to enable single users to explore large visual information spaces on desktop workstations

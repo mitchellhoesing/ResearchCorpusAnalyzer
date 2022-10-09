@@ -1,0 +1,1 @@
+bABSTRACTn Programmable design environments PDEs are computational environments that integrate the conceptual frameworks and components of a design environments and b programmable applications

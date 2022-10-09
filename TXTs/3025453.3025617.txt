@@ -1,0 +1,1 @@
+bABSTRACTn Internet of Things IoT frequently involves conflicting interactions between devices and features that must be resolved to a single system state

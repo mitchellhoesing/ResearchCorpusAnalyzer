@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper introduces a new framework to guide the design of interactive music learning systems focusing on the piano

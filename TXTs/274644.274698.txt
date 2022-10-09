@@ -1,0 +1,1 @@
+bABSTRACTnnTo develop a comprehensive and systematic approach to the automated design of visual discourse we introduce a visual task taxonomy that interfaces highlevel presentation intents with lowlevel visual techniques

@@ -1,0 +1,1 @@
+bABSTRACTnnThe wide availability of bodysensing technologies such asnNintendo Wii and Microsoft Kinect has the potential to bring fullbody interaction to the masses but the design of hand gestures and body movements that can be easily discovered by the users of such systems is still a challenge

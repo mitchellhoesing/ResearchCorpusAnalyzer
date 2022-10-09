@@ -1,0 +1,1 @@
+bABSTRACTn Devices capable of gestural interaction through motion sensing are increasingly becoming available to consumers however motion gesture control has yet to appear outside of game consoles

@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we present an interactive query interface called TrapezoidBox to support spatial proximity queries where users degree of interest varies depending upon the degree of separation from the point of interest

@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper explores some of the problems encountered in using a data archive to build tools for training radiologists to interpret breast screening images

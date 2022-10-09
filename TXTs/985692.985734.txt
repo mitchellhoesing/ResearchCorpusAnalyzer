@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we consider the general goal of supporting physical manipulation of digital audio in a specific context the performance disk jockey DJ seeking to migrate from vinyl to digital media

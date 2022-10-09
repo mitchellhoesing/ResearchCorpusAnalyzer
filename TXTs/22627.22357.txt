@@ -1,0 +1,1 @@
+bAbstractnnTwo experiments examine the effects of incorporating user knowledge into the design of training materials for a database querying system

@@ -1,0 +1,1 @@
+bABSTRACTnnIn this work we introduce the use of tags to support the near synchronous use of instant messaging IM

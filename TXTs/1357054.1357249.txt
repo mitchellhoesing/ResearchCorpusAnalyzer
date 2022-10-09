@@ -1,0 +1,1 @@
+bABSTRACTn Adaptive personalization where the system adapts the interface to a users needs has the potential for significant performance benefits on small screen devices

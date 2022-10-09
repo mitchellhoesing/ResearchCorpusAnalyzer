@@ -1,0 +1,1 @@
+bABSTRACTn INTRODUCTIONnA paradox exists in applications that generate ElectronicnHealth Records EHRs  how can data be captured from health care professionals speaking in a natural manner and in a computer readable form This paradox is historical

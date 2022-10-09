@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents a new optimization technique for keyboard layouts based on Pareto front optimization

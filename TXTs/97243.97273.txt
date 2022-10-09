@@ -1,0 +1,1 @@
+bABSTRACTnnAn automatic presentation system is an intelligent interface component which receives information from a user or application program and designs a combination of graphics and text that effectively conveys iL It is a facility that assumes the presentation responsibilities for other programs

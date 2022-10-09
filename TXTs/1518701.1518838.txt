@@ -1,0 +1,1 @@
+bABSTRACTn In this work we ask the question what are the challenges of managing a physical or file system accesscontrol policy for a large organization To answer the question we conducted a series of interviews with thirteen administrators who manage accesscontrol policy for either a file system or a physical space

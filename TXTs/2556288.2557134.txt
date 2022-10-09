@@ -1,0 +1,1 @@
+bABSTRACTnnWhile touch technology has proven its usability for 2D interaction and has already become a standard input modality for many devices the challenges to exploit its applicability with stereoscopically rendered content have barely been studied

@@ -1,0 +1,1 @@
+bABSTRACTnnPrevious attempts to support spectators at largescale events have concentrated separately on realtime event information awareness cues or mediasharing applications

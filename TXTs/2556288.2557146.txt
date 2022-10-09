@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we present Presstures an extension to current multitouch operations that enriches common multifinger gestures with pressure information

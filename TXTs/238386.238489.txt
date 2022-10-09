@@ -1,0 +1,1 @@
+bABSTRACTnnScatterGather is a clusterbased browsing technique for large text collections

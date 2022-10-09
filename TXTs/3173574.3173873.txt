@@ -1,0 +1,1 @@
+bABSTRACTnnINTRODUCTIONnnShapechanging interfaces have emerged as a new method for interacting with computers using dynamic changes in a devices physical shape for input and output

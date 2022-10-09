@@ -1,0 +1,1 @@
+bABSTRACTnnWe present a system that complements virtual reality experiences with passive props yet still allows modifying the virtual world at runtime

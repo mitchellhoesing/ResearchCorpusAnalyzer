@@ -1,0 +1,1 @@
+bAbstractnnCreating and debugging knowledgebased systems such as expert systems requires easy access to rules and facts in a vast looselyconnected system

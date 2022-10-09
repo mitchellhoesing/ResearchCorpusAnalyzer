@@ -1,0 +1,1 @@
+bABSTRACTnnPauses in distributed groupware activity can indicate anything from technical latency through infrastructure failure to a participants thoughtful contemplation

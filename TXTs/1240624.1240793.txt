@@ -1,0 +1,1 @@
+bABSTRACTnniStuff Mobile is the first rapid prototyping framework that helps explore new sensorbased interfaces with existing mobile phones

@@ -1,0 +1,1 @@
+bABSTRACTn We describe Lamello an approach for creating tangible input components that recognize user interaction via passive acoustic sensing

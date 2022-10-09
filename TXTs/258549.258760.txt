@@ -1,0 +1,1 @@
+bABSTRACTn Trajectorybased interactions such as navigating through nestedmenus drawing curves and moving in 3D worlds are becoming common tasks in modern computer interfaces

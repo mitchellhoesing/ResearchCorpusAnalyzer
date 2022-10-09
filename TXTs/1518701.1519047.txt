@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we consider a passive approach to tactile presentation based on changing the surface textures of objects that might naturally be handled by a user

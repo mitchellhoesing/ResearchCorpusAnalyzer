@@ -1,0 +1,1 @@
+bABSTRACTnnA reference scale has been established to assist in the determination of optimum text blinking times for portions of video image texts being presented on CRT display systems

@@ -1,0 +1,1 @@
+bABSTRACTnnThough technology in speech recognition has progressed recently Automatic Speech RecognitionnASR is vulnerable to noise

@@ -1,0 +1,1 @@
+bABSTRACTnnCurrent acoustic speech recognition technology performs well with very small vocabularies m noise or with large vocabularies in very low noise

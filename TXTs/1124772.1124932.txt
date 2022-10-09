@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we show how a model centered analysis of basic interaction actions in graphical user interfaces can be used to create a new menu system

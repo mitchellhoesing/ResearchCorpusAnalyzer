@@ -1,0 +1,1 @@
+bABSTRACTn We evaluate two systems for automatically generating personalized interfaces adapted to the individual motor capabilities of users with motor impairments

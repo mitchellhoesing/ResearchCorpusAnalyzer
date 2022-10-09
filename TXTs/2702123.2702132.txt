@@ -1,0 +1,1 @@
+bABSTRACTnnEdgescrolling allows users to scroll a viewport while simultaneously dragging near or beyond a windows edge

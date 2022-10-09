@@ -1,0 +1,1 @@
+bABSTRACTnnWe developed and evaluated seven interfaces for integrating semantic category information with Web search results

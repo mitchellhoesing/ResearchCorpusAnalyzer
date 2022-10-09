@@ -1,0 +1,1 @@
+bABSTRACTnnWe present the iterative design of Momento a tool that provides integrated support for situated evaluation of ubiquitous computing applications

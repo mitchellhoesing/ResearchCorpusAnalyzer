@@ -1,0 +1,1 @@
+bAbstractnnThis paper is concerned with the problem of recon structfng the surface of threedimensional objects given a collection of planar contours representing crosssections through the objects

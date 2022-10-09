@@ -1,0 +1,1 @@
+bABSTRACTnnWe present PEP Printed Electronic Papercrafts a set of design and fabrication techniques to integrate electronic based interactivities into printed papercrafts via 3Dnsculpting

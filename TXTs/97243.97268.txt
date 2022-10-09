@@ -1,0 +1,1 @@
+bABSTRACTn The NoPumpG prototype 78 suggested that the spreadsheet model of computation could simplify the creation of some types of interactive graphical application when compared with other approaches

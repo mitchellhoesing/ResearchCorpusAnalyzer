@@ -1,0 +1,1 @@
+bABSTRACTnnWe present a data logging concept tool and analyses to facilitate studies of everyday mobile touch keyboard use and free typing behaviour 1 We propose a filtering concept to log typing without recording readable text and assess reactions to filters with a survey N349

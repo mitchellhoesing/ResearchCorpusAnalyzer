@@ -1,0 +1,1 @@
+bABSTRACTn Recent improvements in ultrasound imaging enable new opportunities for hand pose detection using wearable devices

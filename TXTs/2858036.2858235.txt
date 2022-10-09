@@ -1,0 +1,1 @@
+bABSTRACTnnWhen using noncontact finger tracking fingers can be classified as to which hand they belong to by analysing the phase relation of physiological tremor

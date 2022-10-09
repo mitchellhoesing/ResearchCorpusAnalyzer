@@ -1,0 +1,1 @@
+bABSTRACTnnThe Tailor project allows physically disabled users to provide realtime analog input to computer applications

@@ -1,0 +1,1 @@
+bABSTRACTnnMultimedia information retrieval is a challenging problem because multimedia information is not inherently structured

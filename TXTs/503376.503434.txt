@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we describe an evaluation of behavioral descriptors generated from an analysis of a large collection of Usenet newsgroup messages

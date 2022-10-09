@@ -1,0 +1,1 @@
+bABSTRACTnnVisual exploration of volume data often requires the user to manipulate the orientation and position of a slicing plane in order to observe annotate or measure its internal structures

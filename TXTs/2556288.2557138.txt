@@ -1,0 +1,1 @@
+bABSTRACTnnThe touch screen interaction paradigm currently dominant in mobile devices begins to fail when very small systems are considered

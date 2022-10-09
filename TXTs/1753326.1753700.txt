@@ -1,0 +1,1 @@
+bABSTRACTnnWe present the design development and evaluation of an enduser installable whole house power consumption sensing system capable of gathering accurate realtime power use that does not require installing a current transformer around the electrical feeds in a home

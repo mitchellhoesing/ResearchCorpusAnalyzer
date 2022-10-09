@@ -1,0 +1,1 @@
+bABSTRACTn The paper presents our approach for humanmachine interaction with an anthropomorphic mechanical percussionist that can listen to live players analyze perceptual musical aspects in realtime and use the product of this analysis to play along in a collaborative manner

@@ -1,0 +1,1 @@
+bABSTRACTnnWe present and evaluate an approach towards eyesfree auditory display of spatial information that considers radial direction as a fundamental type of value primitive

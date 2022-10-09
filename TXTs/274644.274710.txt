@@ -1,0 +1,1 @@
+bABSTRACTn This paper describes the evolution of the Conversation Machine a conversational speech system which allows users to carry out common banking transactions over the telephone using a conversationalstyle interface

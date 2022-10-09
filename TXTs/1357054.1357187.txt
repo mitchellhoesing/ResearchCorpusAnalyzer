@@ -1,0 +1,1 @@
+bABSTRACTnnA reliable and unobtrusive measurement of working memory load could be used to evaluate the efficacy of interfaces and to provide realtime userstate information to adaptive systems

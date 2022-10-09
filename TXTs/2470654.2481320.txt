@@ -1,0 +1,1 @@
+bABSTRACTnnFlashTouch is a new technology that enables data communication between touchscreenbased mobile devices and digital peripheral devices

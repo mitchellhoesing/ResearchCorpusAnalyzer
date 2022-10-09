@@ -1,0 +1,1 @@
+bABSTRACTnnDiscrete and continuous modes of manual control are fundamentally different buttons select or change state while handles persistently modulate an analog parameter

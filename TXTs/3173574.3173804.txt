@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper investigates a common task requiring temporal precision the selection of a rapidly moving target on display by invoking an input event when it is within some selection window

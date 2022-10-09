@@ -1,0 +1,1 @@
+bABSTRACTnnDespite growing awareness of the accessibility issues surrounding touch screen use by blind people designers still face challenges when creating accessible touch screen interfaces

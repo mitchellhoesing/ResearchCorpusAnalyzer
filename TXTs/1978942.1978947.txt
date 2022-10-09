@@ -1,0 +1,1 @@
+bABSTRACTn We describe an approach to improving the design and development of BrainComputer Interface BCI applications by simulating the errorprone characteristics and subjective feel of electroencephalogram EEG motorimagery based BCIs

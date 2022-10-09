@@ -1,0 +1,1 @@
+bABSTRACTn Animated transitions are popular in many visual applications but they can be difficult to follow especially when many objects move at the same time

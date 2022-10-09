@@ -1,0 +1,1 @@
+bABSTRACTnnAn interactive computer system was made easier to learn for nonprogrammers by modifying the online HELP and error messages of a system designed primarily for programmers

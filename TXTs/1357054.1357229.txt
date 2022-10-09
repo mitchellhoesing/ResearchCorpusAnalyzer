@@ -1,0 +1,1 @@
+bABSTRACTnnBeing able to automatically perceive a variety of emotions from text alone has potentially important applications innCMC and HCI that range from identifying mood from online posts to enabling dynamically adaptive interfaces

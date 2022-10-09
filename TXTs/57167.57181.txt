@@ -1,0 +1,1 @@
+bABSTRACTnnThe multifunctional cursor MC is a technique for representing multiple operations in direct manipulation user interfaces

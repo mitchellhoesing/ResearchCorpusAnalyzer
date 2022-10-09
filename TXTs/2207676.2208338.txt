@@ -1,0 +1,1 @@
+bABSTRACTn We present the Input Observer a tool that can run quietly in the background of users computers and measure their text entry and mouse pointing performance from everyday use

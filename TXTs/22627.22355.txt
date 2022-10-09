@@ -1,0 +1,1 @@
+bABSTRACTnnUsers of a windowing system were studied for the purpose of creating an empirically based windowing benchmark

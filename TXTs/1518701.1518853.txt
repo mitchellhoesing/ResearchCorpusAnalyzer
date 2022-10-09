@@ -1,0 +1,1 @@
+bABSTRACTn Some of the most interesting differences between Open Source Software OSS development and commercial colocated software development lie in the communication and collaboration practices of these two groups of developers

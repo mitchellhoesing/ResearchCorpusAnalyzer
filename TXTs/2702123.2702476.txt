@@ -1,0 +1,1 @@
+bABSTRACTn Animated transition has been a popular design choice for smoothly switching between different visualization views or layouts in which movement trajectories are created as cues for tracking objects during location shifting

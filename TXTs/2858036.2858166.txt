@@ -1,0 +1,1 @@
+bABSTRACTnnSmall touchscreens worn on the wrist are becoming increasingly common but standard interaction techniques for these devices can be slow requiring a series of coarse swipes and taps to perform an action

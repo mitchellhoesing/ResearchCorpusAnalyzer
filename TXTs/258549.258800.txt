@@ -1,0 +1,1 @@
+bABSTRACTnnIn view navigation a user moves about an information structure by selecting something in the current view of the structure

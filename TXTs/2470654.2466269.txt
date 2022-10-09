@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we introduce the idea of warping time to improve crowd performance on the difficult task of captioning speech in realtime

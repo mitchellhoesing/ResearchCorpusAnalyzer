@@ -1,0 +1,1 @@
+bABSTRACTnnWe describe the design of tangible interfaces to the KidPad collaborative drawing tool

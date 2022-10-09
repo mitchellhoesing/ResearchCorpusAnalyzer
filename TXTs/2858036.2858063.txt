@@ -1,0 +1,1 @@
+bABSTRACTnnSliders and Visual Analogue Scales VASs are input mechanisms which allow users to specify a value within a predefined range

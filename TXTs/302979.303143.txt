@@ -1,0 +1,1 @@
+bABSTRACTnnFotoFile is an experimental system for multimedia organization and retrieval based upon the design goal of making multimedia content accessible to nonexpert users

@@ -1,0 +1,1 @@
+bABSTRACTnnINTRODUCTIONnnOne of the properties of a user interface is that it both guides and constrains the patterns of interaction between the user and the software application

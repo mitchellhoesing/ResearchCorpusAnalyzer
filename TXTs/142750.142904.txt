@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we discuss principles for designing and testing computer systems intended to support users thinking as they perform openended or illdefined tasks

@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents Talking in Circles a multimodal audioconferencing environment whose novel design emphasizes spatial grounding with the aim of supporting naturalistic group interaction behaviors

@@ -1,0 +1,1 @@
+bABSTRACTn Diffusion curves are effective 2D vectorgraphics primitives for creating smoothlyshaded drawings with rich colors and unique styles

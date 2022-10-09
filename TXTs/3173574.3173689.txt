@@ -1,0 +1,1 @@
+bABSTRACTnnINTRODUCTIONnnIn this paper we present a drawing workstation for blind people using a twodimensional tactile pinmatrix display for inand output

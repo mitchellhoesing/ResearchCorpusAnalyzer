@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper reports on the experimental evaluation of a Graspable User Interface that employs a spacemultiplexing input scheme in which each function to be controlled has a dedicated physical transducer each occupying its own space

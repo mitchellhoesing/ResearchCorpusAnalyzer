@@ -1,0 +1,1 @@
+bABSTRACTn Geovisualization applications typically organize data into layers

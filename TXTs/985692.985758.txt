@@ -1,0 +1,1 @@
+bAbstractn We introduce semantic pointing a novel interaction technique that improves target acquisition in graphical user interfaces GUIs

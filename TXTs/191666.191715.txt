@@ -1,0 +1,1 @@
+bABSTRACTnnGold is a new interactive editor that allows a user to draw examples of the desired picture for business graphics and the system automatically produces a visualization

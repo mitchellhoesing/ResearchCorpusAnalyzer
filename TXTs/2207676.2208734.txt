@@ -1,0 +1,1 @@
+bABSTRACTn We present a generalpurpose implementation of a targetaware pointing technique functional across an entire desktop and independent of application implementations

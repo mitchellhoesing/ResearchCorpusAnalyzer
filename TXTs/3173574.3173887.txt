@@ -1,0 +1,1 @@
+bABSTRACTnnPrevious techniques for humandesignable visual markers have focused on small encoding spaces and assume artists do not need to encode specific bit representations

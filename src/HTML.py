@@ -11,10 +11,10 @@ class HTML:
         self.options.add_argument("--ignore-certificate-errors")
         self.options.add_argument("--test-type")
         self.prefs = {
-            "download.default_directory": os.path.abspath(r"..\inputPDFs"),  # Change default directory for downloads
-            "download.prompt_for_download": False,  # To auto download the file
+            "download.default_directory": os.path.abspath(r"..\inputPDFs"),
+            "download.prompt_for_download": False,
             "download.directory_upgrade": True,
-            "plugins.always_open_pdf_externally": True  # It will not show PDF directly in chrome
+            "plugins.always_open_pdf_externally": True
         }
         self.options.add_experimental_option("prefs", self.prefs)
         # TODO Make chromedriver.exe exist in venv or denote in a relative path.
@@ -30,12 +30,10 @@ class HTML:
     def downloadBibtex(self, url):
         self.driver.get(url)
 
-        # TODO abstract the hard-coded element paths?
-        # Navigate to the bibtex button, click it.
+        # TODO generalize the hard-coded element paths?
         button = self.driver.find_element(By.XPATH, "//*[@id='pb-page-content']/div/main/div[2]/article/div[1]/div[2]/div/div/div[6]/div/div[2]/ul[1]/li[3]/a/i")
         button.click()
 
-        # # Click the download button inside the bibtex.
         button = self.driver.find_element(By.XPATH, "//*[@id='selectedTab']/div/div[2]/ul/li[1]/a/i")
         button.click()
         time.sleep(2)

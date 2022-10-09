@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper describes a technique for making personalized recommendations from any type of database to a user based on similarities between the interest profile of that user and those of other users

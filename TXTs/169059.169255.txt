@@ -1,0 +1,1 @@
+bABSTRACTn Methods for studying user behavior in HCI can be informally divided into two approaches experimental psychology in the laboratory and observations in the workplace

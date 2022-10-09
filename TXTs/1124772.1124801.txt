@@ -1,0 +1,1 @@
+bABSTRACTn Modes allow a few inputs to invoke many operations yet if a user misclassifies or forgets the state of a system modes can result in errors

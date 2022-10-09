@@ -1,0 +1,1 @@
+bABSTRACTn Despite its growing popularity gesture typing suffers from a major problem not present in touch typing gesture ambiguity on the Qwerty keyboard

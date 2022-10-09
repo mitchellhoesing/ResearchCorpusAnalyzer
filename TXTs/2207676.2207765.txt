@@ -1,0 +1,1 @@
+bABSTRACTn CamBlend is a new focusincontext panoramic video collaboration system designed to facilitate the interaction with and around objects in a lightweight flexible package

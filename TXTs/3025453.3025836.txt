@@ -1,0 +1,1 @@
+bABSTRACTn The steering law models human motor performance and has been verified to hold for a single linear andor circular path

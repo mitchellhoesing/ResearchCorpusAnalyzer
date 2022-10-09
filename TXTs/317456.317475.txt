@@ -1,0 +1,1 @@
+bAbstractnnThree text editors were studied using the editor evaluation methodology developed by Roberts and Moran

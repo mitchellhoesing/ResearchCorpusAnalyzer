@@ -1,0 +1,1 @@
+bABSTRACTnnIn text fonnatters such as troff Scribe and TEX users wnte macro procedures to specify the desired visual appearance

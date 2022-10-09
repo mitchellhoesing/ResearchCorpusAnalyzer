@@ -1,0 +1,1 @@
+bABSTRACTnnTabletop computers based on diffuse illumination can track fiducial markers placed on the tables surface

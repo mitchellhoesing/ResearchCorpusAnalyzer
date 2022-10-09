@@ -1,0 +1,1 @@
+bABSTRACTnnIn order to inform the design of technology support and new procedural methods for software design we analyzed the content of real design meetings in three organizations focusing in particular on the questions the designers ask of each other

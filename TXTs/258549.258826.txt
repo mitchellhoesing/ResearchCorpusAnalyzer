@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper describes a rendering method for generating tangible drawings of spatial real world objects based on a theory of haptic image perception and understanding

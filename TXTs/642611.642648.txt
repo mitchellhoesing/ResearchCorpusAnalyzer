@@ -1,0 +1,1 @@
+bABSTRACTnnFisheye views use distortion to provide both local detail and global context in a single continuous view

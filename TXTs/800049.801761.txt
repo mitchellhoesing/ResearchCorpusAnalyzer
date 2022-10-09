@@ -1,0 +1,1 @@
+bA TestBed for User Interface DesignsnEugene Ball and Phil HayesnComputer Science DepartmentnCarnegieMellon UniversitynPittsburgh Pa 15213nMost presently available interactive computer interfaces treat their users in an unfriendly uncooperative and inflexible way resulting in feelings of frustratiori and a conseqeuCnt loss of productivity for the users

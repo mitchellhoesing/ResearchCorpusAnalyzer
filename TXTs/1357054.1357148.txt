@@ -1,0 +1,1 @@
+bABSTRACTnnWe describe a system that informs the users of the shape of the EdgeWrite characters within the visual feedback area of EdgeWrite

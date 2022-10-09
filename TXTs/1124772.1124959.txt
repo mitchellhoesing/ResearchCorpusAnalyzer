@@ -1,0 +1,1 @@
+bABSTRACTn This paper presents a summary of the space of commonlyused HCI prototyping methods lowfidelity to highfidelity and asserts that with a better understanding of this space HCI practitioners will be better equipped to direct scarce prototyping resources toward an effort likely to yield specific results

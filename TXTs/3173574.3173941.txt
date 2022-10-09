@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents RollingMenu a technique for selecting toolbar items based on the use of roll gestures with a multidimensional device the RolyPoly Mouse RPM

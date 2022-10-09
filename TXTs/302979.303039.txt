@@ -1,0 +1,1 @@
+bABSTRACTnnThe VisMap system provides for visual manipulation of arbitrary offtheshelf applications through an applications graphical user interface

@@ -1,0 +1,1 @@
+bABSTRACTn Although a number of studies have reported that force feedback gravity wells can improve performance in pointandclick tasks there have been few studies addressing issues surrounding the use of gravity wells for multiple onscreen targets

@@ -1,0 +1,1 @@
+bABSTRACTnnFor decades Fitts law 1954 has been used to model pointing time in user interfaces

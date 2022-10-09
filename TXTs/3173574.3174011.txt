@@ -1,0 +1,1 @@
+bABSTRACTnnFingerPing is a novel sensing technique that can recognize various finegrained hand poses by analyzing acoustic resonance features

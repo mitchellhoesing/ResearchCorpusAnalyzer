@@ -1,0 +1,1 @@
+bABSTRACTnnAlthough PDAs typically run applications in a standalone mode they are increasingly equipped with wireless communications which makes them useful in new domains

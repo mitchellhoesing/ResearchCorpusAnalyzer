@@ -1,0 +1,1 @@
+bABSTRACTn We introduce symSpline a symmetric dualmouse technique for the manipulation of spline curves

@@ -1,0 +1,1 @@
+bABSTRACTnnMany graphic applications rely on commandbased arrangement tools to achieve precise layouts

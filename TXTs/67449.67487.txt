@@ -1,0 +1,1 @@
+bABSTRACTnnA simple taskoriented notation for describing user actions in asynchronous user interfaces is introduced

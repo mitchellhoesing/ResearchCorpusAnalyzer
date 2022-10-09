@@ -1,0 +1,1 @@
+bABSTRACTnnExtending Fitts law to more than one dimension has been recognized as having important implications for HCI

@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents a new technique for controlling a users navigation in a virtual environment

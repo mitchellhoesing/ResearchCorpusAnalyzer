@@ -1,0 +1,1 @@
+bABSTRACTnnSimple history systems such as Undo and Redo permit retrieval of earlier or later interaction states but advanced systems allow powerful capabilities to reuse or reapply combinations of commands states or data across interaction contexts

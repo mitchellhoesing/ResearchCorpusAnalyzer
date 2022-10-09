@@ -1,0 +1,1 @@
+bABSTRACTn We propose Augmented Letters a new technique aimed at augmenting gesturebased techniques such as Marking Menus by giving them natural mnemonic associations

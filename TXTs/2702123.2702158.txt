@@ -1,0 +1,1 @@
+bABSTRACTn The hands of virtual characters are highly complex 3D models that can be tedious and timeconsuming to animate with current methods

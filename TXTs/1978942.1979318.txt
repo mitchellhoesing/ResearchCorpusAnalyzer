@@ -1,0 +1,1 @@
+bABSTRACTn We present a fingertracking system for touchbased interaction which can track 3D finger angle in addition to position using lowresolution conventional capacitive sensors therefore compensating for the inaccuracy due to pose variation in conventional touch systems

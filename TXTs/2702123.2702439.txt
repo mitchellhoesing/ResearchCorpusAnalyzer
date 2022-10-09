@@ -1,0 +1,1 @@
+bABSTRACTnnEdge targets such as buttons or menus along the edge of a screen are known to afford fast acquisition performance in desktop mousing environments

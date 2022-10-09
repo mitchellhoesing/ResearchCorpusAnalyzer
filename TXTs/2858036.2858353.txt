@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we propose a computational design tool that allows endusers to create advanced quadrotor trajectories with a variety of application scenarios in mind

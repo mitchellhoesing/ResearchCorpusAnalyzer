@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper describes a case study of thenHuman Factors design development and testing of a computerbased financial analysis package

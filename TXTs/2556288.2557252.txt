@@ -1,0 +1,1 @@
+bABSTRACTn We present VacuumTouch a novel haptic interface architecture for touch screens that provides attractive force feedback to the users finger

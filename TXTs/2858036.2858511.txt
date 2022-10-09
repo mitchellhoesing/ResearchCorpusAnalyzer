@@ -1,0 +1,1 @@
+bABSTRACTnnFrustration is used as a criterion for identifying usability problems UPs and for rating their severity in a few of the existing severity scales but it is not operationalized

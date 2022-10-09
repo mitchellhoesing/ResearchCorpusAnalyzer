@@ -1,0 +1,1 @@
+bABSTRACTnnPrior work on physiological game interaction has focused on dynamically adapting games using physiological sensors

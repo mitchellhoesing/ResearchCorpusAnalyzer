@@ -1,0 +1,1 @@
+bABSTRACTn Previous research has shown that sketchbased input is efficient and preferable in the context of algebraic equation solving

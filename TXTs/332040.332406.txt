@@ -1,0 +1,1 @@
+bABSTRACTnnAnimated characters are common in user interfaces but important questions remain about whether characters work in all situations and for all users

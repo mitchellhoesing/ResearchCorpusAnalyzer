@@ -1,0 +1,1 @@
+bABSTRACTnnMarquise is a new interactive tool that allows virtually all of the user interfaces of graphical editors to be created by demonstration without programming

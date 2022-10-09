@@ -1,0 +1,1 @@
+bAbstractnnIn this paper the user interface and program organization of the SYMPLE VLSI symbolic layout editor is examined

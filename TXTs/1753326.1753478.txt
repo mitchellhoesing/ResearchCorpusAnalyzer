@@ -1,0 +1,1 @@
+bABSTRACTnnInterpreting compiler errors and exception messages is challenging for novice programmers

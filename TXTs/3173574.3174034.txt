@@ -1,0 +1,1 @@
+bABSTRACTnnIncluding haptic feedback in current consumer VR applications is frequently challenging since technical possibilities to create haptic feedback in consumergrade VR are limited

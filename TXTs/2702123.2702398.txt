@@ -1,0 +1,1 @@
+bABSTRACTnnWe present GEMNI  a graphbased generativedesign tool that supports parallel exploration of alternative designs

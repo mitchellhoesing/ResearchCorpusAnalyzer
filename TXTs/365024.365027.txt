@@ -1,0 +1,1 @@
+bABSTRACTnnInteraction tasks on a computer screen can technically be scaled to a much larger or much smaller sized input control area by adjusting the input deviceas control gain or the controldisplay CD ratio

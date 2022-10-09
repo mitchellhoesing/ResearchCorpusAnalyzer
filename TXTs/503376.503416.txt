@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we describe an interface for browsing and skipping digital video content in a consumer setting that is sitting and watching television from a couch using a standard remote control

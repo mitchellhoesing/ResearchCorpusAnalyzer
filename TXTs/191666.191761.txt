@@ -1,0 +1,1 @@
+bABSTRACTnnAn interface for entering text to a penbased computer is described

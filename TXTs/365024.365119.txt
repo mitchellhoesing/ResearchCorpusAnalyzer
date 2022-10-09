@@ -1,0 +1,1 @@
+bABSTRACTnnIn multiagent multiuser environments users as well as agents should have a means of establishing who is talking to whom

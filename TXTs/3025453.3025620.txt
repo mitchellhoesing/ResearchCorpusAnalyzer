@@ -1,0 +1,1 @@
+bABSTRACTn The core idea of experiencedriven design is to define the intended experience before functionality and technology

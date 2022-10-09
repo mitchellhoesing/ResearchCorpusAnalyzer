@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper describes the evolution of the interface to Life Forms a compositional tool for the creation of dance choreography and highlights some of the important lessons we have learned during a six year design and implementation period

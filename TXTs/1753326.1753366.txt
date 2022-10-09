@@ -1,0 +1,1 @@
+bABSTRACTn Focuscontext interfaces provide inplace magnification of a region of the display smoothly integrating the focus of attention into its surroundings

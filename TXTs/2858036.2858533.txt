@@ -1,0 +1,1 @@
+bABSTRACTnnConsiderable research has focused on the problems that end users face when programming software in order to help them overcome their difficulties but there is little research into the problems that arise in physical computing when end users construct circuits and program them

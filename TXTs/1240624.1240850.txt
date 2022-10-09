@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents a quantitative human performance model of making singlestroke pen gestures within certain error constraints in terms of production time

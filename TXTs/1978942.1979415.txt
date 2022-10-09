@@ -1,0 +1,1 @@
+bABSTRACTnnWe present a method of document area identification that utilizes consecutive characters in the nonreading direction as search keys

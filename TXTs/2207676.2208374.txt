@@ -1,0 +1,1 @@
+bABSTRACTn We present iRotate an approach to automatically rotate screens on mobile devices to match users face orientation

@@ -1,0 +1,1 @@
+bABSTRACTnnMost coauthoring tools support basic annotations such as edits and comments that are anchored at specific locations in the document

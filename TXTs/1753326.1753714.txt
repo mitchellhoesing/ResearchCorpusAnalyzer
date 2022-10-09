@@ -1,0 +1,1 @@
+bABSTRACTnnSymbols are used in scatterplots to encode data in a way that is appropriate for perception through human visual channels

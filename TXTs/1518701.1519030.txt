@@ -1,0 +1,1 @@
+bABSTRACTnnMischief is a system for classroom interaction that allows multiple children to use individual mice and cursors to interact with a single large display

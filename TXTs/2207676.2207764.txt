@@ -1,0 +1,1 @@
+bABSTRACTn Direct manipulation video navigation DMVN systems allow to navigate inside video scenes by spatially manipulating objects in the video

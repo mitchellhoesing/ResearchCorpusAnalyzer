@@ -1,0 +1,1 @@
+bABSTRACTnnHuman stereo vision processes the two different images seen by the two eyes to generate depth sensation

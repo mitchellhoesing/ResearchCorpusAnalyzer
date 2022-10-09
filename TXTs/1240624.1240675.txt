@@ -1,0 +1,1 @@
+bABSTRACTnnIn order to improve stimulusresponse compatibility of touchpad in penbased user interface we present the tilt cursor i

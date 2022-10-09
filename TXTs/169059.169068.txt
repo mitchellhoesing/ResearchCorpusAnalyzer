@@ -1,0 +1,1 @@
+bABSTRACTnnIn a distributed shared synthetic environment with provisions for high quality 3D visualization and interaction it is possible to implement a powerful variant of a roomslspace metaphor based on the concept of presence or proximity between participants in 3D space

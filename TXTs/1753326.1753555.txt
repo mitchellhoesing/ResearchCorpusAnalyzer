@@ -1,0 +1,1 @@
+bABSTRACTn Testing a GUIs visual behavior typically requires human testers to interact with the GUI and to observe whether the expected results of interaction are presented

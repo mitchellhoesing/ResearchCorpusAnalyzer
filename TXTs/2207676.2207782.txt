@@ -1,0 +1,1 @@
+bABSTRACTn MimicTile is a novel variable stiffness deformable user interface for mobile devices that implements two key features

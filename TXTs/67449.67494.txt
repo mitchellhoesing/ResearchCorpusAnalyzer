@@ -1,0 +1,1 @@
+bAbstractnnThis paper shows how the integration of natural language with direct manipulation produces a multimodal interface that overcomes limitations of these techniques when used separately

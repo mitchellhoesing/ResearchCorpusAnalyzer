@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper describes a practical synthetic visual environment for use in CAD and teleoperation

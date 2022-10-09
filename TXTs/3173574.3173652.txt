@@ -1,0 +1,1 @@
+bABSTRACTnnWe propose VirtualGrasp a novel gestural approach to retrieve virtual objects in virtual reality

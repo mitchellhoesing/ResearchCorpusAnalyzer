@@ -1,0 +1,1 @@
+bHANCOMPUTER INTERFACE CONSIDERATIONS IN THE DESIGN OF PERSONAL COMPUTER SOFTWAREnSundaresan Jayaraman Mary Jane Leeand Milos KonopasekNnNorth Carolina State UniversitynRaleigh NC 27650nINTRODUCTIONnThe proliferation of inexpensive microprocessorbased personal computers has broadened the spectrum of the computer user community

@@ -1,0 +1,1 @@
+bABSTRACTnnWe propose a gaze movement model that enables an embodied interface agent to convey different impressions to users

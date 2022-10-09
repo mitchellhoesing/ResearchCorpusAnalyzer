@@ -1,0 +1,1 @@
+bABSTRACTnnMany algorithms have been created to automatically detect community structures in social networks

@@ -1,0 +1,1 @@
+bABSTRACTn The goal of Computer Augmented Environments is to bring computational power to everyday objects with which users are already familiar so that the user interface to this computational power becomes almost invisible

@@ -1,0 +1,1 @@
+bABSTRACTnnWe introduce the concept of a sympathetic interace for controlling an animated synthetic character in a 3D virtual environment

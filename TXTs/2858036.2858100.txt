@@ -1,0 +1,1 @@
+bABSTRACTnnWe introduce CalendarCast a novel method to support the common task of finding a suitable time and date for a shared meeting among colocated participants using their personal mobile devices

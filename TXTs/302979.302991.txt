@@ -1,0 +1,1 @@
+bABSTRACTnnWe explore the use of the nondominant hand to control a virtual camera while the dominant hand performs other tasks in a virtual 3D scene

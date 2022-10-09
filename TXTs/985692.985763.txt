@@ -1,0 +1,1 @@
+bABSTRACTn This paper describes an approach to managing tasks and processes that are distributed across a large number of people

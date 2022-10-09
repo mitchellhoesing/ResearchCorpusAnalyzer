@@ -1,0 +1,1 @@
+bABSTRACTnnCurrent multitouch interaction techniques typically only use the xy coordinates of the human fingers contact with the screen

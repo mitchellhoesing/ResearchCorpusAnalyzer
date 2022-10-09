@@ -1,0 +1,1 @@
+bABSTRACTnnSpeech Dasher allows writing using a combination of speech and a zooming interface

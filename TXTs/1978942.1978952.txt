@@ -1,0 +1,1 @@
+bABSTRACTnnControl of camera viewpoint plays a vital role in many teleoperation activities as watching live video streams is still the fundamental way for operators to obtain situational awareness from remote environments

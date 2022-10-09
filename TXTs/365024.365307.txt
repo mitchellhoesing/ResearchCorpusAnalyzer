@@ -1,0 +1,1 @@
+bABSTRACTn We present a taskbased taxonomy of navigation techniques for 3D virtual environments used to categorize existing techniques drive exploration of the design space and inspire new techniques

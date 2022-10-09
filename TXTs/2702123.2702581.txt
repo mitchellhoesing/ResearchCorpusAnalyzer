@@ -1,0 +1,1 @@
+bABSTRACTnnSkinbased input has become an increasingly viable interaction model for user interfaces however it has yet to be explored outside the domain of mobile computing

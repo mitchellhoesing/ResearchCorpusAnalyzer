@@ -1,0 +1,1 @@
+bABSTRACTnnIn order to display web pages designed for desktopsized monitors some smallscreen web browsers provide singlecolumn or thumbnail views

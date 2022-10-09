@@ -1,0 +1,1 @@
+bABSTRACTnnIn recent years there has been a shift in microprocessor manu facture from building singlecore processors towards provid ing multiple cores on the same chip

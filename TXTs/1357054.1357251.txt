@@ -1,0 +1,1 @@
+bABSTRACTn Coarsegrained approaches to customization allow the user to enable or disable groups of features at once rather than individual features

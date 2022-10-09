@@ -1,0 +1,1 @@
+bABSTRACTnnHow do people use an enterprise filesharing service We describe patterns of usage in a social filesharing service that was deployed in a large multinational enterprise

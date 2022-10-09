@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we describe the use of similarity metrics in a novel visual environment for storing and retrieving favorite web pages

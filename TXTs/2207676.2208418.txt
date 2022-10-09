@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we present our approach to capture and share knowledge from field studies using pattern language and thereby inform the design of ubiquitous computing

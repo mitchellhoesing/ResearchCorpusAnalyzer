@@ -1,0 +1,1 @@
+bABSTRACTn Realtime synchronization is increasingly available in webbased environments for editing textual data and this has changed how groups of people collaborate

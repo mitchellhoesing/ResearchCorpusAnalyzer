@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we report about a largescale insitu study of tactile feedback for pedestrian navigation systems

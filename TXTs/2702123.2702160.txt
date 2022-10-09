@@ -1,0 +1,1 @@
+bABSTRACTnnImmerseBoard is a system for remote collaboration through a digital whiteboard that gives participants a 3D immersive experience enabled only by an RGBD camera Microsoft Kinect mounted on the side of a large touch display

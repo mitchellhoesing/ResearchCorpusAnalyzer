@@ -1,0 +1,1 @@
+bABSTRACTnnWhile several studies propose methods and notations forncapturing design rationale DR there is to date little data available on how useful this information is when a designer needs to reuse a previous design

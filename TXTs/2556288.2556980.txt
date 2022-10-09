@@ -1,0 +1,1 @@
+bABSTRACTnnCurrent GUI builders provide a design environment for user interfaces that target either a single type or fixed set of devices and provide little support for scenarios in which the user interface or parts of it are distributed over multiple devices

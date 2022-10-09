@@ -1,0 +1,1 @@
+bABSTRACTnnWe present ChronoFab a 3D modeling tool to craft motion sculptures tangible representations of 3D animated models visualizing an objects motion with static transient ephemeral visuals that are left behind

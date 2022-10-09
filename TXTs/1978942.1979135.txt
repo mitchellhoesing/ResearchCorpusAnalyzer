@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we present a study of the effects of structural holds and rigidity of a flexible display on touch pointing and dragging performance

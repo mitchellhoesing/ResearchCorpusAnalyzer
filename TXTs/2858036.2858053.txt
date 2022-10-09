@@ -1,0 +1,1 @@
+bABSTRACTnnThe lack of certain types of geographic data prevents the development of locationaware technologies in a number of important domains

@@ -1,0 +1,1 @@
+bABSTRACTnnWe present Apatite a new tool that aids users in learning and understanding a complex API by visualizing the common associations between its various components

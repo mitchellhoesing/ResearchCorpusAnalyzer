@@ -1,0 +1,1 @@
+bABSTRACTn While several footcontrolled pointing devices have been explored as alternatives to conventional interfaces we are interested in whether such devices can achieve higher performance with the addition of variable friction

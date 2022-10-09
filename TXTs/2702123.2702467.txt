@@ -1,0 +1,1 @@
+bABSTRACTn This paper describes a study of algorithmic living with Trace a mobile mapping application that generates walking routes based on digital sketches people create and annotate without a map

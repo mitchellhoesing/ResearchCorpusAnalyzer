@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper describes two interface prototypes which we have developed on our augmented desk interface system EnhancedDesk

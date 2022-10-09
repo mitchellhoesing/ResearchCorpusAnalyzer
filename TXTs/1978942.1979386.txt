@@ -1,0 +1,1 @@
+bABSTRACTnnWe present TUIC a technology that enables tangible interaction on capacitive multitouch devices such as iPad iPhone and 3Ms multitouch displays without requiring any hardware modifications

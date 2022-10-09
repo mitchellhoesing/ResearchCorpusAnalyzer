@@ -1,0 +1,1 @@
+bABSTRACTn We present Interactive Generator InGen a selfpowered wireless rotary input device capable of generating haptic or force feedback without the need for any external power source

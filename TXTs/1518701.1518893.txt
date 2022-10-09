@@ -1,0 +1,1 @@
+bABSTRACTn This paper presents a new perspective for the design of indoor navigation support

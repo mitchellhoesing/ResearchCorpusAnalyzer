@@ -1,0 +1,1 @@
+bABSTRACTnnIndoor navigation systems for users who are visually impaired typically rely upon expensive physical augmentation of the environment or expensive sensing equipment consequently few systems have been implemented

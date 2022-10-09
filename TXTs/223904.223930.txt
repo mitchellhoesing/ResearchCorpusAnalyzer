@@ -1,0 +1,1 @@
+bABSTRACTn Collaborative filtering is based on the premise that people looking for information should be able to make use of what others have already found and evaluated

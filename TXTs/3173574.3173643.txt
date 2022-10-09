@@ -1,0 +1,1 @@
+bABSTRACTnnBlocksbased programming environments are a popular tool to teach children to program but they rely heavily on visual metaphors and are therefore not fully accessible for children with visual impairments

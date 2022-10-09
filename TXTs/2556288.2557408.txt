@@ -1,0 +1,1 @@
+bABSTRACTn Authors use icon encodings to indicate the semantics of categorical information in visualizations

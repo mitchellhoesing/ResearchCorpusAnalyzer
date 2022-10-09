@@ -1,0 +1,1 @@
+bABSTRACTn Most locationaware mobile applications only make use of the users current location but there is an opportunity for them to infer the users future locations

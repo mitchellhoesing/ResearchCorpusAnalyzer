@@ -1,0 +1,1 @@
+bABSTRACTnnTriggering commands on large interactive surfaces is less efficient than on desktop PCs

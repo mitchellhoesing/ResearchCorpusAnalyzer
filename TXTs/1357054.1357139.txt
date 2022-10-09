@@ -1,0 +1,1 @@
+bABSTRACTn In order to improve the stability of eye cursor we introduce three methods force field FF speed reduction SR and warping to target center TC to modulate eye cursor trajectories by counteracting eye jitter which is the main cause of destabilizing the eye cursor

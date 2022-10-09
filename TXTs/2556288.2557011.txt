@@ -1,0 +1,1 @@
+bABSTRACTnnWe study strategies for scalable multilabel annotation or for efficiently acquiring multiple labels from humans for a collection of items

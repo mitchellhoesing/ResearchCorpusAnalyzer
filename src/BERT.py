@@ -1,10 +1,8 @@
 import logging
-
 import torch
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
 from src.TxtFile import TxtFile
-from logging import warning
 
 
 class BERT:
@@ -15,7 +13,8 @@ class BERT:
         self.tokenizer = AutoTokenizer.from_pretrained("bert-base-cased-finetuned-mrpc")
         self.paraphrases = paraphrases
         self._results = ['BERT: Results: ']
-        self.txtFile = TxtFile("..\\inputTXTs\\")
+        self.txtFile = TxtFile()
+        self.txtFilePath = "..\\inputTXTs\\"
         self._highestProbabilityParaphrase = ""
         self._paraphrasePercents = []
         self._highestPercent = 0
@@ -26,9 +25,8 @@ class BERT:
 
     # TODO REFACTOR. Break into multiple methods. Rename to be more descriptive.
     def analyze(self):
-        txtFiles = self.txtFile.getTxtFileNames()
+        txtFiles = self.txtFile.createTxtFileListFromPath(self.txtFilePath)
         for txtFile in txtFiles:
-            sanitizedTxt = self.txtFile.sanitizeTxtFile(txtFile)
             self._results.append("year")
             self._results.append("title")
             self._results.append("DOI")
@@ -36,8 +34,7 @@ class BERT:
                 self._paraphrasePercents = []
                 self._results.append(paraphrase)
                 print("BERT: Analyzing phrase: \"" + paraphrase + "\"\nBERT: IN FILE: \"" + txtFile + "\"", end="\n")
-                for sentence in sanitizedTxt:
-                    # Tokenize and encode into a tensor.
+                for sentence in txtFile:
                     tensor = self.tokenizer.encode_plus(paraphrase, sentence, truncation=True, return_tensors="pt")
 
                     if torch.cuda.is_available():

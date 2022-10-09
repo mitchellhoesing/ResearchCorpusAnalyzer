@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we present PaperWindows a prototype windowing environment that simulates the use of digital paper displays

@@ -1,0 +1,1 @@
+bABSTRACTnnEffective use of data involving personal or sensitive information often requires different people to have access to personal information which significantly reduces the personal privacy of those whose data is stored and increases risk of identity theft data leaks or social engineering attacks

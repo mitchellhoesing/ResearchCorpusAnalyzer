@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper considers the design construction and example use of a new type of 3D printer which fabricates threedimensional objects from soft fibers wool and wool blend yarn

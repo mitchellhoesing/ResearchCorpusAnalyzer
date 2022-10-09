@@ -1,0 +1,1 @@
+bABSTRACTnnA tool able to generate remote forces would allow us to handle dangerous or fragile materials without contact or occlusions

@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we present an attentive windowing technique that uses eye tracking rather than manual pointing for focus window selection

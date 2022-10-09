@@ -1,0 +1,1 @@
+bABSTRACTn Rich interaction with highresolution wall displays is not limited to remotely pointing at targets

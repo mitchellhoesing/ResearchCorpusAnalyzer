@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents TextAlive a graphical tool that allows interactive editing of kinetic typography videos in which lyrics or transcripts are animated in synchrony with the corresponding music or speech

@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper explores the feasibility of automatically extracting passwords from a users daily activity logs such as her Facebook activity phone activity etc

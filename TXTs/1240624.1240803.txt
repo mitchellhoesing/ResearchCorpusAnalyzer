@@ -1,0 +1,1 @@
+bABSTRACTn This paper describes the results of three studies investigating an embodied agent that supports its interaction with the user by gazing at corresponding objects within its close environment

@@ -1,0 +1,1 @@
+bABSTRACTnnAlthough researchers have begun to explicitly support enduser programmers debugging by providing information to help them find bugs there is little research addressing the proper mechanism to alert the user to this information

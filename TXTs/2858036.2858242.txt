@@ -1,0 +1,1 @@
+bABSTRACTnnWe present WatchWriter a finger operated keyboard that supports both touch and gesture typing with statistical decoding on a smartwatch

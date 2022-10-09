@@ -1,0 +1,1 @@
+bABSTRACTnnSearching audio data can potentially be facilitated by the use of automatic speech recognition ASR technology to generate text transcripts which can then be easily queried

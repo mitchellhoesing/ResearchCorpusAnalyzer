@@ -1,0 +1,1 @@
+bABSTRACTn Several obstacles exist in the user interface design process which distract a developer from designing a good user interface

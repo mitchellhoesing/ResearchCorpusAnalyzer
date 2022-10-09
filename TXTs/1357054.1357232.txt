@@ -1,0 +1,1 @@
+bABSTRACTn What issues arise when designing and deploying tangibles for learning in long term evaluation This paper reports on a series of studies in which the Topobo system a 3D tangible construction kit with the ability to record and playback motion was provided to educators and designers to use over extended periods of time in the context of their daytoday work

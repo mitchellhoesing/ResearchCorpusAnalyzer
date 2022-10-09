@@ -1,0 +1,1 @@
+bABSTRACTnnContinuous pseudocolor maps visualize how a quantitative attribute varies smoothly over space

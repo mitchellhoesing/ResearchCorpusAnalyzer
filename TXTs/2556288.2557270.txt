@@ -1,0 +1,1 @@
+bABSTRACTn In this paper visual recognition VisRec is evaluated as a method to access background information on artworks in mobile museum guide applications apps by means of a field experiment

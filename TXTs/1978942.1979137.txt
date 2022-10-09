@@ -1,0 +1,1 @@
+bABSTRACTn We present Pinstripe a textile user interface element for eyesfree continuous value input on smart garments that uses pinching and rolling a piece of cloth between your fingers

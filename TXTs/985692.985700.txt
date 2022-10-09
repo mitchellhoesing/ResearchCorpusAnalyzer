@@ -1,0 +1,1 @@
+bABSTRACTnnIn current text editors the find  replace command offers only two options replace one match at a time prompting for confirmation or replace all matches at once without any confirmation

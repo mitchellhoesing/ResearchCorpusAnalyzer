@@ -1,0 +1,1 @@
+bABSTRACTnnUser interface design and enduser adaptation during the use of the system should be viewed as an ongoing collaborative design process 

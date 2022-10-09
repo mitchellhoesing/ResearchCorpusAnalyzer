@@ -1,0 +1,1 @@
+bABSTRACTnnWhy is it so hard for chatbots to talk about race This work explores how the biased contents of databases the syntactic focus of natural language processing and the opaque nature of deep learning algorithms cause chatbots difficulty in handling racetalk

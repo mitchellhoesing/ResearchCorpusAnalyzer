@@ -1,0 +1,1 @@
+bABSTRACTnnSelection is a fundamental task in interactive applications typically performed by clicking or lassoing items of interest

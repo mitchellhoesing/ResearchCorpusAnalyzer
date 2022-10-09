@@ -1,0 +1,1 @@
+bRPP A System for Prototyping User InterfacesnJenHsien Chien ShengTsai Fu Ellis HorowitznComputer Science DepartmentnUniversity of Southern CalifornianLos Angeles CA 90089nChristopher RounnSystems Engineering and Development DivisionnCarson CA 90746nnINTRODUCTIONnRPP Reduced Programming Prototype is a system that a

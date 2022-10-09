@@ -1,0 +1,1 @@
+bABSTRACTn Multitouch gestures have become popular on a wide range of touchscreen devices but the programming of these gestures remains an art

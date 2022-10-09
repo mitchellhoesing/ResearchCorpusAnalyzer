@@ -1,0 +1,1 @@
+bABSTRACTnnModelbased interface design can save substantial effort in building help systems for interactive applications by generating help automatically from the model used to implement the interface and by providing a framework for developers to easily refine the automaticallygenerated help texts

@@ -1,0 +1,1 @@
+bABSTRACTnnThe emerging simultaneous localizing and mapping SLAMnbased tracking technique allows the mobile AR device spatial awareness of the physical world

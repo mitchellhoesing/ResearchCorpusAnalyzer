@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper describes the architecture and prototype of a system which dynamically determines how to present information to a user

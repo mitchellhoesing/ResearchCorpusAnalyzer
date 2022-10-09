@@ -1,0 +1,1 @@
+bABSTRACTn This paper explores the use of variable friction surface haptics enabled by the TPad Tablet to support affective communication between pairs of users

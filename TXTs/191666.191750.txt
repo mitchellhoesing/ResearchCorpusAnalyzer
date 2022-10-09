@@ -1,0 +1,1 @@
+bABSTRACTn The problem of creating search dialogs which are consistent with normal user interface dialogs is posed

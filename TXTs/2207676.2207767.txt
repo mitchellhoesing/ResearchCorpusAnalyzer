@@ -1,0 +1,1 @@
+bABSTRACTn This paper presents Video Summagator VS a volumebased interface for video summarization and navigation

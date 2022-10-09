@@ -1,0 +1,1 @@
+bABSTRACTnnMost current approaches to the design of the humancomputer interface result in systems that are difficult for users to master

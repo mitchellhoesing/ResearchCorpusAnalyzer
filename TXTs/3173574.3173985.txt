@@ -1,0 +1,1 @@
+bABSTRACTnnPrototyping devices with kinetic mechanisms such as automata and robots has become common in physical computing projects

@@ -1,0 +1,1 @@
+bABSTRACTn This paper reports a study of Personal Information Management PIM which advances research in two ways 1 rather than focusing on one tool we collected crosstool data relating to file email and web bookmark usage for each participant and 2 we collected longitudinal data for a subset of the participants

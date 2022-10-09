@@ -1,0 +1,1 @@
+bABSTRACTn In this work we analyze the behavior on a companyinternal social network site to determine which interaction patterns signal closeness between colleagues

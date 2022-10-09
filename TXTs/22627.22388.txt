@@ -1,0 +1,1 @@
+bAbstractn Learning to control a computer system from limited experience with it seems to require constructing a mental model adequate to indicate the causal connections between user actions system responses and user goals

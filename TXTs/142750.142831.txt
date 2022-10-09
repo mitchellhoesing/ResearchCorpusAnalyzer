@@ -1,0 +1,1 @@
+bABSTRACTn The Graphic StoryWriter GSW is an interactive system that enables its users to create structurally complete stories through the manipulation of graphic objects in a simulated storybook

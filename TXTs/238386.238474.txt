@@ -1,0 +1,1 @@
+bABSTRACTn Modern application software often includes operations that are performed by complex mathematical algorithms

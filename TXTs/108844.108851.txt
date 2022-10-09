@@ -1,0 +1,1 @@
+bABSTRACTnnAn important issue in collaborative systems is the kind of sharing or coupling among the various windows displaying a shared workspace

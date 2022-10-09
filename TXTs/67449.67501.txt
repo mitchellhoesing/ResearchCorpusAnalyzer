@@ -1,0 +1,1 @@
+bABSTRACTnnDesign Environments are computer systems which support design by enabling cooperative problem solving between designer and computer

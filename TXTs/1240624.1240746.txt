@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents a new type of humancomputer interface called Pico Physical Intervention in Computational Optimization based on mechanical constraints that combines some of the tactile feedback and affordances of mechanical systems with the abstract computational power of modern computers

@@ -1,0 +1,1 @@
+bABSTRACTnnCreating graphical user interfaces GUI for stereoscopic 3D S3D games is a difficult choice between visual comfort and effect

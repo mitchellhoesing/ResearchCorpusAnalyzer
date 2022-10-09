@@ -1,0 +1,1 @@
+bABSTRACTn We present HeatWave a system that uses digital thermal imaging cameras to detect track and support user interaction on arbitrary surfaces

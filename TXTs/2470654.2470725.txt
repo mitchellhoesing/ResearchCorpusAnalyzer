@@ -1,0 +1,1 @@
+bABSTRACTn Representing a new class of tool for biological modeling Bio Model Analyzer BMA uses sophisticated computational techniques to determine stabilization in cellular networks

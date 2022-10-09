@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we present SwiPIN a novel authentication system that allows input of traditional PINs using simple touch gestures like up or down and makes it secure against human observers

@@ -1,0 +1,1 @@
+bABSTRACTnnWe describe a method for applying gain to events reported by scrolling input devices such as scroll wheels

@@ -1,0 +1,1 @@
+bABSTRACTnnEndtoend latency corresponds to the temporal difference between a user input and the corresponding output from a system

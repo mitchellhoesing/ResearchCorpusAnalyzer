@@ -1,0 +1,1 @@
+bABSTRACTn Most graphical user interfaces provide visual cursors to facilitate interaction with input devices such as mice pointers and pens

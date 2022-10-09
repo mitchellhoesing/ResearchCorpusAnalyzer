@@ -1,0 +1,1 @@
+bABSTRACTnnModern mobile operating systems implement an askonfirstuse policy to regulate applications access to private user datanthe user is prompted to allow or deny access to a sensitive resource the first time an app attempts to use it

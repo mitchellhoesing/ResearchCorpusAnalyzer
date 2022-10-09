@@ -1,0 +1,1 @@
+bABSTRACTn We present ProbUI a mobile touch GUI framework that merges ease of use of declarative gesture definition with the benefits of probabilistic reasoning

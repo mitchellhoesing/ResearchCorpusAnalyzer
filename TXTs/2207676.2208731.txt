@@ -1,0 +1,1 @@
+bABSTRACTn Haptic devices that provide robust and realistic force feedback are generally grounded to counterweight the applied force prohibiting their use in mobile devices

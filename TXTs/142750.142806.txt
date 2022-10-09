@@ -1,0 +1,1 @@
+bABSTRACTnnBuilding an interactive application involves the design of both a data model and a graphical user interface GUI to present that model to the user

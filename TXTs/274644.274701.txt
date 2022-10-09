@@ -1,0 +1,1 @@
+bABSTRACTn DIVA supports exploratory data analysis of multimedia streams enabling users to visualize explore and evaluate patterns in data that change over time

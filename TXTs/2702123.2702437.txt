@@ -1,0 +1,1 @@
+bABSTRACTnnBlind people often seek answers to their visual questions from remote sources however the commonly adopted singleimage singleresponse model does not always guarantee enough bandwidth between users and sources

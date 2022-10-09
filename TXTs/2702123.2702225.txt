@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents Platener a system that allows quickly fabricating intermediate design iterations of 3D models a process also known as lowfidelity fabrication

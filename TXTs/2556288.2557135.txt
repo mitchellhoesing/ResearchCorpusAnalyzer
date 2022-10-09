@@ -1,0 +1,1 @@
+bABSTRACTn Low power helper cores have been increasingly included on application processors to accomplish low intensity tasks such as music playing and motion sensing with minimum energy consumption

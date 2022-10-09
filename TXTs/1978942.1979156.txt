@@ -1,0 +1,1 @@
+bABSTRACTn Whereas the literature is clear on the benefits of large displays and visualizations little is known about their combination that is how display size affect the usability of visualizations

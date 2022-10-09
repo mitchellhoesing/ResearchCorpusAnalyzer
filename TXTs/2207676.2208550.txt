@@ -1,0 +1,1 @@
+bABSTRACTn We present QuickDraw a prototype sketchbased drawing tool that facilitates drawing of precise geometry diagrams that are often drawn by students and academics in several scientific disciplines

@@ -1,0 +1,1 @@
+bABSTRACTnnCurrent touch devices such as capacitive touchscreens are based on the implicit assumption that users acquire targets with the center of the contact area between finger and device

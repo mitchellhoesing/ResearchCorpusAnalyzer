@@ -1,0 +1,1 @@
+bABSTRACTnnMenus are largely formatted in a linear fashion listing items from the top to bottom of the screen or window

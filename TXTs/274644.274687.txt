@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we descnoe the implementation of a novel system which enables a user to carve a simple freestanding electronic lwwgraphic image using a forcefeedback device

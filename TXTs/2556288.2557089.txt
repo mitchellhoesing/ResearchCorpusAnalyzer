@@ -1,0 +1,1 @@
+bABSTRACTnnBlur in images can create the sensation of depth because it emulates an optical property of the eye namely the limited depth of field created by the eyes lens

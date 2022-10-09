@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper demonstrates how nonisomorphic rotational mappings and interaction techniques can be designed and used to build effective spatial 30 user interfaces

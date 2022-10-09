@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper introduces an input and output device that enables illumination bidirectional data communication and position sensing on a soft cloth

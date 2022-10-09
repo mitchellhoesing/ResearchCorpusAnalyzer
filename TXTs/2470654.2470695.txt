@@ -1,0 +1,1 @@
+bABSTRACTnnWe investigate how to seamlessly bridge the gap between users and distant displays for basic interaction tasks such as object selection and manipulation

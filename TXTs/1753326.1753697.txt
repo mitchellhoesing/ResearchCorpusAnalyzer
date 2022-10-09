@@ -1,0 +1,1 @@
+bABSTRACTnnMouseLight is a spatiallyaware standalone mobile projector with the form factor of a mouse that can be used in combination with digital pens on paper

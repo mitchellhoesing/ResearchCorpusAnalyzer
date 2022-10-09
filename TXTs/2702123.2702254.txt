@@ -1,0 +1,1 @@
+bABSTRACTn The main appeal of touch floors is that they are the only direct touch form factor that scales to arbitrary size therefore allowing direct touch to scale to very large numbers of display objects

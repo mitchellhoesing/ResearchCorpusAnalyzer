@@ -1,0 +1,1 @@
+bABSTRACTn Current solutions for enabling touch interaction on existing nontouch LCD screens require adding additional sensors to the interaction surface

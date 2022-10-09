@@ -1,0 +1,1 @@
+bABSTRACTnnWhen users wish to establish wireless radio communication betweenamong their devices the channel has to be bootstrapped first

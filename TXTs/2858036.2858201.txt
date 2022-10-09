@@ -1,0 +1,1 @@
+bABSTRACTnnBimanual pen and touch UIs are mainly based on the direct manipulation paradigm

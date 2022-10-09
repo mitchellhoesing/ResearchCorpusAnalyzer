@@ -1,0 +1,1 @@
+bABSTRACTnnAn important question for HumanComputer Interaction is to understand how and why visual search strategy is adapted to the demands imposed by the task of searching the results of a search engine

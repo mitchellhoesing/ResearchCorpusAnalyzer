@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper presents Cyclops a singlepiece wearable device that sees its users whole body postures through an egocentric view of the user that is obtained through a fisheye lens at the center of the users body allowing it to see only the users limbs and interpret body postures effectively

@@ -1,0 +1,1 @@
+bABSTRACTnnColor is commonly used to represent categories and values in many computer applications but differentiating these colors can be difficult in many situations e

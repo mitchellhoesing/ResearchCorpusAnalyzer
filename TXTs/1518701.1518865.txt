@@ -1,0 +1,1 @@
+bABSTRACTnnWe explore the use of multifinger input to emulate full mouse functionality such as the tracking state three buttons and chording

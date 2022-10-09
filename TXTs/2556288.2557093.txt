@@ -1,0 +1,1 @@
+bABSTRACTn This paper presents a novel mathematical model for visual search and selection time in linear menus

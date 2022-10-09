@@ -1,0 +1,1 @@
+bABSTRACTnnDespite the ubiquity of touchbased input and the availability of increasingly computationally powerful touchscreen devices there has been comparatively little work on enhancing basic canonical gestures such as swipetopan and pinchtozoom

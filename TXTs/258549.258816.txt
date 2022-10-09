@@ -1,0 +1,1 @@
+bABSTRACTn We report on users rev1s1tation patterns to World Wide Web pages and use these to lay an empirical foundation for the design of history mechanisms in web browsers

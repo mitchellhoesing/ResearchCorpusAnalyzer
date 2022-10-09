@@ -1,0 +1,1 @@
+bABSTRACTn Current touch devices are adept at tracking finger touches but cannot distinguish if multiple touches are caused by different fingers on a single hand by fingers from both hands of a single user or by different users

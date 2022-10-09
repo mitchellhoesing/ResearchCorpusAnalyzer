@@ -1,0 +1,1 @@
+bABSTRACTnnAlthough current online chat environments provide new opportunities for communication they are quite constrained in their ability to convey many important pieces of social information ranging from the number of participants in a conversation to the subtle nuances of expression that enrich face to face speech

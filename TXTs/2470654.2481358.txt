@@ -1,0 +1,1 @@
+bABSTRACTn We present LaserOrigami a rapid prototyping system that produces 3D objects using a laser cutter

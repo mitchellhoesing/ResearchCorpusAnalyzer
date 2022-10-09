@@ -1,0 +1,1 @@
+bABSTRACTnnThe primary concern in designing an interface for an electronic trading system is the impact on market liquidity

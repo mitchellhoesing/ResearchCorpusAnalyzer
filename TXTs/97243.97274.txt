@@ -1,0 +1,1 @@
+bABSTRACTnnShell is a visual user interface for interaction using gestmes under the UNIX operating system

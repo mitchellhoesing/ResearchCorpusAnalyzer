@@ -1,0 +1,1 @@
+bABSTRACTn IBM Community Tools ICT is a synchronous broadcast messaging system in use by a very large globally distributed organization

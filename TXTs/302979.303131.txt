@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper explores how contact points or coreferences between an animation and text should be designed in web pages

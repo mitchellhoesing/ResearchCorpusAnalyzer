@@ -1,0 +1,1 @@
+bABSTRACTn We explore the design space for using object motion trajectories to create and edit visual elements in various media across space and time

@@ -1,0 +1,1 @@
+bABSTRACTn This paper presents the design implementation and evaluation of an interactive tabletop system that supports colocated meeting capture and asynchronous search and review of past meetings

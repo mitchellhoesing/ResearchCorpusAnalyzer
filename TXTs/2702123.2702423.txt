@@ -1,0 +1,1 @@
+bABSTRACTnnTo test paper prototypes of mobile applications we have been experimenting with remote paper prototype testing as an approach and tool for enabling a designer to wizard a paper prototype from afar while a user tests the prototype out of the lab

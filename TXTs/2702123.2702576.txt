@@ -1,0 +1,1 @@
+bABSTRACTnnWe introduce a mixedmethods approach for determining how people weigh tradeoffs in values related to health and technologies for health selfmanagement

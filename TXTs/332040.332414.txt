@@ -1,0 +1,1 @@
+bABSTRACTnnModel simplification researchers require quality heuristics to guide simplification and quality predictors to allow comparison of different simplification algorithms

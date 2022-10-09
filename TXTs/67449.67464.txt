@@ -1,0 +1,1 @@
+bABSTRACTnnWe present an approach to programming environments that integrates syntaxdirected editors with concepts borrowed from software reuse

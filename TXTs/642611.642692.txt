@@ -1,0 +1,1 @@
+bABSTRACTnnAudio is presented ahead of video in some videoconferencing systems since audio requires less time to process

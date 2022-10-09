@@ -1,0 +1,1 @@
+bABSTRACTn Past studies of user behavior in Web search have correlated eyegaze and mouse cursor positions and other lines of research have found cursor interactions to be useful in determining user intent and relevant parts of Web pages

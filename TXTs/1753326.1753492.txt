@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we compare the impact of two different privacy policy representations  AudienceView and Expandable Grids  on users modifying privacy policies for a social network site

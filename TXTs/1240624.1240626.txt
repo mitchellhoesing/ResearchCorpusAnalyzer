@@ -1,0 +1,1 @@
+bABSTRACTnnThe use of embodied agents defined as visual humanlike representations accompanying a computer interface is becoming prevalent in applications ranging from educational software to advertisements

@@ -1,0 +1,1 @@
+bABSTRACTn We describe Livenotes a shared whiteboard system and educational practice that uses wireless communication and tablet computing to support realtime conversations within small groups of students during lectures independent of class size

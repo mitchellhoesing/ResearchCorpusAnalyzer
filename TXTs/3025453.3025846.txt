@@ -1,0 +1,1 @@
+bABSTRACTnnWe introduce interaction proxies as a strategy for runtime repair and enhancement of the accessibility of mobile applications

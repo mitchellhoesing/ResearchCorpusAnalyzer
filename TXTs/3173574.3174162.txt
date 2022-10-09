@@ -1,0 +1,1 @@
+bABSTRACTnnIn recent years the entitycomponentsystem pattern has become a fundamental feature of the software architectures of gamedevelopment environments such as Unity and Unreal which are used extensively in developing 3D user interfaces

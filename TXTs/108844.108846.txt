@@ -1,0 +1,1 @@
+bABSTRACTnnTraditional programming language design has focussed on efficiency and expressiveness with minimal attention to the ease with which a programmer can translate task requirements into statements in the language a characteristic we call facility

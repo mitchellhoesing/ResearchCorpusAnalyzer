@@ -1,0 +1,1 @@
+bABSTRACTn Automated detection of excessive visual search ES experienced by a user during software use presents the potential for substantial improvement in the efficiency of supervised usability analysis

@@ -1,0 +1,1 @@
+bABSTRACTn The advent of secondgeneration intelligent computer tutors raises an important instructional design question when should tutorial advice be presented in problem solving This paper examines four feedback conditions in the ACT Programming Tutor

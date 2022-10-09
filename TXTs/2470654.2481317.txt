@@ -1,0 +1,1 @@
+bABSTRACTn Although advances in touchscreen technology have provided us with more precise devices touchscreens are still laden with latency issues

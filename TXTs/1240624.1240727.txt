@@ -1,0 +1,1 @@
+bABSTRACTnnRetrieving the stylus of a penbased device takes time and requires a second hand

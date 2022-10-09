@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper reports on two experiments designed to further our understanding of users perception of latency in touchbased systems

@@ -1,0 +1,1 @@
+bABSTRACTnnThe design of applications using mobile devices needs a different quality assessment than those known for desktop applications

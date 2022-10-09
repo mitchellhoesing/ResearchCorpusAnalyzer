@@ -1,0 +1,1 @@
+bABSTRACTnnSelections and actions in GUIs are often separated  i

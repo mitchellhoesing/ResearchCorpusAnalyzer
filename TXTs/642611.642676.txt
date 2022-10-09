@@ -1,0 +1,1 @@
+bABSTRACTn This paper introduces new interactive ways to create manipulate and analyze shapes even when those shapes do not have simple algebraic generators

@@ -1,0 +1,1 @@
+bABSTRACTn Visionbased interfaces such as those made popular by the Microsoft Kinect suffer from the Midas Touch problem every user motion can be interpreted as an interaction

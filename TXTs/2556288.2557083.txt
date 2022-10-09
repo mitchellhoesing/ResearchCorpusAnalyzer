@@ -1,0 +1,1 @@
+bABSTRACTnnMonadic exploration is a new approach to interacting with relational information spaces that challenges the distinction between the whole and its parts

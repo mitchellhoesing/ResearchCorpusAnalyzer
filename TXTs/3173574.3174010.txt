@@ -1,0 +1,1 @@
+bABSTRACTnnA common objective for contextaware computing systems is to predict how user interfaces impact user performance regarding their cognitive capabilities

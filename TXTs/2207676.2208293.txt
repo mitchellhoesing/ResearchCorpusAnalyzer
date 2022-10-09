@@ -1,0 +1,1 @@
+bABSTRACTn Exploring large network datasets such as scientific collaboration networks is challenging because they often contain a large number of nodes and edges in several types and with multiple attributes

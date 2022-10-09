@@ -1,0 +1,1 @@
+bABSTRACTn We consider social media as a promising tool for public health focusing on the use of Twitter posts to build predictive models about the influence of childbirth on the forthcoming behavior and mood of new mothers

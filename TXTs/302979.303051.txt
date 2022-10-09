@@ -1,0 +1,1 @@
+bABSTRACTnnHuman interfaces are usually designed to respond only to intentional human behaviors

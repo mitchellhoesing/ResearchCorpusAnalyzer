@@ -1,0 +1,1 @@
+bABSTRACTnnWe present a novel method called motionpointingfor selecting a set of visual items such as pushbuttons without actually pointing to them

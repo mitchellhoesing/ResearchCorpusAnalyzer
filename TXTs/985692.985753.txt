@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper sums up lessons learned from a sequence of cooperative design workshops where end users were enabled to design mobile systems through scenario building role playing and lowfidelity prototyping

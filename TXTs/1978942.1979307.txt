@@ -1,0 +1,1 @@
+bABSTRACTnnWe present Surfpad a pointing facilitation technique that does not decrease target distance or increase target width in either control or display space

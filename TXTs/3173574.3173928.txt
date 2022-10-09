@@ -1,0 +1,1 @@
+bABSTRACTnnWe contribute SurfaceConstellations a modular hardware platform for linking multiple mobile devices to easily create novel crossdevice workspace environments

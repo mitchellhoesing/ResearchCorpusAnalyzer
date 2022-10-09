@@ -1,0 +1,1 @@
+bABSTRACTn Peoples ability to remember and recall spatial information can be harnessed to improve navigation and search performances in interactive systems

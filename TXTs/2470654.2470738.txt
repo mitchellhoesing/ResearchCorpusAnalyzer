@@ -1,0 +1,1 @@
+bABSTRACTn We introduce the term shape resolution which adds to the existing definitions of screen and touch resolution

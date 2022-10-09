@@ -1,0 +1,1 @@
+bABSTRACTn We developed intelligent functions for the automatic description of video structure and visualization methods for temporalspatial video structures obtained by these functions as well as for the functions

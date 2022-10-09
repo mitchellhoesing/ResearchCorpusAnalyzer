@@ -1,0 +1,1 @@
+bABSTRACTn Two branches of the trend towards agents that are gaining currency are interface agents software that actively assists a user in operating an interactive interface and autonomous agents software that talces action without user intervention and operates concurrently either while the user is idle or taking other actions

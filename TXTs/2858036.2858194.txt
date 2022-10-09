@@ -1,0 +1,1 @@
+bABSTRACTnnThe development of robust methods to identify which finger is causing each touch point called finger identification will open up a new input space where interaction designers can associate system actions to different fingers

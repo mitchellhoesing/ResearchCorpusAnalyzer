@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper addresses interaction in multisurface environments and questions whether the current applicationcentric approaches to user interfaces are adequate in this context and presents an alternative approach based on instrumental interaction

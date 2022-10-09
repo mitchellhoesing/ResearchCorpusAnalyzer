@@ -1,0 +1,1 @@
+bABSTRACTnnIt is generally assumed that touch input cannot be accurate because of the fat finger problem i

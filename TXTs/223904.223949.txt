@@ -1,0 +1,1 @@
+bABSTRACTnnMany interfaces allow users to manipulate graphical objects icons representing underlying data or the data themselves against a spatial backdrop or canvas

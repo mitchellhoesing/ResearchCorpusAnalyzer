@@ -1,0 +1,1 @@
+bABSTRACTn Enabling phones to infer whether they are currently in a pocket purse or on a table facilitates a range of new interactions from placementdependent notifications setting to preventing pocket dialing

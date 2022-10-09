@@ -1,0 +1,1 @@
+bABSTRACTnnInformation foraging models have predicted the navigation paths of people browsing the web and more recently of programmers while debugging but these models do not explicitly model users goals evolving over time

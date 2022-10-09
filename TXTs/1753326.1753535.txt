@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we describe the design of a personal cubic display that offers novel interaction techniques for static and dynamic 3D content

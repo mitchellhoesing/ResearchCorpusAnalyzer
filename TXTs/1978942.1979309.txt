@@ -1,0 +1,1 @@
+bABSTRACTnnDespite the prominence of multitouch technologies there has been little work investigating its integration into the desktop environment

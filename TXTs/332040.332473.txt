@@ -1,0 +1,1 @@
+bABSTRACTn This article introduces a new interaction model called Instrumental Interaction that extends and generalizes the principles of direct manipulation

@@ -1,0 +1,1 @@
+bABSTRACTnnMost windowing systems follow the independent overlapping windows approach which emerged as an answer to the needs of the 1980s technology

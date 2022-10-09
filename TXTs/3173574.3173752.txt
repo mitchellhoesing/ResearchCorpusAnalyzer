@@ -1,0 +1,1 @@
+bABSTRACTnnWe introduce FingerT9 leveraging the action of thumbtofinger touching on the finger segments to support samesidehand SSH text entry on smartwatches

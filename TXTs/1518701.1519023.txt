@@ -1,0 +1,1 @@
+bABSTRACTnnContextaware intelligent systems employ implicit inputs and make decisions based on complex rules and machine learning models that are rarely clear to users

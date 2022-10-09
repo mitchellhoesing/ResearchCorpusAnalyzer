@@ -1,0 +1,1 @@
+bABSTRACTn We present a novel application which integrates handwriting and recorded audio in a semiportable device It allows users to straightforwardly access particular points in recorded spontaneous speech via handwritten notes using temporal indexing

@@ -1,0 +1,1 @@
+bABSTRACTnnThis paper reports on the development of a hand to machine interface device that provides realtime gesture position and orientation information

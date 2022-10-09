@@ -1,0 +1,1 @@
+bABSTRACTn We present FollowMyLead an alternative indoor navigation technique that uses visual information recorded on an actual navigation path as a navigational guide

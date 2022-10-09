@@ -1,0 +1,1 @@
+bABSTRACTnnOne of the fundamental operations in todays user interfaces is pointing to targets such as menus buttons and text

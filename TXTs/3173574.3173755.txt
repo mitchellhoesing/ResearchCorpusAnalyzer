@@ -1,0 +1,1 @@
+bABSTRACTnnWe present WrisText  a onehanded text entry technique for smartwatches using the joysticklike motion of the wrist

@@ -1,0 +1,1 @@
+bABSTRACTn The translation and rotation of objects with two fingers is a wellexplored multitouch technique

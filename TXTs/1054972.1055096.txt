@@ -1,0 +1,1 @@
+bABSTRACTn This paper describes a new collaboration technology that is based on the support of lightweight informally structured opportunistic activities featuring heterogeneous threads of shared items with dynamic membership

@@ -1,0 +1,1 @@
+bABSTRACTn To precisely understand human gaze behaviors in threeparty conversations this work is dedicated to look into whether the speaker can be reliably identified from the interlocutors in a threeparty conversation on the basis of the interactive behaviors of eye contact where speech signals are not provided

@@ -1,0 +1,1 @@
+bABSTRACTnnMultifocus distortionoriented views are useful in viewing large information on a small screen but still have problems in managing multiple foci during editing

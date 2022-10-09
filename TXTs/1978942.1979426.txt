@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we explore the potential and limitations of vibrotactile displays in practical wearable applications by comparing users detection rate and response time to stimuli applied across the body in varied conditions

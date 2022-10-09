@@ -1,0 +1,1 @@
+bABSTRACTn We present CO3DEATOR a sketchbased collaborative 3D modeling system based on the notion of teamfirst ideation tools where the needs and processes of the entire design team come before that of an individual designer

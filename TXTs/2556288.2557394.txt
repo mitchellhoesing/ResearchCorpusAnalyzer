@@ -1,0 +1,1 @@
+bABSTRACTn We present skWiki a web application framework for collaborative creativity in digital multimedia projects including text handdrawn sketches and photographs

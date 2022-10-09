@@ -1,0 +1,1 @@
+bAbstractnnA model of manuscript editing implemented as a simulation proyram is described in this paper

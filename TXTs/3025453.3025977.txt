@@ -1,0 +1,1 @@
+bABSTRACTn Research into creating visualisations that organise ideas into concise concept maps often focuses on implicit mathematical and statistical theories which are built around algorithmic efficacy or visual complexity

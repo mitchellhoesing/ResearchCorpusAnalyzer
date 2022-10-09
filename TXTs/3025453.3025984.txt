@@ -1,0 +1,1 @@
+bABSTRACTn By exploiting visual popout effects interface designers can rapidly draw a users attention to salient information objects in a display

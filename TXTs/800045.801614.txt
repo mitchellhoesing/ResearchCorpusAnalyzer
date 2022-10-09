@@ -1,0 +1,1 @@
+bAbstractnnThe organization of text editing behavior can be characterized by graph structures containing goals subgoals goal outcomes and actions

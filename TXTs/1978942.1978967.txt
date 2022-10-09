@@ -1,0 +1,1 @@
+bABSTRACTn Extracting useful knowledge from large network datasets has become a fundamental challenge in many domains from scientific literature to social networks and the web

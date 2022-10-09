@@ -1,0 +1,1 @@
+bABSTRACTn In this paper we present XSide an authentication mechanism that uses the front and the back of smartphones to enter strokebased passwords

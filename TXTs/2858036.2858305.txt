@@ -1,0 +1,1 @@
+bABSTRACTnnMobile keyboards often present error corrections and word completions suggestions as candidates for anticipated user input

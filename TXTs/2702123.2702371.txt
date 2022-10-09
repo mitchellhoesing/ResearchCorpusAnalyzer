@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we present zSense which provides greater input expressivity for spatially limited devices such as smart wearables through a shallow depth gesture recognition system using nonfocused infrared sensors

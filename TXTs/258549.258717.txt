@@ -1,0 +1,1 @@
+bABSTRACTn This article reports our reflection on software architecture modelling for multiuser systems or groupware

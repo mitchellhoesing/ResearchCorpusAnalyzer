@@ -1,0 +1,1 @@
+bAbstractnnDiamondSpin is a toolkit for the efficient prototyping of and experimentation with multiperson concurrent interfaces for interactive shared displays

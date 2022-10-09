@@ -1,0 +1,1 @@
+bABSTRACTnnWe present the seePuck a round display module that extends an open robot platform the ePuck

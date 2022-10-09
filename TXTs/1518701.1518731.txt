@@ -1,0 +1,1 @@
+bABSTRACTnnWe present a system whereby the human voice may specify continuous control signals to manipulate a simulated 2Dnrobotic arm and a real 3D robotic arm

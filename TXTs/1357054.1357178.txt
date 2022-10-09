@@ -1,0 +1,1 @@
+bABSTRACTnnMultimonitor displays and multidisplay environments are now common

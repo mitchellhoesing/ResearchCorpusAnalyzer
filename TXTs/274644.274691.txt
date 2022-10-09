@@ -1,0 +1,1 @@
+bABSTRACTn Three methods of implementing the select operation on touchpads were compared

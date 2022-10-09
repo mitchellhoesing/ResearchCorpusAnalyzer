@@ -1,0 +1,1 @@
+bABSTRACTnnIn this paper we explore the concept of a sparse peripheral display which augments the fieldofview of a headmounted display with a lightweight lowresolution inexpensively produced array of LEDs surrounding the central highresolution display

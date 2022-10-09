@@ -1,0 +1,1 @@
+bABSTRACTnnText analytics an increasingly important application domain is hampered by the high barrier to entry due to the many conceptual difficulties novice developers encounter

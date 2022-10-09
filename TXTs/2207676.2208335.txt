@@ -1,0 +1,1 @@
+bABSTRACTnnWe present a novel yet simple technique that mitigates the interference caused when multiple structured light depth cameras point at the same part of a scene

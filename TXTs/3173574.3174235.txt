@@ -1,0 +1,1 @@
+bABSTRACTnnPicking values from long ordered lists such as when setting a date or time is a common task on smartphones

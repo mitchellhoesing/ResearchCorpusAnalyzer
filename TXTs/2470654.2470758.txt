@@ -1,0 +1,1 @@
+bABSTRACTnnObject handoff  that is passing an object or tool to another person  is an extremely common activity in collaborative tabletop work
