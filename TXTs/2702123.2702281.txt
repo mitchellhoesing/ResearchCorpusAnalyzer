@@ -1,1 +1,0 @@
-bABSTRACTnnCreating and utilizing simple links between items and locations in mapbased systems has become a mainstream component of modern computing

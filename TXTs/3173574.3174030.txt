@@ -1,1 +1,0 @@
-bABSTRACTnnDespite the additional protection it affords twofactor authentication 2FA adoption reportedly remains low

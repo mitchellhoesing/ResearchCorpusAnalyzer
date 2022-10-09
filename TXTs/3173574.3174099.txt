@@ -1,1 +1,0 @@
-bABSTRACTnnINTRODUCTIONnnWe present a new handheld haptic device Thors Hammer which uses propeller propulsion to generate ungrounded 3DOF force feedback

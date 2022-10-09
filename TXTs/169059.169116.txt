@@ -1,1 +1,0 @@
-bABSTRACTnnThe HumanMachine Perceptual Cooperation HMPC paradigm combines a human operators high level reasoning with machine perception to solve spatioperceptual intensive problems

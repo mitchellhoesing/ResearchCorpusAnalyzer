@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper investigates using stroke gestures as shortcuts to menu selection

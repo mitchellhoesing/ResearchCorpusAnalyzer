@@ -1,1 +1,0 @@
-bABSTRACTnnA longstanding challenge in videomediated communication systems is to represent a remote participants gaze direction in local environments correctly

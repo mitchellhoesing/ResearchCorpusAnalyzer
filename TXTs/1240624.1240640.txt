@@ -1,1 +1,0 @@
-bABSTRACTnnThe results presented in this paper illustrate how a specific map visualization technique is sensitive to setting a comparative evaluation of the technique gives conflicting results depending on where it takes place

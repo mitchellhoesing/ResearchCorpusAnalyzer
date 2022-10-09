@@ -1,1 +1,0 @@
-bABSTRACTn Spatial datasets such as tweets in a geographic area often exhibit different distribution patterns at multiple levels of scale such as live updates about events occurring in very specific locations on the map

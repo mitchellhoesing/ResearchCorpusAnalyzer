@@ -1,1 +1,0 @@
-bABSTRACTn Observing trends and predicting future values are common tasks for viewers of bivariate data visualizations

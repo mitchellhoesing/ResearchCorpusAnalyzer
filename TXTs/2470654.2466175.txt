@@ -1,1 +1,0 @@
-bABSTRACTn HomeProxy is a research prototype that explores supporting video communication in the home among distributed family members through a physical proxy

@@ -1,1 +1,0 @@
-bABSTRACTnnis paper presents Dream Lens an interactive visual analysis tool for exploring and visualizing largescale generative design datasets

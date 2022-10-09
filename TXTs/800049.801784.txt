@@ -1,1 +1,0 @@
-bABSTRACTnnThe readability of a computer program has recently attained a high level of interest deriving in part from its expected close relationship with program maintainability debugging and modification expenses are understood to account for a large proportion of software costs over the life of the software

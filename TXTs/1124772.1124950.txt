@@ -1,1 +1,0 @@
-bABSTRACTnnDesigning collaborative interfaces for tabletops remains difficult because we do not fully understand how groups coordinate their actions when working collaboratively over tables

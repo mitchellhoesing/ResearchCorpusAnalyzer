@@ -1,1 +1,0 @@
-bABSTRACTnnWe present BezelTap Gestures a novel family of interaction techniques for immediate interaction on handheld tablets regardless of whether the device is alive or in sleep mode

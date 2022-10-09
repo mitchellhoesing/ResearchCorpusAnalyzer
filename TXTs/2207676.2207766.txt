@@ -1,1 +1,0 @@
-bABSTRACTnnWe first conduct a study using abstracted video content to measure the effects of latency on video scrubbing performance and find that even very small amounts of latency can significantly degrade navigation performance

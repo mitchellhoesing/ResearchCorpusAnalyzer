@@ -1,1 +1,0 @@
-bABSTRACTn Gestures have recently gained interest as a secure and usable authentication method for mobile devices

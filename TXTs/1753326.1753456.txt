@@ -1,1 +1,0 @@
-bABSTRACTnnGesturebased interfaces provide expert users with an efficient form of interaction but they require a learning effort for novice users

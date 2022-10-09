@@ -1,1 +1,0 @@
-bABSTRACTnnAn essential goal of quantitative color encoding is the accurate mapping of perceptual dimensions of color to the logical structure of data

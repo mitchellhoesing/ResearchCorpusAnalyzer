@@ -1,1 +1,0 @@
-bABSTRACTnnTouchbased tablet UIs provide few shortcut mechanisms for rapid command selection as a result command selection on tablets often requires slow traversal of menus

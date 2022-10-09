@@ -1,1 +1,0 @@
-bABSTRACTn This paper describes the implementation of semantic snapping an interaction technique that provides semantic feedback at the lexical level while dragging a graphical object on the screen

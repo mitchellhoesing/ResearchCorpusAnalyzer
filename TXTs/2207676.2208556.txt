@@ -1,1 +1,0 @@
-bABSTRACTn Visualizations often seek to aid viewers in assessing the big picture in the data that is to make judgments about aggregate properties of the data

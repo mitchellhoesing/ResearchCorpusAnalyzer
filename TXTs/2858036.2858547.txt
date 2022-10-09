@@ -1,1 +1,0 @@
-bABSTRACTnnThe memorability of multiple passwords is an important topic for user authentication systems

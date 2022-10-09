@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents a system for interacting with digital information called Triangles

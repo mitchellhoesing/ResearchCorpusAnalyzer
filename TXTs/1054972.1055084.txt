@@ -1,1 +1,0 @@
-bABSTRACTn MultiView is a new video conferencing system that supports collaboration between remote groups of people

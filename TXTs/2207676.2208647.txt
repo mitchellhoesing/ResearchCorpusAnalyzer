@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we describe an experiment designed to evaluate the effectiveness of three interfaces for surveillance or remote control using live 360degree video feeds from a person or vehicle in the field

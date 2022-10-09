@@ -1,1 +1,0 @@
-bABSTRACTnnDomestic ubiquitous computing systems often rely on inferences about activities in the home but the openended dynamic and heterogeneous nature of the home poses serious problems for such systems

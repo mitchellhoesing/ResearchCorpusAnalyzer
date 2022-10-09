@@ -1,1 +1,0 @@
-bABSTRACTnnWhen designing and evaluating incar user interfaces for drivers it is essential to determine what effects these interfaces may have on driver behavior and performance

@@ -1,1 +1,0 @@
-bABSTRACTnnText entry experiments evaluating the effectiveness of various input techniques often employ a procedure whereby users are prompted with natural language phrases which they are instructed to enter as stimuli

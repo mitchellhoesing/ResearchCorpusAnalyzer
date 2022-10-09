@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we propose a mixedinitiative approach to integrate a QA site based on a crowd of volunteers with a standard operatorbased help desk ensuring quality of customer service

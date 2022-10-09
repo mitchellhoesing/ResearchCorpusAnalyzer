@@ -1,1 +1,0 @@
-bABSTRACTn Rohs and Oulasvirta 2008 proposed a twocomponent Fitts law model for target acquisition with magic lenses in mobile augmented reality AR with 1 a physical pointing phase in which the target can be directly observed on the background surface and 2 a virtual pointing phase in which the target can only be observed through the device display

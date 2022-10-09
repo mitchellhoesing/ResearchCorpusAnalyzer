@@ -1,1 +1,0 @@
-bABSTRACTnnThe purpose of this paper is to introduce a replicablenWWW protocol analysis methodology illustrated by application to data collected in the laboratory

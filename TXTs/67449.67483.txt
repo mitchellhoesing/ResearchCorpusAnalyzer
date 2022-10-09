@@ -1,1 +1,0 @@
-bABSTRACTnnA method for selecting graphical objects with a mouse by circling them is described

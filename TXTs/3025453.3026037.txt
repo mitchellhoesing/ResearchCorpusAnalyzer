@@ -1,1 +1,0 @@
-bABSTRACTn BCIs are presumably supposed to require the full attention of their users and to lose accuracy if they pay attention to another task

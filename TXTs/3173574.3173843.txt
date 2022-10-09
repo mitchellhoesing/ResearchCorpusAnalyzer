@@ -1,1 +1,0 @@
-bAbstractnnINTRODUCTIONnnWe present OptiSpace a system for the automated placement of perspectively corrected projection mapping content

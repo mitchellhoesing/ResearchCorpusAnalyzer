@@ -1,1 +1,0 @@
-bABSTRACTn We explore how to add haptics to walls and other heavy objects in virtual reality

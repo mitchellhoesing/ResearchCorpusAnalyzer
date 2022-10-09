@@ -1,1 +1,0 @@
-bABSTRACTnnTerrain visibility analysis is a challenging task that is currently supported by complex digital tools with cumbersome interfaces

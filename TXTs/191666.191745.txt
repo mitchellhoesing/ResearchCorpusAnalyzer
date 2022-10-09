@@ -1,1 +1,0 @@
-bABSTRACTnnThis research examines spontaneous spoken disfluencies during humancomputer interaction presents a predictive model accounting for their occurrence and outlines interface techniques for minimizing disfluent input

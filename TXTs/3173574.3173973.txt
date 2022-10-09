@@ -1,1 +1,0 @@
-bABSTRACTnnApplicationcentric computing dominates humancomputer interactions yet the concept of an application is ambiguous and the impact of its ubiquity underexplored

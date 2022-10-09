@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we extensively evaluate the effectiveness of using a users social media activities for estimating degree of depression

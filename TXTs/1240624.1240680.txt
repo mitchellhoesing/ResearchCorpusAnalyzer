@@ -1,1 +1,0 @@
-bABSTRACTn PageLinker is a browser extension that contextualises navigation by linking web pages together and allows navigation through a network of related web pages without prior planning

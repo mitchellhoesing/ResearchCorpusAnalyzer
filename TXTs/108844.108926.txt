@@ -1,1 +1,0 @@
-bABSTRACTn Maximal repeating pattern MRP analysis is a recently developed user interface evaluation technique that uses an algorithm to analyze transcripts of user sessions by detecting repeated user actions

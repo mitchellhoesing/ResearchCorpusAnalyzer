@@ -1,1 +1,0 @@
-bABSTRACTnnSecurity toolbars in a web browser show securityrelated information about a website to help users detect phishing attacks

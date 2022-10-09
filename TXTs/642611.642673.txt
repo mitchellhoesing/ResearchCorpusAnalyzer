@@ -1,1 +1,0 @@
-bABSTRACTnnVirtual environments based on the desktop metaphor provide limited support for creating and managing projectspecific work contexts

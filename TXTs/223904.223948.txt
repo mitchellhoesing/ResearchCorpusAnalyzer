@@ -1,1 +1,0 @@
-bABSTRACTnnCurrently there are many hypertextlike tools and database retrieval systems that use keyword search as a means of navigation

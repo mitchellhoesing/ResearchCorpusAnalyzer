@@ -1,1 +1,0 @@
-bABSTRACTn We present Phone as a Pixel a scalable synchronizationfree platformindependent system for creating large adhoc displays from a collection of smaller devices

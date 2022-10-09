@@ -1,1 +1,0 @@
-bABSTRACTn This paper describes our design and implementation ofa computer augmented environment that allows users to smoothly interchange digital information among their portable computers table and wall displays and other physical objects

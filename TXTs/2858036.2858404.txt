@@ -1,1 +1,0 @@
-bABSTRACTnnWe present PACE a Personalized AutoCalibrating Eyetracking system that identifies and collects data unobtrusively from user interaction events on standard computing systems without the need for specialized equipment

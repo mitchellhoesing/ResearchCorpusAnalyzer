@@ -1,1 +1,0 @@
-bABSTRACTnnThe development of a large menubased interface to an operating system posed a number of interesting user interface questions

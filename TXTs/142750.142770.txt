@@ -1,1 +1,0 @@
-bABSTRACTn Increasing use of automation in computer systems such as advanced cockpits presents special challenges in the design of user interfaces

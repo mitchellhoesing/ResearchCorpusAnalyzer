@@ -1,1 +1,0 @@
-bABSTRACTnnWe present SurfaceLink a system where users can make natural surface gestures to control association and information transfer among a set of devices placed on a mutually shared surface e

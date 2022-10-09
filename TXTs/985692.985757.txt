@@ -1,1 +1,0 @@
-bABSTRACTnnA video stream from a single camera is often the foundation for situational awareness in teleoperation activities

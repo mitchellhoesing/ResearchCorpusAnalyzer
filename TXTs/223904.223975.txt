@@ -1,1 +1,0 @@
-bABSTRACTnnThis design briefing covers the major human interface design issues encountered in the development of thenCommon Desktop Environment Drag and DropnConvenience Application Programming Interface

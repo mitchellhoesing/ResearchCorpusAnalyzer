@@ -1,1 +1,0 @@
-bABSTRACTnnTo understand how implicit and explicit biofeedback work in games we developed a firstperson shooter FPS game to experiment with different biofeedback techniques

@@ -1,1 +1,0 @@
-bAbstractnnAn important component of adaptable interactive systems is the ability to model the systems users

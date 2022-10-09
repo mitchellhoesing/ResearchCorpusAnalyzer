@@ -1,1 +1,0 @@
-bABSTRACTnnApplications for viewing and editing 360 video often render user interface UI elements on top of the video

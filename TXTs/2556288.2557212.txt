@@ -1,1 +1,0 @@
-bABSTRACTnnWe provide a simple yet powerful demonstration of how an unobtrusive change to a graphical password interface can modify the distribution of user chosen passwords and thus possibly the security it provides

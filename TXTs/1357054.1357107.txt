@@ -1,1 +1,0 @@
-bABSTRACTnnWe evaluated two cursor designs in the continuum between the traditional point cursor and the bubble cursor by Grossman and Balakrishnan

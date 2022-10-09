@@ -1,1 +1,0 @@
-bABSTRACTnnThis work presents EgoScanning a video fastforwarding interface that helps users find important events from lengthy firstperson videos continuously recorded with wearable cameras

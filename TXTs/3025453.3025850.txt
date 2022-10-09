@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we analyze the role of physical scale models in the architectural design process and apply insights from architecture for the creation and use of data physicalizations

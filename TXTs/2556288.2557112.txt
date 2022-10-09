@@ -1,1 +1,0 @@
-bABSTRACTn Exploring large visualizations that do not fit in the screen raises orientation and navigation challenges

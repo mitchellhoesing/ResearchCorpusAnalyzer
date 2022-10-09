@@ -1,1 +1,0 @@
-bABSTRACTnnAlthough existing work has explored both information extraction and community content creation most research has focused on them in isolation

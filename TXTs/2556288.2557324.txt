@@ -1,1 +1,0 @@
-bABSTRACTn Being able to predict the performance of interface designs using models of human cognition and performance is a longstanding goal of HCI research

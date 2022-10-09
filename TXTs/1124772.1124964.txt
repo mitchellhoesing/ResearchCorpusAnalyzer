@@ -1,1 +1,0 @@
-bABSTRACTnnWe explore how the placement of control widgets such as menus affects collaboration and usability for colocated tabletop groupware applications

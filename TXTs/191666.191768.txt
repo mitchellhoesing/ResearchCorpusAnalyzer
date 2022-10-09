@@ -1,1 +1,0 @@
-bABSTRACTnnComputers require formally represented information to support users but users often cannot provide it

@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper explores a user interface technique which augments an immersive head tracked display with a handheld miniature copy of the virtual environment

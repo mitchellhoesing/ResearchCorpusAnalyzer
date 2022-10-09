@@ -1,1 +1,0 @@
-bABSTRACTnnAutonomous systems are designed to take actions on behalf of users acting autonomously upon data from sensors or online sources

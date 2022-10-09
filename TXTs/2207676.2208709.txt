@@ -1,1 +1,0 @@
-bABSTRACTnnWhile eye tracking has a high potential for fast selection tasks it is often regarded as errorprone and unnatural especially for gazeonly interaction

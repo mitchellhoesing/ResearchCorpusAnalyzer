@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we report on a fourmonth long field trial of ThoughtCloud a feedback collection platform that allows people to leave ratings and audio or video responses to simple prompts

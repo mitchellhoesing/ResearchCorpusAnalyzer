@@ -1,1 +1,0 @@
-bAbstractnnIn the development of a new interactive graphics application considerable effort was spent on designing a user interface which would be easy to use

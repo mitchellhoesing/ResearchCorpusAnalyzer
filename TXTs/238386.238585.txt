@@ -1,1 +1,0 @@
-bABSTRACTn User interfaces for color selection are based upon an underlying color model

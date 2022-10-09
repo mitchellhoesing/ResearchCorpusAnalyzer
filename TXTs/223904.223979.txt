@@ -1,1 +1,0 @@
-bABSTRACTnnThis Design Briefing tells the story of the design and implementation of Mailer an electronic mail application being built as part of the Common Desktop Environment anUNIXbased desktop

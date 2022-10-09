@@ -1,1 +1,0 @@
-bABSTRACTn The attention funnel is a general purpose AR interface technique that interactively guides the attention of a user to any object person or place in space

@@ -1,1 +1,0 @@
-bABSTRACTn Fitts pointing model has proven extremely useful for understanding basic selection in WIMP user interfaces

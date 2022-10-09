@@ -1,1 +1,0 @@
-bAbstractn Interactive user interfaces depend critically on underlying computing system facilities for input and output

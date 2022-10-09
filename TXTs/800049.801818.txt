@@ -1,1 +1,0 @@
-bOverviewrnThis paper presents what we believe to be a novel application of production systems to the modeling of complex humancomputer interaction

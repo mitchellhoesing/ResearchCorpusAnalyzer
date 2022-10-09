@@ -1,1 +1,0 @@
-bAbstractnnIt is widely believed that overlapping windows are preferable to tiled nonoverlapping ones

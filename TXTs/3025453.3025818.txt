@@ -1,1 +1,0 @@
-bABSTRACTn   Foraging among similar variants of the same artifact is a common activity but computational models of Information Foraging Theory IFT have not been developed to take such variants into account

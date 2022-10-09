@@ -1,1 +1,0 @@
-bABSTRACTn What does a user need to know to productively work with an intelligent agent Intelligent agents and recommender systems are gaining widespread use potentially creating a need for end users to understand how these systems operate in order to fix their agents personalized behavior

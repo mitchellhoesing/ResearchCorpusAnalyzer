@@ -1,1 +1,0 @@
-bABSTRACTnnCopy and move operations have long been supported by interactive desktops through various means

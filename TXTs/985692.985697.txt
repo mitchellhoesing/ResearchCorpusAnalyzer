@@ -1,1 +1,0 @@
-bABSTRACTnnContextaware applications are applications that implicitly take their context of use into account by adapting to changes in a users activities and environments

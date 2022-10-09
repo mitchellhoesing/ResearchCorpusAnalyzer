@@ -1,1 +1,0 @@
-bABSTRACTnnThe introduction of tabletop interfaces has given rise to the need for the development of secure and usable authentication techniques that are appropriate for the colocated collaborative settings for which they have been designed

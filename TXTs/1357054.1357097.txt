@@ -1,1 +1,0 @@
-bABSTRACTn We present DRAGON a direct manipulation interaction technique for frameaccurate navigation in video scenes

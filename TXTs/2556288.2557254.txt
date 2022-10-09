@@ -1,1 +1,0 @@
-bABSTRACTn Showing a live software demonstration during a talk can be engaging but it is often not easy presenters may struggle with or worry about unexpected software crashes and encounter issues such as mismatched screen resolutions or faulty network connectivity

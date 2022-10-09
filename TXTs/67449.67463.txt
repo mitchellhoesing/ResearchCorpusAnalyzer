@@ -1,1 +1,0 @@
-bABSTRACTnnEnd users who need to program within highly interactive directmanipulation interfaces should be able to communicate their intentions through concrete demonstration rather than in terms of symbolic abstraction

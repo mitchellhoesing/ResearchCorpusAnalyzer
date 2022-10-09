@@ -1,1 +1,0 @@
-bABSTRACTnnWe present an image guided penbased suggestive interface for sketching 3D wireframe models

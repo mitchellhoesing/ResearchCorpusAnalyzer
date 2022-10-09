@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents the interface design of the WorldBeat system an interactive exhibit about using computers in musical education and as musical instruments

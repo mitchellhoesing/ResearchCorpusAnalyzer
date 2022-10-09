@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce ephemeral adaptation a new adaptive GUIntechnique that improves performance by reducing visual search time while maintaining spatial consistency

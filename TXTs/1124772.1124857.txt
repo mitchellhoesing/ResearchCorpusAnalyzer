@@ -1,1 +1,0 @@
-bABSTRACTn CAM is a user interface toolkit that allows a cameraequipped mobile phone to interact with paper documents

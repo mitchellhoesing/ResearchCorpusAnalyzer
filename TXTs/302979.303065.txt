@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we discuss why in designing multiparty mediated systems we should focus first on providing nonverbal cues which are less redundantly coded in speech than those normally conveyed by video

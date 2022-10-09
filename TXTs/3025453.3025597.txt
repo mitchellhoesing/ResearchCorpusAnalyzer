@@ -1,1 +1,0 @@
-bABSTRACTnnExperimentation plays an essential role in exploratory programming and programmers apply version control operations when switching the part of the source code back to the past state during experimentation

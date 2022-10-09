@@ -1,1 +1,0 @@
-bIBM System58 An IBM Usability ExperiencenDavid E Peterson and J Howard BotterillnIBM CorporationnnnnnnnnnnnnnAlthough advancing technology is making more and more complex systems available to the smallsystem user the interfac between the user and such systems cannot become correspondingly more complex

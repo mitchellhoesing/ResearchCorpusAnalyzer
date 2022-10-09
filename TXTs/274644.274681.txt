@@ -1,1 +1,0 @@
-bABSTRACTnnTodays GUI interfaces require considerable visual attention for their operation

@@ -1,1 +1,0 @@
-bABSTRACTnnUnlike lab environments the existing environment is not built for smart applications but rather should be upgraded to support new technologies

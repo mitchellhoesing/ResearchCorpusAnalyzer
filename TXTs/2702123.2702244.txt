@@ -1,1 +1,0 @@
-bABSTRACTnnWe present the design and evaluation of the RolyPolynMouse RPM a rolling input device that combines the advantages of the mouse position displacement and of 3Dndevices roll and rotation to unify 2D and 3D interaction

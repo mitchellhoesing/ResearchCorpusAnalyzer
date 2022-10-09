@@ -1,1 +1,0 @@
-bABSTRACTn The input vocabulary for touchscreen interaction on handhelds is dramatically limited especially when the thumb must be used

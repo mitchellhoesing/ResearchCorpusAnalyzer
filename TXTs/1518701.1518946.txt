@@ -1,1 +1,0 @@
-bABSTRACTn Posttask ratings of difficulty in a usability test have the potential to provide diagnostic information and be an additional measure of user satisfaction

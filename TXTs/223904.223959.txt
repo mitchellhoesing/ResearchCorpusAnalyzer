@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents a reactive interface display which allows information seekers to explore complex information spaces

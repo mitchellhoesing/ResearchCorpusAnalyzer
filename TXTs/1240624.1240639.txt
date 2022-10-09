@@ -1,1 +1,0 @@
-bABSTRACTnnThe scalability of information visualizations has typically been limited by the number of available display pixels

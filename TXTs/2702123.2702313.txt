@@ -1,1 +1,0 @@
-bABSTRACTn Command and control environments ranging from transport control rooms to disaster response have long been of interest to HCI and CSCW as rich sites of interactive technology use embedded in work practice

@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents a systematic and general technique for establishing a set of motions suitable for use with sensor systems by drawing performable and measurable motions directly from users

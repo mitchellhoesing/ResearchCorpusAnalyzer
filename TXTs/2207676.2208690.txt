@@ -1,1 +1,0 @@
-bABSTRACTnnWhen multiple users are simultaneously sharing a workspace it is not always clear what should happen when a user invokes an undo action

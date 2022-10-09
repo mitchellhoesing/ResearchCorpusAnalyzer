@@ -1,1 +1,0 @@
-bABSTRACTnnThe Authors Interactive Dialogue EnvironmentnAIDE of the D 1 g ia o ue Management System is an integrated set of direct manipulation tools used by a dialogue author to design and implement humancomputer interfaces without writing source code

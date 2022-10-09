@@ -1,1 +1,0 @@
-bABSTRACTn Activitybased computing represents an alternative to the dominant application and documentcentric model at the foundation of most mainstream desktop computing interfaces

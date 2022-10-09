@@ -1,1 +1,0 @@
-bABSTRACTnnWhile singleaccelerometers are a common consumer embedded sensors their use in representing movement data as an intelligent resource remains scarce

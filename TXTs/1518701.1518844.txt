@@ -1,1 +1,0 @@
-bABSTRACTnnGesture recognition is emerging as an engaging interaction technique in mobile scenarios and high recognition rates promote user acceptance

@@ -1,1 +1,0 @@
-bABSTRACTn Graphical user interfaces are composed of varying elements text images etc

@@ -1,1 +1,0 @@
-bABSTRACTn We study the design of split keyboards for fast text entry with two thumbs on mobile touchscreen devices

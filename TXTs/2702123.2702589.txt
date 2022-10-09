@@ -1,1 +1,0 @@
-bABSTRACTnnIt can be difficult for a blind developer to understand and navigate through a large amount of code quickly as they are unable to skim as easily as their sighted counterparts

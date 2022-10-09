@@ -1,1 +1,0 @@
-bABSTRACTnnMultipoint interaction tasks involve the manipulation of several mutuallydependent control points in a visual workspace  for example adjusting a selection rectangle in a drawing application

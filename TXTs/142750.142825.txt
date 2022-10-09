@@ -1,1 +1,0 @@
-bABSTRACTnnA multiuser Virtual World has been implemented combining a flexibleobject simulator with a multisensory user interface including hand motion and gestures speech input and output sound output and 3D stereoscopic graphics with headmotion parallax The implementation is based on a distributed clientherver architecture with a centralizednDialogue Manager

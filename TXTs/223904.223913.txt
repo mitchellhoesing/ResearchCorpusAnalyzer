@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes Butterfly an Information Visualizer application for accessing DIALOGS Science Citation databases across the Internet

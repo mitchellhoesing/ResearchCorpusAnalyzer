@@ -1,1 +1,0 @@
-bABSTRACTnnAutomatic screen rotation improves viewing experience and usability of mobile devices but current gravitybased approaches do not support postures such as lying on one side and manual rotation switches require explicit user input

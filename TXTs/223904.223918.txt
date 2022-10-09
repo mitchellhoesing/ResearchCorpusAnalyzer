@@ -1,1 +1,0 @@
-bABSTRACTn Existing systems which enable the accessibility of Graphical User Interfaces to blind people follow an adaptation strategy each system adopts its own fixed policy for reproducing visual dialogues to a nonvisual form without knowledge about the application domain or particular dialogue characteristics

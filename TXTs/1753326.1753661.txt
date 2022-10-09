@@ -1,1 +1,0 @@
-bABSTRACTnnEnabling efficient exploration of largescale virtual environments such as those simulating astrophysical environments is highly challenging

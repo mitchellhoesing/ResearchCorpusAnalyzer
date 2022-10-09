@@ -1,1 +1,0 @@
-bABSTRACTnnAs we move toward commercial usage of ubiquitous computing and augmented reality AR it is important to think about how computing should communicate with us when it is distributed in our environment

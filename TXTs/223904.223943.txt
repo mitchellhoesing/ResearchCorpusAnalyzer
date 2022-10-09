@@ -1,1 +1,0 @@
-bABSTRACTn We present a system for animating an articulate figure using a physical skeleton or armature connected to a workstation

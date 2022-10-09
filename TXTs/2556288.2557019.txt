@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper investigates users ability to perform forcesensitive tapping and explores its potential as an input modality in touchbased systems

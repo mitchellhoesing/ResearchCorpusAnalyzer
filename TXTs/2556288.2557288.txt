@@ -1,1 +1,0 @@
-bABSTRACTnnWe present an external labeling laid over small andor over lapping 2D objects as an efficient representation for their se lection

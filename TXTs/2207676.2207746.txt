@@ -1,1 +1,0 @@
-bABSTRACTn Image Based Rendering IBR allows interactive scene exploration from images alone

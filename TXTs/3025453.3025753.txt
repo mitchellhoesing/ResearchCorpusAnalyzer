@@ -1,1 +1,0 @@
-bABSTRACTnnWe propose a class of passive haptics that we call Sparse Haptic Proxy a set of geometric primitives that simulate touch feedback in elaborate virtual reality scenes

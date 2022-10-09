@@ -1,1 +1,0 @@
-bABSTRACTnnWe present B2BSwipe a singlefinger swipe gesture for a rectangular smartwatch that starts at a bezel and ends at a bezel to enrich input vocabulary

@@ -1,1 +1,0 @@
-bABSTRACTnnWebbased social data analysis tools that rely on public discussion to produce hypotheses or explanations of patterns and trends in data rarely yield highquality results in practice

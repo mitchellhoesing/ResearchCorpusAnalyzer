@@ -1,1 +1,0 @@
-bABSTRACTnnRelative spatial consistency  that is the stable arrangement of objects in a 2D presentation  provides several benefits for interactive interfaces

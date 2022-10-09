@@ -1,1 +1,0 @@
-bABSTRACTn We present a video annotation system called AnnoTone which can embed various contextual information describing a scene such as geographical location

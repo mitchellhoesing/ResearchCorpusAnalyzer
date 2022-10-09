@@ -1,1 +1,0 @@
-bABSTRACTn Our ability to develop robust multimodal systems will depend on knowledge of the natural integration patterns that typify peoples combined use of different input modes

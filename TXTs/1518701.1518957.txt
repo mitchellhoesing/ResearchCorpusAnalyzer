@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we show that people frequently return to previouslyvisited regions within their documents and that scrollbars can be enhanced to ease this task

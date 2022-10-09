@@ -1,1 +1,0 @@
-bABSTRACTnnPersonal communication between UserCentered Design UCD specialists and developers is important for communicating user needs and design solutions in agile development

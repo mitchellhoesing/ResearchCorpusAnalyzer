@@ -1,1 +1,0 @@
-bABSTRACTn MailCall is a telephonebased messaging system using speech recognition and synthesis

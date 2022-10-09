@@ -1,1 +1,0 @@
-bABSTRACTnnMotioncapturebased biomechanical simulation is a noninvasive analysis method that yields a rich description of posture joint and muscle activity in human movement

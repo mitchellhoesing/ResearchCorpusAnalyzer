@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents a set of techniques for supporting amonomous collaborationcollaboration where participants work independently for periods and then join together to integrate their efforts

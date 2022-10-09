@@ -1,1 +1,0 @@
-bABSTRACTn We present a method for obtaining labquality measurements of pointing performance from unobtrusive observations of natural in situ interactions

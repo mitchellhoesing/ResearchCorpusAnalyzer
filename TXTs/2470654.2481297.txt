@@ -1,1 +1,0 @@
-bABSTRACTnnParallel web browsing describes the behavior where users visit web pages in multiple concurrent threads

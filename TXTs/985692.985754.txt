@@ -1,1 +1,0 @@
-bABSTRACTnnCurrent user interface widgets typically assume that the input device can only provide xy position and binary button press information

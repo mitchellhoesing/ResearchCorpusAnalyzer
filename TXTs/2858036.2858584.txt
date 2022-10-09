@@ -1,1 +1,0 @@
-bABSTRACTnnEyeGrip proposes a novel and yet simple technique of analysing eye movements for automatically detecting the users objects of interest in a sequence of visual stimuli moving horizontally or vertically in front of the users view

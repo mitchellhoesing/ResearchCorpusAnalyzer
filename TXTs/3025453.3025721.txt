@@ -1,1 +1,0 @@
-bABSTRACTn Difficulty in TETRIS is adjusted by adapting the speed with which blocks fall

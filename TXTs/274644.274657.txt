@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes the design process used for NetscapenCommunicators collapsible toolbars

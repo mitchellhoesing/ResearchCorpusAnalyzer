@@ -1,1 +1,0 @@
-bABSTRACTn Autonomous manipulation robots can be valuable aids as interactive agents in the home yet it has proven extremely difficult to program their behavior

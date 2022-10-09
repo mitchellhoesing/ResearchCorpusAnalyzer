@@ -1,1 +1,0 @@
-bABSTRACTn Analysts need interactive speed for exploratory analysis but big data systems are often slow

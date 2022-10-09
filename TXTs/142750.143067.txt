@@ -1,1 +1,0 @@
-bABSTRACTnnThe Video Viewer is a communication tool that allows two users to share video information across a network

@@ -1,1 +1,0 @@
-bABSTRACTnnINTRODUCTIONnnIn this work we propose two ensemble methods leveraging a crowd workforce to improve video annotation with a focus on video object segmentation

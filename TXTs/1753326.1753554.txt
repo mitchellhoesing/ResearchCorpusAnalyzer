@@ -1,1 +1,0 @@
-bABSTRACTnnCurrent chasms between applications implemented with different user interface toolkits make it difficult to implement and explore potentially important interaction techniques in new and existing applications limiting the progress and impact of humancomputer interaction research

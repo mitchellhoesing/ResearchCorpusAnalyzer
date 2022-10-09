@@ -1,1 +1,0 @@
-bABSTRACTn A physical keyboard key has three states whereas a touch screen usually has only two

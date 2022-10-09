@@ -1,1 +1,0 @@
-bABSTRACTnnOne approach to reducing the costs of usability testing is to facilitate the automatic detection of critical incidentsnserious breakdowns in interaction that stand out during software use

@@ -1,1 +1,0 @@
-bnnA NEW CONCEPTUAL MODEL FOR INTERACTIVEnUSER RECOVERY AND COMMAND REUSE FACILITIESnnYiya YangnnScottish HCI CentrenHeriotWatt UniversitynChambers StreetnEdinburgh EH1 lllXnnnThis paper generalises approaches to modelling an undo facility for Interactive systems into a comprehensive user recovery and command reuse facility

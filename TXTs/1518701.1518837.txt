@@ -1,1 +1,0 @@
-bABSTRACTnnGraphical password systems have received significant attention as one potential solution to the need for more usable authentication but nearly all prior work makes the unrealistic assumption of studying a single password

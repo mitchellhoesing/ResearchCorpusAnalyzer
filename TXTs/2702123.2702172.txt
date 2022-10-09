@@ -1,1 +1,0 @@
-bABSTRACTn We explore interactive relief shearing a set of nonintrusive direct manipulation interactions that expose depth and shape information in terrain maps using ephemeral animations

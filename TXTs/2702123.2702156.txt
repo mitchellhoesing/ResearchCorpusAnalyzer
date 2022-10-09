@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we present a computational cognitive model of task interruption and resumption focusing on the effects of the problem state bottleneck

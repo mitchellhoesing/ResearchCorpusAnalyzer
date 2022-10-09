@@ -1,1 +1,0 @@
-bABSTRACTn As more applications move from the desktop to touch devices like tablets designers must wrestle with the costs of porting a design with as little revision of the UI as possible from one device to the other or of optimizing the interaction per device

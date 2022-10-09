@@ -1,1 +1,0 @@
-bABSTRACTn Speech transcription is an expensive service with high turnaround time for audio files containing languages spoken in developing countries and regional accents of wellrepresented languages

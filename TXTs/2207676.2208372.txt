@@ -1,1 +1,0 @@
-bABSTRACTn This paper describes the Brainput system which learns to identify brain activity patterns occurring during multitasking

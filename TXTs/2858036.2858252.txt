@@ -1,1 +1,0 @@
-bABSTRACTnnMore people are learning to code than ever but most learning opportunities do not explicitly teach the problem solving skills necessary to succeed at openended programming problems

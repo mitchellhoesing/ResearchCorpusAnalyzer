@@ -1,1 +1,0 @@
-bABSTRACTnnAn important class of tasks that are underexplored in current human computation systems are complex tasks with global constraints

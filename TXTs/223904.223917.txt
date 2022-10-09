@@ -1,1 +1,0 @@
-bABSTRACTn Multimodal interactive systems support multiple interaction techniques such as the synergistic use of speech and direct manipulation

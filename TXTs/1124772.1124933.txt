@@ -1,1 +1,0 @@
-bABSTRACTn We present Zone and Polygon menus two new variants of multistroke marking menus that consider both the relative position and orientation of strokes

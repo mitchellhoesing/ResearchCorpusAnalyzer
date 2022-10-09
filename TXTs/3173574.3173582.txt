@@ -1,1 +1,0 @@
-bABSTRACTnnAutomatic Gender Recognition AGR refers to various computational methods that aim to identify an individuals gender by extracting and analyzing features from images video andor audio

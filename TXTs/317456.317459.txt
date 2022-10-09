@@ -1,1 +1,0 @@
-bABSTRACTnnA percentdone progress indicato is a graphical technique which allows the user to monitor the progress through the processing of a task

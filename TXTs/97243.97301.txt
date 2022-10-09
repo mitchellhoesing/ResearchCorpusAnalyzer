@@ -1,1 +1,0 @@
-bABSTRACTnnShared window systems enable existing applications to be shared in the context of a realtime teleconference

@@ -1,1 +1,0 @@
-bABSTRACTn Although multiple GPSbased navigation applications exist for the visually impaired these are typically poorly suited for insitu exploration require cumbersome hardware lack support for widely accessible geographic databases or do not take advantage of advanced functionality such as spatialized audio rendering

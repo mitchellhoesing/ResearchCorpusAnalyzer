@@ -1,1 +1,0 @@
-bABSTRACTnnWe present the WADE Integrated DevelopmentnEnvironment IDE which simplifies the modification of the interface and functionality of existing thirdparty software without access to source code

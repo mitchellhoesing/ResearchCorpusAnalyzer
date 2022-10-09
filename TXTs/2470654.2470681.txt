@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents IUCA Interaction Using Camera Animations a new interaction technique for 3D objects manipulation

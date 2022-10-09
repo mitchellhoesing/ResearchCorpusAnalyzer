@@ -1,1 +1,0 @@
-bABSTRACTnnComputational approaches to text analysis are useful in understanding aspects of online interaction such as opinions and subjectivity in text

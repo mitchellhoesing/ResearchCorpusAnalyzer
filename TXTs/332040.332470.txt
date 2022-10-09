@@ -1,1 +1,0 @@
-bABSTRACTnnWe have designed and implemented new Web browsing facilities to support effective navigation on Personal DigitalnAssistants PDAs with limited capabilities low bandwidth small display and slow CPU

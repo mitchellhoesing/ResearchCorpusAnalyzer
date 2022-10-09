@@ -1,1 +1,0 @@
-bAbstractnnUnderstanding how to use a computer system often requires knowledge of hidden events things which happen as a result of user actions but which produce no immediate perceptible effect

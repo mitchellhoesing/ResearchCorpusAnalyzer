@@ -1,1 +1,0 @@
-bABSTRACTnnPolarTrack is a novel camerabased approach to detecting and tracking mobile devices inside the capture volume

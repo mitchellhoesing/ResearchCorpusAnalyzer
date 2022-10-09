@@ -1,1 +1,0 @@
-bABSTRACTn VoiceNotes is an application for a voicecontrolled handheld computer that allows the creation management and retrieval of userauthored voice notessmall segments of digitized speech containing thoughts ideas reminders or things to do

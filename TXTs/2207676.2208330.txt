@@ -1,1 +1,0 @@
-bABSTRACTn Computer vision and inertial measurement have made it possible for people to interact with computers using wholebody gestures

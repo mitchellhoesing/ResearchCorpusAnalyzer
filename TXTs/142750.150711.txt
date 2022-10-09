@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes BookWindow that we implemented a window system based on the book metaphor that displays information not by scrolling but by using the animation of paging through

@@ -1,1 +1,0 @@
-bABSTRACTn We introduce Splash a framework reducing development overhead for both data curators and visualization developers of clientserver visualization systems

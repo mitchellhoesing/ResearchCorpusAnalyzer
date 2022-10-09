@@ -1,1 +1,0 @@
-bABSTRACTnnINTRODUCTIONnnCreating whimsical personal data visualizations remains a challenge due to a lack of tools that enable for creative visual expression while providing support to bind graphical content to data

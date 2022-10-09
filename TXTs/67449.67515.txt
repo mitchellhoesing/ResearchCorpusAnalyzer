@@ -1,1 +1,0 @@
-bAbstractnnThe potential utility of dividing the information flowing from computer to human among several sensory modalitles is investigated by means of a rigorous experiment which compares the effectiveness of auditory and visual cues in the performance of a visual search task

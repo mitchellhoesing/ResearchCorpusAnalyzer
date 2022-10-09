@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes the Liveboard a large interactive display system

@@ -1,1 +1,0 @@
-bABSTRACTnnAn experimental GUI paradigm is presented which is based on the design goals of maximizing the amount of screen used for application data reducing the amount that the UI diverts visual attentions from the application data and increasing the quality of input

@@ -1,1 +1,0 @@
-bABSTRACTnnClinical practice is heavily reliant on the use of unstructured text to document patient stories due to its expressive and flexible nature

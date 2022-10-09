@@ -1,1 +1,0 @@
-bABSTRACTn We present MotionMontage a system for recording multiple motion takes of a rigid virtual object and compositing them together into a montage

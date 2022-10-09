@@ -1,1 +1,0 @@
-bABSTRACTnnIn the paper we describe an exploration into the design of an authoring tool to support the creation of multimedia stories

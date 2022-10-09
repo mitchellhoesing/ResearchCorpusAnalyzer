@@ -1,1 +1,0 @@
-bABSTRACTn Android and other mobile operating systems ask users for authorization before allowing apps to access sensitive resources such as contacts and location

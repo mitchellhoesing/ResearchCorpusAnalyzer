@@ -1,1 +1,0 @@
-bABSTRACTnnAs users pan and zoom display content can disappear into offscreen space particularly on smallscreen devices

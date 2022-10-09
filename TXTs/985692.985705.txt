@@ -1,1 +1,0 @@
-bABSTRACTn This paper presents the lessons learned when a computational GOMS modeling tool was used to evaluate user interface concepts and team structure designs for a new class of military shipboard workstations

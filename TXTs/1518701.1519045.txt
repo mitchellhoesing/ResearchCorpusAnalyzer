@@ -1,1 +1,0 @@
-bABSTRACTn When designing interfaces for mobile devices it is important to take into account the variety of contexts of use

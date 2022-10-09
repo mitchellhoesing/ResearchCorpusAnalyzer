@@ -1,1 +1,0 @@
-bABSTRACTnnPredicting human performance in interaction tasks allows designers or developers to understand the expected performance of a target interface without actually testing it with real users

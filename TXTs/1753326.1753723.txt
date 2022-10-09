@@ -1,1 +1,0 @@
-bABSTRACTnnIn the growing field of tabletop computing research there has been an understandable focus on interactive aspects of tabletop use in terms of technology design and behavioural analysis

@@ -1,1 +1,0 @@
-bAbstractn nWhile programmers may differ in their assessment of the comprehensibility of a program there are nonetheless some clear cut cases of programs that are truly difficult to understand

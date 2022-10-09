@@ -1,1 +1,0 @@
-bABSTRACTnnMobile application phishing happens when a malicious mobile application masquerades as a legitimate one to steal user credentials

@@ -1,1 +1,0 @@
-bABSTRACTn This paper presents five abstract characteristics of the mental representation of computer programs hierarchical structure explicit mapping of code to goals foundation on recognition of recurring patterns connection of knowledge and grounding in the program text

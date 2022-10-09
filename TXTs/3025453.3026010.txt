@@ -1,1 +1,0 @@
-bABSTRACTn We investigate the relevance of surface haptic rendering techniques for tactile devices

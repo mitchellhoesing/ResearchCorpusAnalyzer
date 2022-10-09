@@ -1,1 +1,0 @@
-bABSTRACTn We describe the design implementation and deployment of Photobox a domestic technology that prints four or five randomly selected photos from the owners Flickr collection at random intervals each month

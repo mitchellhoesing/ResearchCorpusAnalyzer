@@ -1,1 +1,0 @@
-bAbstractnnSeveral striking characteristics of how often people repeat their actions on interactive systems are abstracted from usage data gleaned from many users of different classes over a period of months

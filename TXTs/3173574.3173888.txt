@@ -1,1 +1,0 @@
-bABSTRACTnnIn distributed multiplayer games it can be difficult to communicate strategic information for planning game moves and player interactions

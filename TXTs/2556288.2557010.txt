@@ -1,1 +1,0 @@
-bABSTRACTn Designing visualizations of dynamic networks is challenging both because the data sets tend to be complex and because the tasks associated with them are often cognitively demanding

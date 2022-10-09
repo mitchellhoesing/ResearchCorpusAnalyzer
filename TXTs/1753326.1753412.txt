@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe a particle filtering approach to inferring finger movements on capacitive sensing arrays

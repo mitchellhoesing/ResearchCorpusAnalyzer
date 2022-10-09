@@ -1,1 +1,0 @@
-bABSTRACTn HUMANOID is a user interface design tool that lets designers express abstract conceptualizations of an interface in an executable form allowing designers to experiment with scenarios and dialogues even before the application model is completely worked out

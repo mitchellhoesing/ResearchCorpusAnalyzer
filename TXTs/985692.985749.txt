@@ -1,1 +1,0 @@
-bABSTRACTnnWe investigate pointing in true 3D environments where the target size varies in three spatial dimensions

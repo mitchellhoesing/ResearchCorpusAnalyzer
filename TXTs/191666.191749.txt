@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe an objectoriented approach to dialogue management for the design of spoken language interfaces to information services

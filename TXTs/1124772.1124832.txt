@@ -1,1 +1,0 @@
-bABSTRACTnnModern applications such as Microsoft Word have many automatic features and hidden dependencies that are frequently helpful but can be mysterious to both novice and expert users

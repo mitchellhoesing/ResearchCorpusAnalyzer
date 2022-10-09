@@ -1,1 +1,0 @@
-bABSTRACTn Engaging with end users in the development of assistive technologies remains one of the major challenges for researchers and developers in the field of accessibility and HCI

@@ -1,1 +1,0 @@
-bABSTRACTn The Cognitive Function Analysis is a methodology supported by a mediating tool for the humancentered automation of safetycritical systems

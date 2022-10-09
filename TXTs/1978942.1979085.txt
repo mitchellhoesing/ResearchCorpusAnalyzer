@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we present importancedriven compositing window management which considers windows not only as basic rectangular shapes but also integrates the importance of the windows content using a bottomup visual attention model

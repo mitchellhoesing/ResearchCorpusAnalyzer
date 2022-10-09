@@ -1,1 +1,0 @@
-bABSTRACTnnWe present the Haptic Wave a device that allows crossmodal mapping of digital audio to the haptic domain intended for use by audio producersengineers with visual impairments

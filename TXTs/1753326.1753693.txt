@@ -1,1 +1,0 @@
-bABSTRACTn We propose a cooking system that operates in an open environment

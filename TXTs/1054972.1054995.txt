@@ -1,1 +1,0 @@
-bAbstractn EyeDraw is a software program that when run on a computer with an eye tracking device enables children with severe motor disabilities to draw pictures by just moving their eyes

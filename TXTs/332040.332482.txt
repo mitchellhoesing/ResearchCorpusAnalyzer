@@ -1,1 +1,0 @@
-bABSTRACTnnThe Task Gallery is a window manager that uses interactiven3D graphics to provide direct support for task management and document comparison lacking from many systems implementing the desktop metaphor

@@ -1,1 +1,0 @@
-bABSTRACTn Understanding how children perceive and interact with teachable agents systems where children learn through teaching a synthetic character embedded in an intelligent tutoring system can provide insight into the effects of social interaction on learning with intelligent tutoring systems

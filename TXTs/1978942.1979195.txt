@@ -1,1 +1,0 @@
-bABSTRACTn The need for pattern discovery in long timeseries data led researchers to develop interactive visualization tools and analytical algorithms for gaining insight into the data

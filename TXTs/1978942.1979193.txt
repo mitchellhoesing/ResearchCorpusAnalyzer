@@ -1,1 +1,0 @@
-bABSTRACTn This work explores the intersection between infographics and games by examining how to embed meaningful visual analytic interactions into game mechanics that in turn impact user behavior around a datadriven graphic

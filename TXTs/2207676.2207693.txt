@@ -1,1 +1,0 @@
-bABSTRACTn The main contribution of this paper is to realize a method for modifying perception of satiety and controlling nutritional intake by changing the apparent size of food with augmented reality

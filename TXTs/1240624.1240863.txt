@@ -1,1 +1,0 @@
-bABSTRACTnnInterface designers normally strive for a design that minimises the users effort

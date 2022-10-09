@@ -1,1 +1,0 @@
-bABSTRACTn Many authentication schemes ask users to manually compare compact representations of cryptographic keys known as fingerprints

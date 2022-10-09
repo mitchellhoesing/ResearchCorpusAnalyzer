@@ -1,1 +1,0 @@
-bABSTRACTnnTouchscreen mobile devices can afford rich interaction behaviors but they are complex to model

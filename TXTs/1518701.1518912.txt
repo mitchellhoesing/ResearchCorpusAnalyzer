@@ -1,1 +1,0 @@
-bABSTRACTnnWe present a novel method of dynamic CD gain adaptation that improves target acquisition for users with motor impairments

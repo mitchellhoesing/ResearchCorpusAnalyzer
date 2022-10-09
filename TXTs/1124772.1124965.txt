@@ -1,1 +1,0 @@
-bABSTRACTnnWe explore making virtual desktops behave in a more physically realistic manner by adding physics simulation and using piling instead of filing as the fundamental organizational structure

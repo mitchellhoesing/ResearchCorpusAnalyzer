@@ -1,1 +1,0 @@
-bABSTRACTnnWeb user interfaces today leverage many common GUIndesign patterns including navigation bars and menusnhierarchical structure tabular content presentation and scrolling

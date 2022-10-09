@@ -1,1 +1,0 @@
-bABSTRACTn Interaction with a remote team of robots in real time is a difficult humanrobot interaction HRI problem exacerbated by the complications of unpredictable realworld environments with solutions often resorting to a largerthandesirable ratio of operators to robots

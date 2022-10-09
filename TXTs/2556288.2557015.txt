@@ -1,1 +1,0 @@
-bABSTRACTnnError Related Negativity is triggered when a user either makes a mistake or the application behaves differently from their expectation

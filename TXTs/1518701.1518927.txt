@@ -1,1 +1,0 @@
-bABSTRACTn How is work created assigned and completed on largescale crowdpowered systems like Wikipedia And what design principles might enable these federated online systems to be more effective This paper reports on a qualitative study of work and task practices on Wikipedia

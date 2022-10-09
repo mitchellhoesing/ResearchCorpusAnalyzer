@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe a usability inspection method to evaluate Application Programming Interfaces APIs

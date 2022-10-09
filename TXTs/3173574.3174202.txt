@@ -1,1 +1,0 @@
-bABSTRACTnnDistance Cartograms DC distort geographical features so that the measured distance between a single location and any other location on a map indicates absolute travel time

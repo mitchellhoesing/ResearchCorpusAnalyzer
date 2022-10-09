@@ -1,1 +1,0 @@
-bABSTRACTnnThe Think Aloud Protocol TAP is a verbalisation technique widely employed in HCI user studies to give insight into user experience yet little work has explored the impact that TAPs have on participants during user studies

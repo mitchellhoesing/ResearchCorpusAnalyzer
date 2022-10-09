@@ -1,1 +1,0 @@
-bAbstractnnUser interface management systems UIMSs provide user interfaces to application systems based on an abstract definition of the interface required

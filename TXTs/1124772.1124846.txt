@@ -1,1 +1,0 @@
-bABSTRACTn We present a new 4key text entry method that unlike most fewkey methods is gestural instead of selectionbased

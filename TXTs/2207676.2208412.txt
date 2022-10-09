@@ -1,1 +1,0 @@
-bABSTRACTn We present TOME a novel framework that helps developers quantitatively evaluate user interfaces and design iterations by using histories from crowds of end users

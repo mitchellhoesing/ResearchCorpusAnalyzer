@@ -1,1 +1,0 @@
-bABSTRACTnnTimebanking is a growing type of peertopeer service exchange but is hampered by the effort of finding good transaction partners

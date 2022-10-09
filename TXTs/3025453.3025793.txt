@@ -1,1 +1,0 @@
-bABSTRACTnnWe present Group Touch a method for distinguishing among multiple users simultaneously interacting with a tabletop computer using only the touch information supplied by the device

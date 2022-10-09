@@ -1,1 +1,0 @@
-bABSTRACTnnSupporting onehanded thumb operation of touchscreenbased mobile devices presents a challenging tradeoff between visual expressivity and ease of interaction

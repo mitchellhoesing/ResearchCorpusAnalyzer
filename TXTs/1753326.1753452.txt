@@ -1,1 +1,0 @@
-bABSTRACTnnWe present a novel integration of a braincomputer interface BCI with a multitouch surface

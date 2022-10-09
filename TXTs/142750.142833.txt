@@ -1,1 +1,0 @@
-bnTreeViz Treemap Visualization of HierarchicallynStructured InformationnBrian JohnsonnHumanComputer Interaction LabnDepartment of Computer SciencenUniversity of MarylandnCollege Park MD 20742nn301 4052725nINTRODUCTIONnTmeVlz is an Apple Macintosh implementation of the treemap technique for visualizing hierarchical information structures

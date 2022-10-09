@@ -1,1 +1,0 @@
-bABSTRACTnnClearly picturing user behavior is one of the key requirements when designing successful interactive software

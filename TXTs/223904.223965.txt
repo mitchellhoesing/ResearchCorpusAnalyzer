@@ -1,1 +1,0 @@
-bABSTRACTnnMost interactive programs have been assuming interaction with a single user

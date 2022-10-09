@@ -1,1 +1,0 @@
-bABSTRACTnnIn accesscontrol systems policy rules conflict when they prescribe different decisions ALLOW or DENY for the same access

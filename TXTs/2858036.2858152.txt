@@ -1,1 +1,0 @@
-bABSTRACTnnSecure user identification is important for the increasing number of eyewear computers but limited input capabilities pose significant usability challenges for established knowledgebased schemes such as passwords or PINs

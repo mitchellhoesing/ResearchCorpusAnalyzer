@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce LensMouse a novel device that embeds a touchscreen display  or tangible lens  onto a mouse

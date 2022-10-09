@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes a prototype system designed to meet the needs of the next generation of user interfaces

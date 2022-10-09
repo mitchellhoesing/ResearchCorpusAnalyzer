@@ -1,1 +1,0 @@
-bABSTRACTnnOne method for user interface analysis that has proven successful is formal interface analysis

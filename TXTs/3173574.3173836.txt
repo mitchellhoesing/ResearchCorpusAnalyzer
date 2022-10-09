@@ -1,1 +1,0 @@
-bABSTRACTnnMany of the security problems that people face today such as security breaches and data theft are caused by security vulnerabilities in application source code

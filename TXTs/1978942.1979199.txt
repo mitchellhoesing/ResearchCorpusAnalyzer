@@ -1,1 +1,0 @@
-bABSTRACTn Automics is a photosouvenir service which utilises mobile devices to support the capture sharing and annotation of digital images amongst groups of visitors to theme parks

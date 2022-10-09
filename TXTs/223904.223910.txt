@@ -1,1 +1,0 @@
-bABSTRACTnnCurrent interactive user interface construction tools are often more of a hindrance than a benefit during the early stages of user interface design

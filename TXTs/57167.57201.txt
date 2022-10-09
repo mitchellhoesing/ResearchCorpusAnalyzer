@@ -1,1 +1,0 @@
-bABSTRACTnnWe formulated a set of rules for producing keycommands that are alternatives for activating commands with a mouse from a menu

@@ -1,1 +1,0 @@
-bABSTRACTn HoloDesk is an interactive system combining an optical see through display and Kinect camera to create the illusion that users are directly interacting with 3D graphics

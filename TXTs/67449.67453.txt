@@ -1,1 +1,0 @@
-bABSTRACTnnA Programmable User Model PUM is a psychologically constrained architecture which an interface designer is invited to program to simulate a user performing a range of tasks with a proposed interface

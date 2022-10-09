@@ -1,1 +1,0 @@
-bABSTRACTnnNotePals is a lightweight note sharing system that gives group members easy access to each others experiences through their personal notes

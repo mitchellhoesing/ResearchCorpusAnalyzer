@@ -1,1 +1,0 @@
-bABSTRACTn GOMS models of telephone toll and assistance operators TAOs are being constructed in an effort to provide theoretical predictions of expert performance on several dedicated workstations

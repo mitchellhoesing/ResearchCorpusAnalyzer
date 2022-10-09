@@ -1,1 +1,0 @@
-bABSTRACTn P2P file sharing systems such as Gnutella Freenet and KaZaA while primarily intended for sharing multimedia files frequently allow other types of information to be shared

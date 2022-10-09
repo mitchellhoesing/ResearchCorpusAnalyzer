@@ -1,1 +1,0 @@
-bABSTRACTnnWe contribute a thin transparent and lowcost design for electric field sensing allowing for 3D finger and hand tracking as well as inair gestures on mobile devices

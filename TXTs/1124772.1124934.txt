@@ -1,1 +1,0 @@
-bABSTRACTn The steering law is intended to predict the performance of cursor manipulations in user interfaces but the law has been verified for only a few path shapes and should be verified for more if it is to be generalized

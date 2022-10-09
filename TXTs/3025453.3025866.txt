@@ -1,1 +1,0 @@
-bABSTRACTn We present GraphScape a directed graph model of the visualization design space that supports automated reasoning about visualization similarity and sequencing

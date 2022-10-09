@@ -1,1 +1,0 @@
-bABSTRACTn Visual question answering systems empower users to ask any question about any image and receive a valid answer

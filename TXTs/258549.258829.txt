@@ -1,1 +1,0 @@
-bABSTRACTnnMedSpeakRadiology is a product that allows radiologists to create edit and manage reports using realtime continuous speech recognition

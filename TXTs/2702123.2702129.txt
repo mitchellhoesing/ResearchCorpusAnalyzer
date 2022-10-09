@@ -1,1 +1,0 @@
-bABSTRACTn We introduce a mobile sketching interface for exploring multidimensional datasets on wall displays

@@ -1,1 +1,0 @@
-bABSTRACTn The impact of interruptions on workflow and productivity has been extensively studied in the PC domain but while fragmented user attention is recognized as an inherent aspect of mobile phone usage little formal evidence exists of its effect on mobile productivity

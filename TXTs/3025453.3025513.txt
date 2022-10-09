@@ -1,1 +1,0 @@
-bABSTRACTnnMaking gestures easy for imaging systems to reliably recognize often comes at the expense of user effort

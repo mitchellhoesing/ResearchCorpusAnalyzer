@@ -1,1 +1,0 @@
-bABSTRACTn How much do visual aspects influence the perception of users about whether they are conversing with a human being or a machine in a mobilechat environment This paper describes a study on the influence of typefaces using a blind Turing testinspired approach

@@ -1,1 +1,0 @@
-bABSTRACTn Secure user authentication on mobile phones is crucial as they store highly sensitive information

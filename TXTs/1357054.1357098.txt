@@ -1,1 +1,0 @@
-bABSTRACTnnTangible User Interfaces are wellsuited to handling threedimensional data sets by direct manipulation of real objects in space but current interfaces can make it difficult to look inside dense volumes of information

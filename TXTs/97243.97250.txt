@@ -1,1 +1,0 @@
-bABSTRACTn Automatic layout algorithms are commonly used when displaying graphs on the screen because they provide a nice drawing of the graph without user intervention

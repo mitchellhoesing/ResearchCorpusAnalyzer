@@ -1,1 +1,0 @@
-bFURTHER DEVELOPMENTS TOWARD USING FORMAL GRAMMAR AS A DESIGN TOOLnnPhyllis ReisnernnIBM Research Division 5600 Cottle RoadnSan Jose CA 95193nnINTRODUCTIONnnWithin the past few years there has been increasing interest in the formal description of user interfaces  2 J  5 J  6 J  8 J

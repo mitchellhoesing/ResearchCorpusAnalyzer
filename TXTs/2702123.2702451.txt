@@ -1,1 +1,0 @@
-bABSTRACTn We present Weave a framework for developers to create crossdevice wearable interaction by scripting

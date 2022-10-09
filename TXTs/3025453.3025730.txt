@@ -1,1 +1,0 @@
-bABSTRACTnnMotivated by mobile devices growing demand for connectivity and concern in HCI with the energy intensity and sustainability of networked services in this paper we reveal the impact of applications on smartphones and tablets in terms of network demand and time use

@@ -1,1 +1,0 @@
-bABSTRACTnnAs the state of graphical user interface design theory continues to mature from its beginnings in the mideighties emphasis on reducing the burden of interface programming has become more prevalent

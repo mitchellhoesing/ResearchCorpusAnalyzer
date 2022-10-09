@@ -1,1 +1,0 @@
-bAbstractnnSince humans direct their visual attention by means of eye movements a device which monitors eye movements should be a natural pick device for selecting objects visually present on a monitor

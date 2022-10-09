@@ -1,1 +1,0 @@
-bABSTRACTnnSince the publication of the first paper on Magic Lenses various methods have been proposed for implementing lenses which filter the objects seen through them However all the methods proposed stier from various flaws

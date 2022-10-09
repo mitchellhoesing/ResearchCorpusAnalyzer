@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes the design work being conducted as part of thenOutsideTheBox project

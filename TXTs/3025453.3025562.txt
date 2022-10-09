@@ -1,1 +1,0 @@
-bABSTRACTn   Realtime tracking of peoples location orientation and activities is increasingly important for designing novel ubiquitous computing applications

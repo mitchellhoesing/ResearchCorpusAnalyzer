@@ -1,1 +1,0 @@
-bABSTRACTnnWe propose the ninja cursor to improve the performance of target acquisition particularly on large screens

@@ -1,1 +1,0 @@
-bABSTRACTnnImportant drawbacks of mapbased navigation applications for mobile phones are their small screen size and that users have to associate the information provided by the mobile phone with the real word

@@ -1,1 +1,0 @@
-bABSTRACTnnA basic tenet of Ubiquitous computing Weiser 1993 is that technology should be distributed in the environment ubiquitous yet invisible or transparent

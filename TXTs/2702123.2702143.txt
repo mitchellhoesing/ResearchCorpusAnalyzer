@@ -1,1 +1,0 @@
-bABSTRACTnnThe accuracy of pedometry varies depending on where an inertial sensor is located on the body

@@ -1,1 +1,0 @@
-bABSTRACTn Empirical studies invariably show that data generation is situationally contingent and interpretively flexible even when data is collected automatically

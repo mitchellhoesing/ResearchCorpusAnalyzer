@@ -1,1 +1,0 @@
-bABSTRACTn The promise of smart environments and the Internet of Things IoT relies on robust sensing of diverse environmental facets

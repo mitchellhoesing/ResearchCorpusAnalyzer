@@ -1,1 +1,0 @@
-bABSTRACTnnOur online data capture and analysis tools include an event capture program event data filtering programs a multimedia data analyzer and a retrospective verbal protocol recorder for use with the multimedia data analyzer

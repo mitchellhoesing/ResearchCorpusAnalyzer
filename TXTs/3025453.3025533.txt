@@ -1,1 +1,0 @@
-bABSTRACTn We present HeadPhones Headtracking  smartPhones a novel approach for the spatial registration of multiple mobile devices into an ad hoc multidisplay environment

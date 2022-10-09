@@ -1,1 +1,0 @@
-bAbstractnnMedical inference problems that seem too complex for intuitive solution can be made tractable if the problem information is presented in the form of a graphic display

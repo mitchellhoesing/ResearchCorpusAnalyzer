@@ -1,1 +1,0 @@
-bABSTRACTnnOntologies are complex knowledge representation artefacts used widely across biomedical media and industrial domains

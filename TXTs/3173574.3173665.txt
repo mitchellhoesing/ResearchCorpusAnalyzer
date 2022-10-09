@@ -1,1 +1,0 @@
-bABSTRACTnnAs Automatic Speech Recognition ASR improves in accuracy it may become useful for transcribing spoken text in realtime for Deaf and HardofHearing DHHnindividuals

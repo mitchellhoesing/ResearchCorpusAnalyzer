@@ -1,1 +1,0 @@
-bABSTRACTn A proof of concept web search and navigation system was developed for older people for whom the Internet is seen as an alien territory

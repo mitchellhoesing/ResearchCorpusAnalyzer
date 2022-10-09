@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents exJerimental results comparing two different designs for a spoken language interface to email

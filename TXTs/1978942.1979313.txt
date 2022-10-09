@@ -1,1 +1,0 @@
-bABSTRACTn A key feature of relational database applications is managing plural relationshipsonetomany and manytomanybetween entities

@@ -1,1 +1,0 @@
-bABSTRACTn GAZE2 is a novel group video conferencing system that uses eyecontrolled camera direction to ensure parallaxfree transmission of eye contact

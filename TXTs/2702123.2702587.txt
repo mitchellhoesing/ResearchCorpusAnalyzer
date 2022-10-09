@@ -1,1 +1,0 @@
-bABSTRACTnnWe present a spreadsheet model for working with streaming data

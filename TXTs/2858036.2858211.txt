@@ -1,1 +1,0 @@
-bABSTRACTnnCommand selection on large multitouch surfaces can be difficult because the large surface means that there are few landmarks to help users build up familiarity with controls

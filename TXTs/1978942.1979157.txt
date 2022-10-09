@@ -1,1 +1,0 @@
-bABSTRACTn Social visualization systems have emerged to support collective intelligencedriven analysis of a growing influx of open data

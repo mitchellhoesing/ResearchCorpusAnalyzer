@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes de results of a study evaluating the effects of computer mediation on collaboratively solving architectural design problems

@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we describe the results of a controlled study of a social game Magpies which was built on the FacebooknOnline Social Network OSN and enhanced with contextual social information in the form of a variety of social network indices

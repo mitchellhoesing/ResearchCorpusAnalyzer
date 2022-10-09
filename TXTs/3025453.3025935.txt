@@ -1,1 +1,0 @@
-bABSTRACTn Object manipulation in 3D virtual environments demands a combined coordination of rotations translations and scales as well as the camera control to change the users viewpoint

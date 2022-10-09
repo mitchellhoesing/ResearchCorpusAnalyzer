@@ -1,1 +1,0 @@
-bABSTRACTnnAccelerometers are common on many devices including those required for textentry

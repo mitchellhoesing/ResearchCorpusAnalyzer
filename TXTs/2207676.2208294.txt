@@ -1,1 +1,0 @@
-bABSTRACTn Queries over large scale petabyte data bases often mean waiting overnight for a result to come back

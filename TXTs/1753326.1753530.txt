@@ -1,1 +1,0 @@
-bABSTRACTnnThe Web is constantly changing but most tools used to access Web content deal only with what can be captured at a single instance in time

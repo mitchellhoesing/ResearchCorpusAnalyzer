@@ -1,1 +1,0 @@
-bABSTRACTnnA highlevel UIMS which automatically generates the lexical and syntactic design of graphical user interfaces is presented

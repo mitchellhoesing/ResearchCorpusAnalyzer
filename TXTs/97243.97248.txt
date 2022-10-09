@@ -1,1 +1,0 @@
-bABSTRACTnnJade is a new interactive tool that automatically creates graphical input dialogs such as dialog boxes and menus

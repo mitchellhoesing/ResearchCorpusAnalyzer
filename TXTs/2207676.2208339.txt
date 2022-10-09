@@ -1,1 +1,0 @@
-bABSTRACTn In graphical user interfaces direct manipulation consists in incremental actions that should be reversible

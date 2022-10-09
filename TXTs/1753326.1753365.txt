@@ -1,1 +1,0 @@
-bABSTRACTnnWe define occlusionaware interfaces as interaction techniques which know what area of the display is currently occluded and use this knowledge to counteract potential problems andor utilize the hidden area

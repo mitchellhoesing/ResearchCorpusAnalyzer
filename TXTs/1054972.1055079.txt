@@ -1,1 +1,0 @@
-bABSTRACTnnThe distortion caused by an interactive fisheye lens can make it difficult for people to remember items and locations in the data space

@@ -1,1 +1,0 @@
-bABSTRACTnnThe design of invehicle navigation systems fails to take into account the social nature of driving and automobile navigation

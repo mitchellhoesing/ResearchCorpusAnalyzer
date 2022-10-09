@@ -1,1 +1,0 @@
-bABSTRACTnnRecent advances in small inexpensive sensors lowpower processing and activity modeling have enabled applications that use onbody sensing and machine learning to infer peoples activities throughout everyday life

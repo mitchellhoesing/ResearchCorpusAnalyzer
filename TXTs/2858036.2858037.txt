@@ -1,1 +1,0 @@
-bABSTRACTnnThe performance of trajectorybased tasks is modeled by the steering law which predicts the required time from the index of difficulty ID

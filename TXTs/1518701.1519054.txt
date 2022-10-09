@@ -1,1 +1,0 @@
-bABSTRACTnnGraphs are often visualized using nodelink representations vertices are depicted as dots edges are depicted asnpolylines connecting two vertices

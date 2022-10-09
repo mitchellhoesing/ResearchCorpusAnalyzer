@@ -1,1 +1,0 @@
-bABSTRACTnnVisualizations such as bar charts help users reason about data but are mostly screenbased rarely physical and almost never physical and dynamic

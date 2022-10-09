@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we present a proofofconcept approach to estimating mental workload by measuring the users pupil diameter under various controlled lighting conditions

@@ -1,1 +1,0 @@
-bABSTRACTnnIn most GUIs selection is effected by placing the point of the mousedriven cursor over the area of the object to be selected

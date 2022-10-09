@@ -1,1 +1,0 @@
-bABSTRACTnnINTRODUCTIONnnWe present Haptic Revolver a handheld virtual reality controller that renders fngertip haptics when interacting with virtual surfaces

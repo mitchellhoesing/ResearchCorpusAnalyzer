@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents a scheme for extending an informal penbased whiteboard system Tivoli on the Xerox LiveBoard to provide a structured editing capability without violating its free expression and ease of use

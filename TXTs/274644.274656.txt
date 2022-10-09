@@ -1,1 +1,0 @@
-bABSTRACTnnAlthough design metaphors play an important role in many software projects their influence on system functionality project methodoloy and the interactions among members of the development team is not well understood

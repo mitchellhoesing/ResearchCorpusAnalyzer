@@ -1,1 +1,0 @@
-bABSTRACTnnCrowdsourcing systems are designed to elicit help from humans to accomplish tasks that are still difficult for computers

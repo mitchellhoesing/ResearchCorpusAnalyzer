@@ -1,1 +1,0 @@
-bABSTRACTn An empirical study was conducted to investigate how older and younger users learned by performing exploratory search of health information using an interface that recommended relevant links based on browsing histories

@@ -1,1 +1,0 @@
-bABSTRACTn Most web applications are designed as onesizefitsall despite considerable variation in peoples expertise physical abilities and other factors that impact interaction

@@ -1,1 +1,0 @@
-bAbstractnnA geometry is described for converting hand position and orientation into six useful variables for computer input

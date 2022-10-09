@@ -1,1 +1,0 @@
-bAbstractnnThis paper reports on an interactive system for manipulating a tensorproduct Bspline approximation to field data for applications in which contours are of interest

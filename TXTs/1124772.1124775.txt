@@ -1,1 +1,0 @@
-bABSTRACTnnWe present a study that evaluates conventional Pan and Zoom Navigation and Rubber Sheet Navigation a rectilinear FocusContext technique

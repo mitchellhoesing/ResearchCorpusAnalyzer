@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce the concept of Veritaps a communication layer to help users identify truths and lies in mobile input

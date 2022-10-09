@@ -1,1 +1,0 @@
-bABSTRACTnnA gridbased technique to specify simple number independent layouts by example is described

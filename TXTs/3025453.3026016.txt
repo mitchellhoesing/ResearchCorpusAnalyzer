@@ -1,1 +1,0 @@
-bABSTRACTnnWe present TrussFab an integrated endtoend system that allows users to fabricate large scale structures that are sturdy enough to carry human weight

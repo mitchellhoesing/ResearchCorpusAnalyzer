@@ -1,1 +1,0 @@
-bABSTRACTnnThumbtofingers interfaces augment touch widgets on fingers which are manipulated by the thumb

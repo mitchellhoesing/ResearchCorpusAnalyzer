@@ -1,1 +1,0 @@
-bABSTRACTnnMaps on mobilewearable devices often make it difficult to determine the location of a point of interest POI

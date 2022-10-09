@@ -1,1 +1,0 @@
-bABSTRACTnnGloveTaikII is a system which translates hand gesturesto speech through an adaptive interface

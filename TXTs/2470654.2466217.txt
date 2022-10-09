@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper argues that there is a value in deliberately and systematically exploring potential temporal behaviors of an interactive artifact either as a means to add new functions or to change the interaction with it

@@ -1,1 +1,0 @@
-bABSTRACTn We identify an important type of software design knowledge that we call community specific folklore and show problems with current approaches to managing it

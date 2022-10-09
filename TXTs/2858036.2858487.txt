@@ -1,1 +1,0 @@
-bABSTRACTnnWe present Dexmo an inexpensive and lightweight mechanical exoskeleton system for motion capturing and force feedback in virtual reality applications

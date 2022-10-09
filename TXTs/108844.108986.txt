@@ -1,1 +1,0 @@
-bABSTRACTnnThe cognitive walkthrough is a new method for assessing the usability of a system and assigning causes to usability problems early in the design process

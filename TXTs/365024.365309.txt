@@ -1,1 +1,0 @@
-bABSTRACTn Several recent research systems have provided interactive threedimensional 3D visualisations for supporting everyday work such as file and document management

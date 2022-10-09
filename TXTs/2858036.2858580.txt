@@ -1,1 +1,0 @@
-bABSTRACTnnWe present fingerIO a novel finegrained finger tracking solution for arounddevice interaction

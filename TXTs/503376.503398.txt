@@ -1,1 +1,0 @@
-bABSTRACTnnPrevious systems have explored the challenges of designing an interface for automotive styling which combine the metaphor of 2D drawing using physical tape with the simultaneous creation and management of a corresponding virtual 3D model

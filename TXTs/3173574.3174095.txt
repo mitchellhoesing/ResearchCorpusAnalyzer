@@ -1,1 +1,0 @@
-bABSTRACTnnWhen an object is interposed between a touch surface and a fingertouch pen the change in impedance caused by the object can be measured by the driver software

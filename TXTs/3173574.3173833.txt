@@ -1,1 +1,0 @@
-bABSTRACTnnLowresolution lowres lighting displays are increasingly used by HCI researchers designers and in the industry as a versatile and aesthetic medium for deploying ambient interfaces in various contexts

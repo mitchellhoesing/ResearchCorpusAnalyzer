@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes preliminary findings related to a system for live collaborative tagging of enterprise meetings taking place on an audio bridge between distributed participants

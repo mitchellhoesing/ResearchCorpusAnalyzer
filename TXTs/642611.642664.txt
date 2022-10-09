@@ -1,1 +1,0 @@
-bABSTRACTnnInfrastructure software comprises code libraries or runtime processes that support the development or operation of application software

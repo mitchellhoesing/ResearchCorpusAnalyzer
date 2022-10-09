@@ -1,1 +1,0 @@
-bAbstractn It has often been suggested that users understand and reason about complex systems on the basis of a mental model of the systems internal mechanics

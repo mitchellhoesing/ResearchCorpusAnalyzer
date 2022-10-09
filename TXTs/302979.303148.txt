@@ -1,1 +1,0 @@
-bABSTRACTnnThe widespread use of information visualization is hampered by the lack of effective labeling techniques

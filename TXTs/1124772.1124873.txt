@@ -1,1 +1,0 @@
-bABSTRACTn An intuitive context aware service between two devices is possible using touch with the intrabody communication

@@ -1,1 +1,0 @@
-bABSTRACTn Touchstone is an opensource experiment design platform designed to help establish a solid research foundation for HCI in the area of novel interaction techniques

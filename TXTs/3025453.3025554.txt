@@ -1,1 +1,0 @@
-bABSTRACTn Despite the long development of Graphical User Interfaces working with multiple graphical objects remains a challenge due to the difficulties of forming complex selections ambiguities of operations and tediousness of repetitively unselectreselect or ungroupregroup objects

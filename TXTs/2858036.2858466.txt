@@ -1,1 +1,0 @@
-bABSTRACTnnPrevious work on muscle activity sensing has leveraged specialized sensors such as electromyography and force sensitive resistors

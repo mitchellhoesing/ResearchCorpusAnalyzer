@@ -1,1 +1,0 @@
-bABSTRACTnnThe scatterplot matrix SPLOM is a commonly used technique for visualizing multiclass multivariate data

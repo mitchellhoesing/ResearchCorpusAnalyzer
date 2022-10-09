@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe and identify shortcomings in two statistics recently introduced to measure accuracy in text entry evaluations the minimum string distance MSD error rate and keystrokes per character KSPC

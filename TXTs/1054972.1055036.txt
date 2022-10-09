@@ -1,1 +1,0 @@
-bAbstractnnInking and gesturing are two central tasks in penbased user interfaces

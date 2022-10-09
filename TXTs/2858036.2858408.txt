@@ -1,1 +1,0 @@
-bABSTRACTnnAs realtime monitoring and analysis become increasingly important researchers and developers turn to data stream management systems DSMSs for fast efficient ways to pose temporal queries over their datasets

@@ -1,1 +1,0 @@
-bABSTRACTnnWe present Minput a sensing and input method that enables intuitive and accurate interaction on very small devices  ones too small for practical touch screen use and with limited space to accommodate physical buttons

@@ -1,1 +1,0 @@
-bABSTRACTn There are currently two dominant interface types for searching and browsing large image collections keywordbased search and searching by overall similarity to sample images

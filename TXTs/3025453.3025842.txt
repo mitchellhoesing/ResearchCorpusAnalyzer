@@ -1,1 +1,0 @@
-bABSTRACTn Current touch input technologies are best suited for small and flat applications such as smartphones tablets and kiosks

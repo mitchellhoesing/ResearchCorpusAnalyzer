@@ -1,1 +1,0 @@
-bABSTRACTnnA marking menu allows a user to perform a menu selection by either poppingup a radial or pie menu or by making a straight mark in the direction of the desired menu item without poppingup the menu

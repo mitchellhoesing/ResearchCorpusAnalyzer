@@ -1,1 +1,0 @@
-bABSTRACTn Automatic localization of cultural resources and UIs is crucial for the survival of minority languages for which there are insufficient parallel corpora or no corpus at all to build machine translation systems

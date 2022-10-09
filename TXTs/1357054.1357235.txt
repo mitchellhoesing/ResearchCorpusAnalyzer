@@ -1,1 +1,0 @@
-bABSTRACTn Liquid layout of web browser elements enables enterprise applications to adapt to larger windows on larger displays but guidelines are needed to define layout rules for widescreen page content

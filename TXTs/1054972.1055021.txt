@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents the design implementation and validation of an enhanced mobile phone messaging system DeDe allowing the sender to define the context in which the message will be delivered to the recipient

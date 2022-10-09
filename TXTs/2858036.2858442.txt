@@ -1,1 +1,0 @@
-bABSTRACTnnExploring source code history is an important task for software maintenance

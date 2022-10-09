@@ -1,1 +1,0 @@
-bABSTRACTnnAlpha blending allows the simultaneous display of overlapping windowssuch as palette windows in visual workspaces

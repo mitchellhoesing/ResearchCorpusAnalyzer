@@ -1,1 +1,0 @@
-bABSTRACTn We present Cued GazePoints CGP as a shouldersurfing resistant cuedrecall graphical password scheme where users gaze instead of mouseclick

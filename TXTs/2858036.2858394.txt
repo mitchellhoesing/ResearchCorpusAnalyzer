@@ -1,1 +1,0 @@
-bABSTRACTnnWe report on the Latency Hammer a lowcost yet highaccuracy and highprecision automated tool that measures the interface latency of touchscreen devices

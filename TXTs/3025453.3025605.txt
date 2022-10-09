@@ -1,1 +1,0 @@
-bABSTRACTn Operating systems support autoscroll to allow users to scroll a view while in dragging mode the user moves the pointer near the windows edge to trigger an automatic scrolling whose rate is typically proportional to the distance between the pointer and the windows edge

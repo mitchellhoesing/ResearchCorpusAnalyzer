@@ -1,1 +1,0 @@
-bABSTRACTn ZeroTouch ZT is a unique optical sensing technique and architecture that allows precision sensing of hands fingers and other objects within a constrained 2dimensional plane

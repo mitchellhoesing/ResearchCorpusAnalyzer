@@ -1,1 +1,0 @@
-bABSTRACTn We evaluate the performance and usability of mousebased touchbased and tangible interaction for manipulating objects in a 3D virtual environment

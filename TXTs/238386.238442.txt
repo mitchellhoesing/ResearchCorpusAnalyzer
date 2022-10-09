@@ -1,1 +1,0 @@
-bABSTRACTn We show how to deliver a sophisticated yet intuitive interactive application over the web using offtheshelf web browsers as the interaction medium

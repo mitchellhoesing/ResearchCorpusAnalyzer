@@ -1,1 +1,0 @@
-bABSTRACTn We present an approach to interactive recommending that combines the advantages of algorithmic techniques with the benefits of usercontrolled interactive exploration in a novel manner

@@ -1,1 +1,0 @@
-bABSTRACTnnGraphical displays are a typical means for conveying awareness information in groupware systems to help users track joint activities but are not ideal when vision is constrained

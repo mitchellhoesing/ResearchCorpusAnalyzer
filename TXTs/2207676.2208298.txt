@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we describe the design and development of a multitouch surface and software that challenges current approaches to the production and consumption of comics

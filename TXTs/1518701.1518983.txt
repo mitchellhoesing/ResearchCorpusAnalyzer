@@ -1,1 +1,0 @@
-bABSTRACTnnAudio CAPTCHAs were introduced as an accessible alternative for those unable to use the more common visual CAPTCHAs but anecdotal accounts have suggested that they may be more difficult to solve

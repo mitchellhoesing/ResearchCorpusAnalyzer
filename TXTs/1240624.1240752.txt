@@ -1,1 +1,0 @@
-bABSTRACTn This paper presents a novel way of using realtime heart rate information to control a physically interactive biathlon skiing and shooting computer game

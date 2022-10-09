@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we present a design and an evaluation of a handheld trackball based touchhaptic interface named TouchBall

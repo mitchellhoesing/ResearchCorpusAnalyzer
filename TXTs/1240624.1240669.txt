@@ -1,1 +1,0 @@
-bABSTRACTnnIf applications were able to detect a users expertise then software could automatically adapt to better match expertise

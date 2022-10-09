@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we present HumanAided Computing an approach that uses an electroencephalograph EEG device to measure the presence and outcomes of implicit cognitive processing processing that users perform automatically and may not even be aware of

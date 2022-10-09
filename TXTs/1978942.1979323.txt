@@ -1,1 +1,0 @@
-bABSTRACTn Knowledgebased authentication systems generally rely upon users explicit recollection of passwords facts or personal preferences

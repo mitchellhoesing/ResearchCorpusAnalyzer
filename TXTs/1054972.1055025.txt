@@ -1,1 +1,0 @@
-bABSTRACTnnThe subArctic user interface toolkit has extensibility as one of its central goals

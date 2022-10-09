@@ -1,1 +1,0 @@
-bABSTRACTnnLanguage translation is slow and expensive so various forms of machine assistance have been devised

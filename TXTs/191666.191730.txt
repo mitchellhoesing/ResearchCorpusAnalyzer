@@ -1,1 +1,0 @@
-bABSTRACTnnA usercentered approach to interactive system development requires a way to represent the behavior of a user interacting with an interface

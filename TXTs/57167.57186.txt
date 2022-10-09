@@ -1,1 +1,0 @@
-bABSTRACTnnFor the past six years we have been developing a commercial hypermedia system KMS based on our previous research with the ZOO system at Carnegie Mellon University

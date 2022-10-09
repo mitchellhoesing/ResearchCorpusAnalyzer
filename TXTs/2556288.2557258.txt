@@ -1,1 +1,0 @@
-bABSTRACTn We present TouchSense which provides additional touchscreen input vocabulary by distinguishing the areas of users finger pads contacting the touchscreen

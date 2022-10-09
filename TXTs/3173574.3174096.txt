@@ -1,1 +1,0 @@
-bABSTRACTnnFor telepresence to support the richness of multiparty conversations it is important to convey motion parallax and stereoscopy without headworn apparatus

@@ -1,1 +1,0 @@
-bABSTRACTnnInterface designers often use screenshot images of example designs as building blocks for new designs

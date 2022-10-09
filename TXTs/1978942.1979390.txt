@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce FacetStreams a hybrid interactive surface for colocated collaborative product search on a tabletop

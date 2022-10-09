@@ -1,1 +1,0 @@
-bAbstractnnAn experiment on transfer of learning using text editors revealed significant differences in performance based on the learning experience of the subjects

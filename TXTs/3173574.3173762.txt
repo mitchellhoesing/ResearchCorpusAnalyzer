@@ -1,1 +1,0 @@
-bABSTRACTnnWe present a scalable DoItYourself DIY fabrication workflow for prototyping highly stretchable yet robust devices using a CO2 laser cutter which we call Silicone Devices

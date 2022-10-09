@@ -1,1 +1,0 @@
-bABSTRACTnnWe present FlickBoard which combines a touchpad and a keyboard into the same interaction area to reduce hand movement between a separate keyboard and touchpad

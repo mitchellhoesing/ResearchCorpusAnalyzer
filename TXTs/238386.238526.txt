@@ -1,1 +1,0 @@
-bABSTRACTnnThe Amulet user interface development environment uses hierarchical command objects to support the creation of highlyinteractive graphical user interfaces

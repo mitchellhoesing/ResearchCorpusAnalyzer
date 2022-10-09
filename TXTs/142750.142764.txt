@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe an interface prototype the Hierarchical VideonMagnifier which allows users to work with a video source at finelevels of detail while maintaining an awareness of temporal context

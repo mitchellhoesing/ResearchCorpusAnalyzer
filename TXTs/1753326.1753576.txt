@@ -1,1 +1,0 @@
-bABSTRACTn Many power users that contribute to open source projects have no intention of becoming regular contributors they just want a bug fixed or a feature implemented

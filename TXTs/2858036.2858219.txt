@@ -1,1 +1,0 @@
-bABSTRACTnnRanking users in social networks is a wellstudied problem typically solved by algorithms that leverage network structure to identify influential users and recommend people to follow

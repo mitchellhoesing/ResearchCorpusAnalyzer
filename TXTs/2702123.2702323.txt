@@ -1,1 +1,0 @@
-bABSTRACTnnDesign methodologies for information visualizations are typically based on the assumption that the users will be fully engaged in the visual exploration of the displayed information

@@ -1,1 +1,0 @@
-bABSTRACTnnOne of the central challenges of egocentric or personal social network research is minimizing the quantity of data that is requested from research participants while ensuring high data accuracy and validity

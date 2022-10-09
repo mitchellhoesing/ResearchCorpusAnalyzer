@@ -1,1 +1,0 @@
-bABSTRACTn This paper presents results from a user study designed to evaluate the effectiveness of Korean text entry methods for smartwatches

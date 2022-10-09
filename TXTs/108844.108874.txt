@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper proposes a concept for the user interface of information retrieval systems called an information workspace

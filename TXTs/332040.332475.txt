@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes an applicationindependent tool callednAnchored Conversations that brings together textbased conversations and documents

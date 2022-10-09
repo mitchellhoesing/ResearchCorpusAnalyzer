@@ -1,1 +1,0 @@
-bABSTRACTn Our goal is to enhance navigation in mobile interfaces with quick command gestures that do not make use of explicit modeswitching actions

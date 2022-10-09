@@ -1,1 +1,0 @@
-bAbstractnnA scenario is an idealised but detailed description of a specific instance of humancomputer interactionnHCI

@@ -1,1 +1,0 @@
-bABSTRACTnnAlthough different types of touch surfaces have gained extensive attention in HCI this is the first work to directly compare them for two critical factors performance and ergonomics

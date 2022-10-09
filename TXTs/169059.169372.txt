@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we introduce a style of interaction interactive querying that combines features of hypertext with Boolean querying using direct markup of text to launch queries

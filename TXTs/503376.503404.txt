@@ -1,1 +1,0 @@
-bABSTRACTnnCPMGOMS is a modeling method that combines the task decomposition of a GOMS analysis with a model of human resource usage at the level of cognitive perceptual and motor operations

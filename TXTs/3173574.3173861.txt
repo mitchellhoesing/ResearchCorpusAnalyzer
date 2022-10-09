@@ -1,1 +1,0 @@
-bABSTRACTnnINTRODUCTIONnnWhile user representations are extensively used on public displays it remains unclear how well users can recognize their own representation among those of surrounding users

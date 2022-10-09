@@ -1,1 +1,0 @@
-bABSTRACTnnAny user interface which automatically interprets the users input using natural modalities like gestures makes mistakes

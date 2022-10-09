@@ -1,1 +1,0 @@
-bABSTRACTn An important problem for HCI researchers is to estimate the parameter values of a cognitive model from behavioral data

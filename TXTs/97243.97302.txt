@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes VideoDraw a shared drawing tool and the process by which it is being designed and developed

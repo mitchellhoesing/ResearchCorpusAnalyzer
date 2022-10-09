@@ -1,1 +1,0 @@
-bABSTRACTn Ultrasonic haptic feedback is a promising means of providing tactile sensations in midair without encumbering the user with an actuator

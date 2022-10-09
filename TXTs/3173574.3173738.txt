@@ -1,1 +1,0 @@
-bABSTRACTnnWe evaluate the efficacy of shoulder surfing defenses for PINbased authentication systems

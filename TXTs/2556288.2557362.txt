@@ -1,1 +1,0 @@
-bABSTRACTn Stroke gestures are intuitive and efficient but often require gesturecapable input hardware such as a touchscreen

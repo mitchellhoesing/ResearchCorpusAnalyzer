@@ -1,1 +1,0 @@
-bABSTRACTnnWe propose an effective pattern lock strength meter to help users choose stronger pattern locks on Android devices

@@ -1,1 +1,0 @@
-bABSTRACTn The Sound of Touch is a new tool for realtime capture and sensitive physical stimulation of sound samples using digital convolution

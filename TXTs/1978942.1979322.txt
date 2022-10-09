@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we propose and evaluate Marasim a novel Jigsaw based graphical authentication mechanism using tagging

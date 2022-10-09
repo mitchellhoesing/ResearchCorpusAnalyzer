@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we propose a model to predict the performance of selection techniques using BrainComputer Interfaces based on P300 signals

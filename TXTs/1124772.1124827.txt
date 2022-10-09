@@ -1,1 +1,0 @@
-bABSTRACTnnAccessing information on mobile and wearable devices often requires the users visual attention and the precise operation of virtual or physical widgets

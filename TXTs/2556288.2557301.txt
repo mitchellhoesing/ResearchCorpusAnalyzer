@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we describe how we developed an information display prototype for trauma resuscitation teams based on design ideas and feedback from clinicians

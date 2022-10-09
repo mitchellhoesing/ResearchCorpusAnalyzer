@@ -1,1 +1,0 @@
-bABSTRACTn Many tasks in graphical user interfaces require users to interact with elements at various levels of precision

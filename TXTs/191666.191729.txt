@@ -1,1 +1,0 @@
-bABSTRACTn Several published sets of usability heuristics were compared with a database of existing usability problems drawn from a variety of projects in order to determine what heuristics best explain actual usability problems

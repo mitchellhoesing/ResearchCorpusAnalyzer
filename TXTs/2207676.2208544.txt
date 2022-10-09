@@ -1,1 +1,0 @@
-bABSTRACTn Password patterns as used on current Android phones and other shapebased authentication schemes are highly usable and memorable

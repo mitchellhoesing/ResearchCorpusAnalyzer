@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe an approach to developing objectoriented applications that seeks to integrate the design of user tasks with the design of software implementing these tasks

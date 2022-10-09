@@ -1,1 +1,0 @@
-bABSTRACTnnWe present a haptic wristwatch prototype that makes it possible to acquire information from a companion mobile device through simple eyesfree gestures

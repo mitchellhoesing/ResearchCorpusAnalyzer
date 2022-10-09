@@ -1,1 +1,0 @@
-bABSTRACTnnWe present TimeFork an interactive prediction technique to support users predicting the future of timeseries data such as in financial scientific or medical domains

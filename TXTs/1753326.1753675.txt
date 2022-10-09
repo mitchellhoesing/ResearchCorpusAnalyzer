@@ -1,1 +1,0 @@
-bABSTRACTnnWireless Sensor Networks WSNs allow the monitoring of activity or environmental conditions over a large area from homes to industrial plants from agriculture fields to forests and glaciers

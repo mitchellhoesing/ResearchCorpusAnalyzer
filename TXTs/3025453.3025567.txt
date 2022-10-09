@@ -1,1 +1,0 @@
-bABSTRACTnnModern tablets support simultaneous pen and touch input but it remains unclear how to best leverage this capability for bimanual input when the nonpreferred hand holds the tablet

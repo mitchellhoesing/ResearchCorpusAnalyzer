@@ -1,1 +1,0 @@
-bABSTRACTnnMany interactive devices use both machine elements and sensors simultaneously but redundantly enabling and measuring the same physical function

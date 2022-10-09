@@ -1,1 +1,0 @@
-bABSTRACTnnGuidelines for designing information charts often state that the presentation should reduce chart junk  visual embellishments that are not essential to understanding the data

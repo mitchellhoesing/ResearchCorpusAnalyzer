@@ -1,1 +1,0 @@
-bABSTRACTn This paper proposes a transformation of the Cognitive Walkthrough CW a theorybased usability inspection method that has proven useful in designing applications that support use by exploration

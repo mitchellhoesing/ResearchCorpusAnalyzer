@@ -1,1 +1,0 @@
-bABSTRACTnnAn intriguing anomaly of the usual way of designing Fitts law experiments in experimental psychology and HCI is exposed experiments are traditionally designed so as to carefully balance two ancillary factors target distance D and target width W but not task difficulty the factor unanimously thought to be crucial

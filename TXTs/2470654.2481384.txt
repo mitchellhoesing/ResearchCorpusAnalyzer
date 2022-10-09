@@ -1,1 +1,0 @@
-bABSTRACTn We propose a new approach for improving text entry accuracy on touchscreen keyboards by adapting the underlying spatial model to factors such as input hand postures individuals and target key positions

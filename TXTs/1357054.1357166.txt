@@ -1,1 +1,0 @@
-bABSTRACTnnDisplaying scanned book pages in a web browser is difficult due to an array of characteristics of the common users configuration that compound to yield text that is degraded and illegibly small

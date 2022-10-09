@@ -1,1 +1,0 @@
-bABSTRACTn We propose a novel perspective on the design of toolbar buttons that aims to increase keyboard shortcut accessibility

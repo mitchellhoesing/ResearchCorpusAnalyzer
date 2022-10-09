@@ -1,1 +1,0 @@
-bABSTRACTn   Despite the increasing popularity of head mounted displays HMDs development of efficient text entry methods on these devices has remained under explored

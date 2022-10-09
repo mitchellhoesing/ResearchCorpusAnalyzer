@@ -1,1 +1,0 @@
-bABSTRACTn To design information visualization tools for collaborative use we need to understand how teams engage with visualizations during their information analysis process

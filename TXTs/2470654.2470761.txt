@@ -1,1 +1,0 @@
-bABSTRACTnnWe present a novel approach to graspable interfaces usingnTouchbugs actuated physical objects for interacting with interactive surface computing applications

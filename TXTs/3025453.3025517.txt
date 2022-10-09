@@ -1,1 +1,0 @@
-bABSTRACTn We present cascading dwell gaze typing a novel approach to dwellbased eye typing that dynamically adjusts the dwell time of keys in an onscreen keyboard based on the likelihood that a key will be selected next and the location of the key on the keyboard

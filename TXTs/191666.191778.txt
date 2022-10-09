@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper introduces multitrees a new type of structure for representing information

@@ -1,1 +1,0 @@
-bABSTRACTnnThe rigidity and fragmentation of GUI toolkits are fundamentally limiting the progress and impact of interaction research

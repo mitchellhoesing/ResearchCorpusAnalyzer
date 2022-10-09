@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we present the design and evaluation of dynamic security questions for fallback authentication

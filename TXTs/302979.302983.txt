@@ -1,1 +1,0 @@
-bABSTRACTnnThe design and evaluation of a high performance soft keyboard for mobile systems are described

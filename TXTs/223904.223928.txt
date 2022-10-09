@@ -1,1 +1,0 @@
-bABSTRACTnnA significant body of usability work has addressed the issue of response time in interactive systems

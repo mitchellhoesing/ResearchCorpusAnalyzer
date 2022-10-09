@@ -1,1 +1,0 @@
-bABSTRACTn Development of a rich handgesturebased interface is currently a tedious process requiring expertise in computer vision andor machine learning

@@ -1,1 +1,0 @@
-bABSTRACTn In this paper a system called Caretta that integrates personal and shared spaces to support facetoface collaboration is described

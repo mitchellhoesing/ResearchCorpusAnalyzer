@@ -1,1 +1,0 @@
-bABSTRACTnnNinja cursors aim to speed up target selection on large or multiple monitors

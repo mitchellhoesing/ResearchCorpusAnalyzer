@@ -1,1 +1,0 @@
-bAbstractnnThis research has been motivated by the lack of models and languages in the visual design field that are able to address design solutions which continuously adapt in response to the dynamic changes both in the information itself and in the goals or intentions of the information recipient

@@ -1,1 +1,0 @@
-bABSTRACTnnDevelopers of User Interface Management Systems UIMS have demonstrated that separating the application from its user interface supports device independence and customization

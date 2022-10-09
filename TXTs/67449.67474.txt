@@ -1,1 +1,0 @@
-bABSTRACTnnWe use GOMS models to predict error rates and mental times for translating financial concepts into equations in two widely used interface representations

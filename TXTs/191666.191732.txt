@@ -1,1 +1,0 @@
-bABSTRACTnnUsers who are blind currently have limited access to graphical user interfaces based on MS Windows or X Windows

@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe the design of SelfReflector an internetconnected mirror that uses online facial recognition to estimate your age and play music from when it thinks you were 14 years old

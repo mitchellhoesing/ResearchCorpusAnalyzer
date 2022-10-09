@@ -1,1 +1,0 @@
-bABSTRACTn Touch input is constrained typically only providing finger XY coordinates

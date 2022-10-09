@@ -1,1 +1,0 @@
-bABSTRACTn We describe a new type of graphical user interface widget called the PieCursor

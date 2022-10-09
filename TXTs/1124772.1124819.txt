@@ -1,1 +1,0 @@
-bABSTRACTn In many environments it is often the case that input is made to displays that are positioned nontraditionally relative to one or more users

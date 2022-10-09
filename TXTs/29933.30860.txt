@@ -1,1 +1,0 @@
-bAbstractn An interface is presented that is designed to help users switch among tasks on which they are concurrently working

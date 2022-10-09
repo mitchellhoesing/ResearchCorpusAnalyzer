@@ -1,1 +1,0 @@
-bABSTRACTnnWe present a machine learning technique to recognize gestures and estimate metric depth of hands for 3D interaction relying only on monocular RGB video input

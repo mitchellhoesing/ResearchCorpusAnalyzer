@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we describe a new method for doing text input with touch sensitive wheels

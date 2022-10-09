@@ -1,1 +1,0 @@
-bABSTRACTnnPatientgenerated data such as data from wearable fitness trackers and smartphone apps are viewed as a valuable information source towards personalised healthcare

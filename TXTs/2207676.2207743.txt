@@ -1,1 +1,0 @@
-bABSTRACTn Touche proposes a novel Swept Frequency Capacitive Sensing technique that can not only detect a touch event but also recognize complex configurations of the human hands and body

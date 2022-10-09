@@ -1,1 +1,0 @@
-bABSTRACTnnWordspottingnWordspotting is the ability to locate a keyword or phrase in the context of fluent speech

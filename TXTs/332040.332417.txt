@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce HandSCAPE an orientationaware digital tape measure as an input device for digitizing field measurements and visualizing the volume of the resulting vectors with computer graphics

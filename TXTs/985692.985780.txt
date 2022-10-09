@@ -1,1 +1,0 @@
-bABSTRACTnnUsers of modern GUIs routinely engage in visual searches for various control items such as buttons and icons

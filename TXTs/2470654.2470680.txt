@@ -1,1 +1,0 @@
-bABSTRACTn SpaceTop is a concept that fuses 2D and spatial 3D interactions in a single desktop workspace

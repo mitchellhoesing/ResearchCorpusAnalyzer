@@ -1,1 +1,0 @@
-bABSTRACTnnAn ontology is a machine processable artifact that captures knowledge about some domain of interest

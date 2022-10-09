@@ -1,1 +1,0 @@
-bABSTRACTn The iStuff toolkit of physical devices and the flexible software infrastructure to support it were designed to simplify the exploration of novel interaction techniques in the postdesktop era of multiple users devices systems and applications collaborating in an interactive environment

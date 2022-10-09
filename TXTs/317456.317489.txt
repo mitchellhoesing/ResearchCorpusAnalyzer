@@ -1,1 +1,0 @@
-bAbstractnnADM is a system for developing user interfaces

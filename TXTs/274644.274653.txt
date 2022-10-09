@@ -1,1 +1,0 @@
-bABSTRACTnnThe paper describes how we designed and prototypednHandJive a haptic device for interpersonal entertainment

@@ -1,1 +1,0 @@
-bABSTRACTn Commercial 3D scene acquisition systems such as the Microsoft Kinect sensor can reduce the cost barrier of realizing midair interaction

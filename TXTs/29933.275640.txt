@@ -1,1 +1,0 @@
-bAbstractnnIn the domain of interaction languages forms have been found to be of value in allowing users especially nonprogrammers to specify objects and operations with a minimum of training time and errors

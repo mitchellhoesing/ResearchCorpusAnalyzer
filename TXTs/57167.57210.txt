@@ -1,1 +1,0 @@
-bABSTRACTnnSoftware documentation should be useful to the programmer trying to understand a program

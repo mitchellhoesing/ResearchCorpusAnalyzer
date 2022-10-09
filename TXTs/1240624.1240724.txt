@@ -1,1 +1,0 @@
-bABSTRACTnnRecently proposed novel interaction techniques such as cursor jumping and target expansion for tiled arrangements are predicated on an ability to effectively estimate the endpoint of an input gesture prior to its completion

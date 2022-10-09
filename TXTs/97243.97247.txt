@@ -1,1 +1,0 @@
-bABSTRACTn A technique that measures the impact of command selection on task time and errors is described

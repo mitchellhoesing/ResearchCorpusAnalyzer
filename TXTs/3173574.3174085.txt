@@ -1,1 +1,0 @@
-bABSTRACTnnConversational programmers represent a class of learners who are not required to write any code yet try to learn programming to improve their participation in technical conversations

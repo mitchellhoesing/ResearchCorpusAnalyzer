@@ -1,1 +1,0 @@
-bABSTRACTnnIn a typical speech dictation interface the recognizers bestguess is displayed as normal unannotated text

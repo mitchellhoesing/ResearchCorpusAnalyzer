@@ -1,1 +1,0 @@
-bABSTRACTnnAn experiment was conducted to study how credibility judgments about Wikipedia are affected by providing users with an interactive visualization WikiDashboard of article and author editing history

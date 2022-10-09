@@ -1,1 +1,0 @@
-bABSTRACTnnThe operation of complex realworld systems such as industrial plants requires that multiple users cooperate in monitoring and controlling large amounts of information to supervise complex processes

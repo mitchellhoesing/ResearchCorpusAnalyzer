@@ -1,1 +1,0 @@
-bABSTRACTnnCurrent solutions for managing music in mobile contexts are inconvenient as they require considerable effort and visual attention

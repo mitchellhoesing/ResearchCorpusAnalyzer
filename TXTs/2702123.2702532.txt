@@ -1,1 +1,0 @@
-bABSTRACTnnVoice interaction with mobile devices has been focused on handsfree interaction or situations where visual interfaces are not applicable

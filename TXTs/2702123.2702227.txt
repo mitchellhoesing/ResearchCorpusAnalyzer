@@ -1,1 +1,0 @@
-bABSTRACTnnDynamic peephole navigation represents a technique for navigating large information spaces in an egocentric way

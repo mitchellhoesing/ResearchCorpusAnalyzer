@@ -1,1 +1,0 @@
-bABSTRACTn To meet the increasing requirements of HCI researchers who are prototyping a variety of forms to create novel interfaces under a ubiquitous situation we present WeaveMesh a lowfidelity and lowcost rapid prototyping system that produces 3D objects in a mesh structure

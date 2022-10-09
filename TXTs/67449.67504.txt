@@ -1,1 +1,0 @@
-bABSTRACTnnOne need not create a natural language understanding system in order to create a hypertext data base that can be traversed with unconstrained natural language

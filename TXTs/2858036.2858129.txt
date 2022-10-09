@@ -1,1 +1,0 @@
-bABSTRACTnnThe settings panel is the standard customization mechanism used in software applications today yet it has undergone minimal design improvement since its introduction in the 1980s

@@ -1,1 +1,0 @@
-bABSTRACTnnThe objectoriented history mechanism of the GINA application framework and its relevance for multiuser applications are demonstrated

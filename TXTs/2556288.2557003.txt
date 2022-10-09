@@ -1,1 +1,0 @@
-bABSTRACTnnMobile location recognition by capturing images of the environment visual localization is a promising technique for indoor navigation in arbitrary surroundings

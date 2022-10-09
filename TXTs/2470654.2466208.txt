@@ -1,1 +1,0 @@
-bABSTRACTn We present MultiNet a novel method for securely associating devices with a domestic wireless network

@@ -1,1 +1,0 @@
-bABSTRACTnnShoogle is a novel intuitive interface for sensing data within a mobile device such as presence and properties of text messages or remaining resources

@@ -1,1 +1,0 @@
-bABSTRACTnnWe present VelociTap a stateoftheart touchscreen keyboard decoder that supports a sentencebased text entry approach

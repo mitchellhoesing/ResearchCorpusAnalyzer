@@ -1,1 +1,0 @@
-bABSTRACTn We describe the design and analysis of a Fitts law experiment conducted in a multipledisplay environment MDE in which the physical gap between displays and the proximity of targets to the gap systematically varied

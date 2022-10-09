@@ -1,1 +1,0 @@
-bABSTRACTnnVision research relating to the human perception of texture is briefly reviewed with a view to arriving at the principal dimensions of visual texture useful for data display

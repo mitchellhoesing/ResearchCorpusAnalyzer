@@ -1,1 +1,0 @@
-bABSTRACTnnSelecting items in cascading pulldown menus is a frequent task in most GUIs

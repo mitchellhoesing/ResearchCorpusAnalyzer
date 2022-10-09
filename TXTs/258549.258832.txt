@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes the design of HotJava Views a user environment and suite of applications for a Network Computer

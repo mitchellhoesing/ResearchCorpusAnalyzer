@@ -1,1 +1,0 @@
-bABSTRACTnnCurrent mobile devices do not leverage the rich haptic channel of information that our hands can sense and instead focus primarily on touch based graphical interfaces

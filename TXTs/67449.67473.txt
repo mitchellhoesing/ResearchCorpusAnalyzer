@@ -1,1 +1,0 @@
-bABSTRACTnnThis study presents a theoretically motivated analysis of learning and performance on a microprocessor based oscilloscope

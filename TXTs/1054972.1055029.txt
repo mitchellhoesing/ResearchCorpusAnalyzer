@@ -1,1 +1,0 @@
-bABSTRACTn This paper presents XPRT a new cognitive modeling tool supporting activities ranging from interface design to basic cognitive research

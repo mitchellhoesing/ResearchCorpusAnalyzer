@@ -1,1 +1,0 @@
-bABSTRACTn Physical controls such as knobs sliders and buttons are experiencing a revival as many computing systems progress from personal computing architectures towards ubiquitous computing architectures

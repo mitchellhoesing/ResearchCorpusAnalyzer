@@ -1,1 +1,0 @@
-bABSTRACTnnThis work describes a novel building block system for tangible interaction design GaussBricks which enables realtime constructive tangible interactions on portable displays

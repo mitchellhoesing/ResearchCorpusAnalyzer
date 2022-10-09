@@ -1,1 +1,0 @@
-bABSTRACTn An interface for software that creates a natural environment for engineering graphics students to improve their spatial reasoning and 3D visualization skills is described

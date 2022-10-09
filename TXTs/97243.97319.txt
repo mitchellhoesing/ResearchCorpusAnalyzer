@@ -1,1 +1,0 @@
-bABSTRACTnnA curriculum was developed to introduce users to the Smalltalk objectoriented programming language

@@ -1,1 +1,0 @@
-bABSTRACTn An experimental 3D interface is described including rendering acceleration hardware a 3D mouse and 3D interaction techniques

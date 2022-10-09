@@ -1,1 +1,0 @@
-bABSTRACTnnINTRODUCTIONnnDesigners and researchers often rely on simple gesture recognizers like Wobbrock et al

@@ -1,1 +1,0 @@
-bABSTRACTnnFitness trackers not just provide easy means to acquire physiological data in realworld environments due to affordable sensing technologies they further offer opportunities for physiologyaware applications and studies in HCI however their performance is not well understood

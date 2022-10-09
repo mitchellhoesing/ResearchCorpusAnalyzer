@@ -1,1 +1,0 @@
-bABSTRACTnnIn spite of many advances in GUI workstations the keyboard has remained limited to text entry and basic command invocation

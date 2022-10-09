@@ -1,1 +1,0 @@
-bABSTRACTnnTactile Brush is an algorithm that produces smooth twodimensional tactile moving strokes with varying frequency intensity velocity and direction of motion

@@ -1,1 +1,0 @@
-bABSTRACTnnMagic LensTM filters are a new user interface tool that combine an arbitrarilyshaped region with an operator that changes the view of objects viewed through that region

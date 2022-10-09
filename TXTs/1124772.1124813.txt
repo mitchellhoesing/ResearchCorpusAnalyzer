@@ -1,1 +1,0 @@
-bABSTRACTnnThe project fragmentation problem in personal information management occurs when someone who is working on a single project stores and retrieves information items relating to that project from separate formatrelated collectionsndocuments emails and favorite Web sites

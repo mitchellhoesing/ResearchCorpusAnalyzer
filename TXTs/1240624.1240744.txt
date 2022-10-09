@@ -1,1 +1,0 @@
-bABSTRACTn We present Senspectra a computationally augmented physical modeling toolkit designed for sensing and visualization of structural strain

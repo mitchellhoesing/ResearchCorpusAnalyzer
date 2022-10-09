@@ -1,1 +1,0 @@
-bABSTRACTnnSemiautonomous vehicles occasionally require control to be handed over to the driver in situations where the vehicle is unable to operate safely

@@ -1,1 +1,0 @@
-bABSTRACTnnGatherReader is a prototype ereader with both pen and multitouch input that illustrates several interesting design tradeoffs to fluidly interleave content consumption behaviors reading and flipping through pages with information gathering and informal organization activities geared to active reading tasks

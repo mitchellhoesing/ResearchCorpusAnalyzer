@@ -1,1 +1,0 @@
-bABSTRACTn We present an interactive method for cropping photographs given minimal information about the location of important content provided by eye tracking

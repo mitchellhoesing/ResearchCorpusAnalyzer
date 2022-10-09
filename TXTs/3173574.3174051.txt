@@ -1,1 +1,0 @@
-bABSTRACTnnText selection on touch devices can be a difficult task for users

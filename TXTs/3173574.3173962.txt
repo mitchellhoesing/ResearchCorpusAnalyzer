@@ -1,1 +1,0 @@
-bABSTRACTnnWe present Qetch a tool where users freely sketch patterns on a scaleless canvas to query time series data without specifying query length or amplitude

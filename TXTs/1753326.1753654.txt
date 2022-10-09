@@ -1,1 +1,0 @@
-bABSTRACTnnProtractor is a novel gesture recognizer that can be easily implemented and quickly customized for different users

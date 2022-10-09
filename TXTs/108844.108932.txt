@@ -1,1 +1,0 @@
-bABSTRACTnnVideoWhiteboard is a prototype tool to support remote shared drawing activity

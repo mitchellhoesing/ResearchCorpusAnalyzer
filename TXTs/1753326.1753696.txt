@@ -1,1 +1,0 @@
-bABSTRACTnnPACER is a gesturebased interactive paper system that supports finegrained paper document content manipulation through the touch screen of a cameraphone

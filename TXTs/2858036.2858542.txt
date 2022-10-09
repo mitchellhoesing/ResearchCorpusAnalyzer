@@ -1,1 +1,0 @@
-bABSTRACTnnWe present 1D Handwriting a unistroke gesture technique enabling text entry on a onedimensional interface

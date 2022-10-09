@@ -1,1 +1,0 @@
-bABSTRACTn We present a crowdsourcing workflow to collect image annotations for visually similar synthetic categories without requiring experts

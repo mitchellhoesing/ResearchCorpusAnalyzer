@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce Pmomo acronym of projection mapping on movable object a dynamic projection mapping system that tracks the 6DOF position of realworld object and shades it with virtual 3D contents by projection

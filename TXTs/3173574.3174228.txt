@@ -1,1 +1,0 @@
-bABSTRACTnnINTRODUCTIONnnCLAW is a handheld virtual reality controller that augments the typical controller functionality with force feedback and actuated movement to the index finger

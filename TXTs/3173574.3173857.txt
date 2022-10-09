@@ -1,1 +1,0 @@
-bABSTRACTnnAlternative and augmentative communication AACnsystems used by people with speech disabilities rely on texttospeech TTS engines for synthesizing speech

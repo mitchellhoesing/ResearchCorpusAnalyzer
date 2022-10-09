@@ -1,1 +1,0 @@
-bABSTRACTnnUnlike documents annotation for multimedia information needs to be input as text not in the form of symbols such as underlines and circles

@@ -1,1 +1,0 @@
-bABSTRACTn We present the results of three webbased field experiments in which we evaluate the impact of using initial narrative visualization techniques and storytelling on userengagement with exploratory information visualizations

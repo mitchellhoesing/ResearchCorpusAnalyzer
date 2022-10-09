@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe the design of a novel mobile phonebased application for loan management in a resourceconstrained setting

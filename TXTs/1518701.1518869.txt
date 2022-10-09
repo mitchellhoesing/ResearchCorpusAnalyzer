@@ -1,1 +1,0 @@
-bABSTRACTnnPhotoScope visualizes the spatiotemporal coverage of photos in a photo collection

@@ -1,1 +1,0 @@
-bABSTRACTn This paper presents empirical results to support the use of vibrotactile cues as a means of improving user performance on a spatial task

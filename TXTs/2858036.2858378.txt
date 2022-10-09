@@ -1,1 +1,0 @@
-bABSTRACTnnInteractive devices and the services they support are reliant on the cloud and the digital infrastructure supporting it

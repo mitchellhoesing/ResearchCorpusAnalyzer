@@ -1,1 +1,0 @@
-bABSTRACTn The development of the user interface for a large commercial software product like Microsoft Windows 95 involves many people broad design goals and an aggressive work schedule

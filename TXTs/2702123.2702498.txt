@@ -1,1 +1,0 @@
-bABSTRACTn Conversational grounding or establishing mutual knowledge that messages have been understood as intended can be difficult to achieve when some conversational participants are using a nonnative language

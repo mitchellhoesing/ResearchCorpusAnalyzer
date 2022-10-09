@@ -1,1 +1,0 @@
-bABSTRACTn An experiment was conducted to investigate differences in performance between virtual pointing where a 2D computer image representing the hand and targets was superimposed on the workspace and physical pointing with vision of the hand and targets painted on the work surface

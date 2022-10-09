@@ -1,1 +1,0 @@
-bABSTRACTnnWe seek to make physical user interface PHUI design more like graphical user interface GUI design by using a dragand drop interface to place widgets allowing widgets to be repositioned and by hiding implementation details

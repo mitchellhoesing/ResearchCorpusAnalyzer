@@ -1,1 +1,0 @@
-bABSTRACTnnWe present Mechanical Force Redistribution MFR a method of sensing which creates an antialiased image of forces applied to a surface

@@ -1,1 +1,0 @@
-bABSTRACTnnFrom the point of view of the application designer user interface services work by factoring some domain com mon to a range of applications

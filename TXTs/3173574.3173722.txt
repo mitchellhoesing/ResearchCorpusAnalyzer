@@ -1,1 +1,0 @@
-bABSTRACTnnVolunteered Geographic Information VGI such as contributions to OpenStreetMap and geotagged Wikipedia articles is often assumed to be produced locally

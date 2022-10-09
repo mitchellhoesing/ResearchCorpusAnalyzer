@@ -1,1 +1,0 @@
-bABSTRACTn Prototyping of gestural interactions in the early phase of design is one of the most challenging tasks for designers without advanced programming skills

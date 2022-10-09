@@ -1,1 +1,0 @@
-bABSTRACTnnWe designed an algorithm to build a speedcall list adaptively based on mobile phone call logs

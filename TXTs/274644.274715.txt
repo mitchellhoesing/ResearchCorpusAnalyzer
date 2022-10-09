@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe an architecture which allows any external agent human or software to point into the visual space of an interactive application

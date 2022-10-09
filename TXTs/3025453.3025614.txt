@@ -1,1 +1,0 @@
-bABSTRACTn This paper explores the combination of multiple concurrent modalities for conveying emotional information in HCI temperature vibration and abstract visual displays

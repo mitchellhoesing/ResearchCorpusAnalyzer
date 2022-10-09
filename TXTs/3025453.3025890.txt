@@ -1,1 +1,0 @@
-bABSTRACTn We present the design and evaluation of pressurebased interactive control of 3D navigation precision

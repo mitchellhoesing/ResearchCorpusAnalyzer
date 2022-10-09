@@ -1,1 +1,0 @@
-bABSTRACTnnBrowserSoar models the perceptual cognitive and motor operators of a user searching for information in an online help browser

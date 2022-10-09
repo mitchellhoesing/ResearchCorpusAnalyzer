@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we describe a novel approach to the visualization of the mapping between two schemas

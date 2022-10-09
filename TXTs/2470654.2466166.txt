@@ -1,1 +1,0 @@
-bABSTRACTnnIn light of the growing interest in designing for new bodymovement based interfaces through somaesthetics and somatic awareness we created a soundbased interaction using the Microsoft Kinect device which is performed in the dark

@@ -1,1 +1,0 @@
-bABSTRACTn EarFieldSensing EarFS is a novel input method for mobile and wearable computing using facial expressions

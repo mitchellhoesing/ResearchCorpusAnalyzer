@@ -1,1 +1,0 @@
-bAbstractnnThis paper argues that it will become increasingly important to extend our concept of user interfaces for individual users of computers to include organizational interfaces for groups of users

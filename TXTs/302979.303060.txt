@@ -1,1 +1,0 @@
-bABSTRACTn Inspired by Hill and Hollans original work we have been developing a theory of interaction history and building tools to apply this theory to navigation in a complex information space

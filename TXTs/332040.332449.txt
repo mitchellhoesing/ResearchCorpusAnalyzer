@@ -1,1 +1,0 @@
-bABSTRACTn An intelligent kiosk is a public information kiosk that senses the presence of humans and communicates in a natural way

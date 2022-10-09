@@ -1,1 +1,0 @@
-bABSTRACTnnThe motivation for our work is that even though user interface guidelines and style guides contain much useful knowledge they are hard for user interface designers to use

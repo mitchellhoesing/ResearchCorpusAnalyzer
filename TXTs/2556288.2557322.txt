@@ -1,1 +1,0 @@
-bABSTRACTnnWebsites present users with puzzles called CAPTCHAs to curb abuse caused by computer algorithms masquerading as people

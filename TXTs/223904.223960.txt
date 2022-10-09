@@ -1,1 +1,0 @@
-bABSTRACTnnTraditional database query systems allow users to construct complicated database queries from specialized database language primitives

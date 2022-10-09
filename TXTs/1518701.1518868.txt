@@ -1,1 +1,0 @@
-bABSTRACTnnPeoples ability to accurately locate target objects in images is severely affected by the prevalence of the sought objects

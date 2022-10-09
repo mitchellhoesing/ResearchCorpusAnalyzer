@@ -1,1 +1,0 @@
-bAbstractn A task analysis technique called ETIT analysis is introduced It is based on the idea that tasks in the external world must be reformulated into the ifllernal concepts of a computer system before Lhe syslem can be used The analysis is in the form of a mapping beween sels of exlernal tasks and internal asks

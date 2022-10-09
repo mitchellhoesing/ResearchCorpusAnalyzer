@@ -1,1 +1,0 @@
-bABSTRACTn A sizable part of HCI research on crossdevice interaction is driven by the vision of users conducting complex knowledge work seamlessly across multiple mobile devices

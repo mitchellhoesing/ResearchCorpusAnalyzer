@@ -1,1 +1,0 @@
-bABSTRACTnnIn view of the difficulties in evaluating computer pointing devices across different tasks within dynamic and complex systems new performance measures are needed

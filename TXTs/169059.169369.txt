@@ -1,1 +1,0 @@
-bABSTRACTnnA common task at almost any computer interface is that of searching for documents which GUIS typically represent with icons Oddly little research has been done on the processes underlying icon search

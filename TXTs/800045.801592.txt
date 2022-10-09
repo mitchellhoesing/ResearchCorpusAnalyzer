@@ -1,1 +1,0 @@
-bAbstractnnThe successful use of menubased information retrieval systems depends critically on users understanding the category names and partitions used by system designers

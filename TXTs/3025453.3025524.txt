@@ -1,1 +1,0 @@
-bABSTRACTn This paper introduces BIGnav a new multiscale navigation technique based on Bayesian Experimental Design where the criterion is to maximize the informationtheoretic concept of mutual information also known as information gain

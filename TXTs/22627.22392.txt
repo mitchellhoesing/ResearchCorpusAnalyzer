@@ -1,1 +1,0 @@
-bAbstractnnWorkstations require use of the hands both for text entry and for cursorpositioning or menuselection

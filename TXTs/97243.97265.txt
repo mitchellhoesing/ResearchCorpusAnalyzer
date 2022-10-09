@@ -1,1 +1,0 @@
-bABSTRACTnnA central challenge in the design of multimedia databases is integrating information from different media sources while reducing the cognitive load imposed on users by the tasks of learning and operating the interface

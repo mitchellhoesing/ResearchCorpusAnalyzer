@@ -1,1 +1,0 @@
-bABSTRACTnnWe present the system design and rational for a novel social microcalendar called Timely

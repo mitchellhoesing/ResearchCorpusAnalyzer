@@ -1,1 +1,0 @@
-bABSTRACTnnAlgorithms are presented for creating new widgets by example

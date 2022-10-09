@@ -1,1 +1,0 @@
-bABSTRACTnnLightGuide is a system that explores a new approach to gesture guidance where we project guidance hints directly on a users body

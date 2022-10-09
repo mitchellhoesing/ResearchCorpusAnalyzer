@@ -1,1 +1,0 @@
-bABSTRACTnnMost modern stereoscopic 3D applications use fixed stereoscopic 3D parameters separation and convergence to render the scene on a 3D display

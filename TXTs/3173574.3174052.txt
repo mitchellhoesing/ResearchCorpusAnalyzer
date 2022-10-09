@@ -1,1 +1,0 @@
-bABSTRACTnnArtificial subtle expressions ASEs are machinelike expressions used to convey a systems confidence level to users intuitively

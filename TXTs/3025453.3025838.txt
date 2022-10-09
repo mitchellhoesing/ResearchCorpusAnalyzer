@@ -1,1 +1,0 @@
-bABSTRACTn Structured data such as databases spreadsheets and web tables is becoming critical in every domain and professional role

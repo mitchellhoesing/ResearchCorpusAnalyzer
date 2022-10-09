@@ -1,1 +1,0 @@
-bABSTRACTn This paper describes the design and evaluation of a branching comic to compare how readers recall a visual narrative when presented as an interactive digital program or as a linear sequence on paper

@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce a new usability inspection method callednHED heuristic evaluation during demonstrations for measuring and comparing usability of competing complexnIT systems in public procurement

@@ -1,1 +1,0 @@
-bABSTRACTn A prerequisite to the effective design of user interfaces is an understanding of the tasks for which that interface will actually be used

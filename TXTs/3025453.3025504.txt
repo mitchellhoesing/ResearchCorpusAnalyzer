@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes a contact array that outputs the maximum and minimum voltages at its contacts

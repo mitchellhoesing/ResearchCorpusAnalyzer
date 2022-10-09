@@ -1,1 +1,0 @@
-bABSTRACTn Conflicts between the pilot and the automation when pilots detect but do not understand them cause automation surprise situations and jeopardize flight safety

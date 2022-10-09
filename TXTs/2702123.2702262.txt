@@ -1,1 +1,0 @@
-bABSTRACTnnMany different domains collect event sequence data and rely on finding and analyzing patterns within it to gain meaningful insights

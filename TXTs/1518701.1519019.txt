@@ -1,1 +1,0 @@
-bABSTRACTn Group information repositories are systems for storing and organizing files in a central location all group members can access

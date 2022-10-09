@@ -1,1 +1,0 @@
-bABSTRACTnnThe stateoftheart in computer drawing programs is based on a number of concepts that are over two decades old

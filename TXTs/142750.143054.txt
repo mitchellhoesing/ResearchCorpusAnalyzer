@@ -1,1 +1,0 @@
-bAbstractn We designed implemented and evaluated a new concept for direct manipulation of databases called dynamic queries that allows users to formulate queries with graphicalwidgets such as sliders

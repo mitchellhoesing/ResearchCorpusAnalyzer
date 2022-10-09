@@ -1,1 +1,0 @@
-bABSTRACTn This paper describes the evolution implementation and use of logjam a system for video logging

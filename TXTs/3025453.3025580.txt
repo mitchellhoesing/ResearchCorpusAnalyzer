@@ -1,1 +1,0 @@
-bABSTRACTn Predicting how users learn new or changed interfaces is a longstanding objective in HCI research

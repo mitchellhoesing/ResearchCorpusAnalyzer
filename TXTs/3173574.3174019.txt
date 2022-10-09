@@ -1,1 +1,0 @@
-bABSTRACTnnTouch interactions are now ubiquitous but few tools are available to help designers quickly prototype touch interfaces and predict their performance

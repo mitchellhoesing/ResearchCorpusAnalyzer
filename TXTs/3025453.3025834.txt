@@ -1,1 +1,0 @@
-bABSTRACTn This paper outlines the development and testing of a novel feedbackenabled attention allocation aid AAAD which uses realtime physiological data to improve human performance in a realistic sequential visual search task

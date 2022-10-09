@@ -1,1 +1,0 @@
-bABSTRACTn TouchTokens are passive tokens that can be recognized on any capacitive surface based on the spatial configuration of the fingers that hold them

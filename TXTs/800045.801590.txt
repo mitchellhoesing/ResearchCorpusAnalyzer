@@ -1,1 +1,0 @@
-bAbstractnnA general method for describing the behavior of an interactive system is presented which is based on transition networks generalized enough to describe even very complex systems easily as shown by an example description of a word processor

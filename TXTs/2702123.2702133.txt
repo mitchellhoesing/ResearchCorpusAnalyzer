@@ -1,1 +1,0 @@
-bABSTRACTn We describe a midair barehand pointing and clicking interaction technique using electromyographic EMG and inertial measurement unit IMU input from a consumer armband device

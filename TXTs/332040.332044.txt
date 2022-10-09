@@ -1,1 +1,0 @@
-bABSTRACTnnWe present a model for predicting expert text entry rates for several input methods on a 12key mobile phone keypad

@@ -1,1 +1,0 @@
-bABSTRACTnnScheduling routing and layout tasks are examples of hard optimization problems with broad application in industry

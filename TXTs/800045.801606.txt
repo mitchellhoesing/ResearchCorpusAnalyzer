@@ -1,1 +1,0 @@
-bAbstractn 1nAn important part of communication is being able to point to an object without referring to its components or to the area surrounding it

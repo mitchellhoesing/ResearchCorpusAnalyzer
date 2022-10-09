@@ -1,1 +1,0 @@
-bABSTRACTnACM  Classification  Keywords  nnWe introduce Deep Thermal Imaging a new approach for closerange automatic recognition of materials to enhance the understanding of people and ubiquitous technologies of their proximal environment

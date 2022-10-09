@@ -1,1 +1,0 @@
-bAbstractn A predictive tool to simulate human visual search behavior would help interface designers inform and validate their design

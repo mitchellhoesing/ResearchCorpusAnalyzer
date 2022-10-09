@@ -1,1 +1,0 @@
-bABSTRACTn This paper describes the Dubuque Electricity Portal a cityscale system aimed at supporting voluntary reductions of electricity consumption

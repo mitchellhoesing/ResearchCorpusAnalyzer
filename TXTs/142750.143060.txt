@@ -1,1 +1,0 @@
-bABSTRACTnnThis demo show the prototyping environment of the IrcamnSignal Processing Workstation

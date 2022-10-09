@@ -1,1 +1,0 @@
-bABSTRACTn We present Omnipedia a system that allows Wikipedia readers to gain insight from up to 25 language editions of Wikipedia simultaneously

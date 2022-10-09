@@ -1,1 +1,0 @@
-bABSTRACTn Temporal trajectories can represent the complex mappings between story time and clock time that are to be found in shared interactive narratives such as computer games and interactive performances

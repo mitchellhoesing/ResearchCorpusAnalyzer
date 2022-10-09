@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper proposes a new model which describes the presentation and behaviour of user interfaces

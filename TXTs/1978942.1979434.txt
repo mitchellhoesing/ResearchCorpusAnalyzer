@@ -1,1 +1,0 @@
-bABSTRACTn We describe the interaction design process of conceiving designing implementing and testing Trollskogen a purposebuilt tabletop multitouch system featuring a range of small software applications termed micro applications

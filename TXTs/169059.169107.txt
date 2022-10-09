@@ -1,1 +1,0 @@
-bABSTRACTn QOC design rationale represents argumentation about design alternatives and assessments

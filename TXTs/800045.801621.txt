@@ -1,1 +1,0 @@
-bAbstractnnThis paper addresses issues in the human factors of computer program documentation

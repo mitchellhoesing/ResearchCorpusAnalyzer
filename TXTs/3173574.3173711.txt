@@ -1,1 +1,0 @@
-bABSTRACTnnThe widespread use of textbased search in user interfaces has led designers in visualization to occasionally add search functionality to their creations

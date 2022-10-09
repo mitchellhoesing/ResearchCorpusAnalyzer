@@ -1,1 +1,0 @@
-bABSTRACTn A discount version of Qmethodology for HCI called HCIQ can be used in iterative design cycles to explore from the point of view of users and other stakeholders what makes technologies personally significant

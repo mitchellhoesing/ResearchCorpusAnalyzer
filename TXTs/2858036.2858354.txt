@@ -1,1 +1,0 @@
-bABSTRACTnnWe present a novel optimizationbased algorithm for the design and fabrication of customized deformable input devices capable of continuously sensing their deformation

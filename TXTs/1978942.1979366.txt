@@ -1,1 +1,0 @@
-bABSTRACTn This paper analyzes a Question  Answer site for programmers Stack Overflow that dramatically improves on the utility and performance of QA systems for technical domains

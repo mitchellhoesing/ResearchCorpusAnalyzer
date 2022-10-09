@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we propose a system for helping users to judge the credibility of Web search results and to search for credible Web pages

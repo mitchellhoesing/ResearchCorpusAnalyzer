@@ -1,1 +1,0 @@
-bABSTRACTnnPrecise alignment of graphical objects and the creation of accurate layouts are crucial activities in many applications such as graphics design tools presentation software or graph editors

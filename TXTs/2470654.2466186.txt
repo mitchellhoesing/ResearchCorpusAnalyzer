@@ -1,1 +1,0 @@
-bABSTRACTn SwissCheese Extended proposes a novel realtime method for recognizing objects with capacitive proximity sensors

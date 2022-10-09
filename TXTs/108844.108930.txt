@@ -1,1 +1,0 @@
-bABSTRACTnnDance is a tool that facilitates direct manipulation demonstrational development of animations for thenTango algorithm animation system

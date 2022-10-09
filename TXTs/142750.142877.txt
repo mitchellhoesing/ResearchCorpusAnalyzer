@@ -1,1 +1,0 @@
-bABSTRACTnnAudio data is rarely used on desktop computers today although audio is otherwise widely used for communication tasks

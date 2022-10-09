@@ -1,1 +1,0 @@
-bABSTRACTnnAn animation system has been developed which generates animations from stories written in natural language

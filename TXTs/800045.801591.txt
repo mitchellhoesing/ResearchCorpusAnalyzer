@@ -1,1 +1,0 @@
-bABSTRACTnnWhen a human and computer perform similar tasks in parallel it is important that an effective line of communication exist between the two entities

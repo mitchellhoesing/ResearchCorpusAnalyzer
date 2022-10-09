@@ -1,1 +1,0 @@
-bABSTRACTnnBraille input enables fast nonvisual entry speeds on mobile touchscreen devices

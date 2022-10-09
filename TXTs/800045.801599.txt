@@ -1,1 +1,0 @@
-bABSTRACTnnSystematic differences in recognitionconfusion due to font variation is estimated by using confusion matrices of the full 26 capital letters of the English alphabet in 5 x 7 dot matrix font and Keepsake conventional stroke font

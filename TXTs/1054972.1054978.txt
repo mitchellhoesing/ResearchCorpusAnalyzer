@@ -1,1 +1,0 @@
-bAbstractnnThe Cognitive Walkthrough for the Web CWW is a partially automated usability evaluation method for identifying and repairing website navigation problems

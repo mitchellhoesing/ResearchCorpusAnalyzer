@@ -1,1 +1,0 @@
-bABSTRACTn Loop pedals are realtime samplers that playback audio played previously by a musician

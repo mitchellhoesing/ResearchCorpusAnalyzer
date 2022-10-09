@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes Tivoli an electronic whiteboard application designed to support informal workgroup meetings and targeted to run on the Xerox Liveboard a large screen penbased interactive display

@@ -1,1 +1,0 @@
-bABSTRACTn Color is commonly used to convey information in digital environments but colors can be difficult to distinguish for many users  either because of a congenital color vision deficiency CVD or because of situationinduced CVDs such as wearing colored glasses or working in sunlight

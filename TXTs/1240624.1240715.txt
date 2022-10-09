@@ -1,1 +1,0 @@
-bABSTRACTn Software developers must modify their programs to keep up with changing requirements and designs

@@ -1,1 +1,0 @@
-bABSTRACTnnIn 1997 Accot and Zhai presented seminal work analyzing the temporal cost and instantaneous speed profiles associated with movement along constrained paths

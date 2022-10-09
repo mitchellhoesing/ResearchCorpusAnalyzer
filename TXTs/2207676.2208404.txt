@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we describe ClayVision a new quasiimmersive urban navigation system that rethinks the design conventions of existing Augmented Reality AR applications by aggressively incorporating knowledge from nonComputer Science fieldsnamely Information Design and Urban Planning

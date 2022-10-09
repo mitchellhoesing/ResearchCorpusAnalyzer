@@ -1,1 +1,0 @@
-bABSTRACTn Force feedback devices resist miniaturization because they require physical motors and mechanics

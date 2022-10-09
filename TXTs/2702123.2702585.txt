@@ -1,1 +1,0 @@
-bABSTRACTnnScatterplots are an effective and commonly used technique to show the relationship between two variables

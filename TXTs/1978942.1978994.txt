@@ -1,1 +1,0 @@
-bABSTRACTn With emerging opportunities for using BrainComputer Interaction BCI in gaming applications there is a need to understand the opportunities and constraints of this interaction paradigm

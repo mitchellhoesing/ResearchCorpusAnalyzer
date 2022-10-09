@@ -1,1 +1,0 @@
-bABSTRACTn We introduce a novel time navigation technique to update ranking tables by direct manipulation

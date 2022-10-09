@@ -1,1 +1,0 @@
-bABSTRACTnnAlthough typing on touchscreens is slower than typing on physical keyboards touchscreens offer a critical potential advantage they are softwarebased and as such the keyboard layout and classification models used to interpret key presses can dynamically adapt to suit each users typing pattern

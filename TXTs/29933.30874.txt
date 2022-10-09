@@ -1,1 +1,0 @@
-bABSTRACTnnAn automated method of synchronizing facial animation to recorded speech is described

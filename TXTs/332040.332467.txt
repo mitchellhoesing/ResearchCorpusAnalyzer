@@ -1,1 +1,0 @@
-bABSTRACTnnHaptic devices are now commercially available and thus touch has become a potentially realistic solution to a variety of interaction design challenges

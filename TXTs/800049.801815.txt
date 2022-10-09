@@ -1,1 +1,0 @@
-bAbstractnnThis paper uses the analysis of human error to provide a tool for the development of principles of system design both to minimize the occurrence of error and to minimize its effects

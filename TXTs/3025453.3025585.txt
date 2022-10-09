@@ -1,1 +1,0 @@
-bABSTRACTn Touch latency has been shown to deteriorate users performances at levels as low as 25 ms but this was tested only in short experimental sessions

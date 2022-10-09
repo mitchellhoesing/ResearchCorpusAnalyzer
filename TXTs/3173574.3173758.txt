@@ -1,1 +1,0 @@
-bABSTRACTnnINTRODUCTIONnnDeveloping crossdevice multiuser interfaces UIs is a challenging problem

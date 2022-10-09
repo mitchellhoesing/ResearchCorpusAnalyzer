@@ -1,1 +1,0 @@
-bABSTRACTnnPeephole interaction occurs when a spatially aware display is moved and acts as a viewport to reveal different parts of the virtual space that cannot all fit within the display at once

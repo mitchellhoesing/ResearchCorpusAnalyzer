@@ -1,1 +1,0 @@
-bAbstractnnIn this paper we present a new model for predicting text entry speed on a 12button mobile phone keypad

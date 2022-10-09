@@ -1,1 +1,0 @@
-bABSTRACTnnWhen working with large data sets users perform three primary types of activities data manipulation data analysis and data visualization

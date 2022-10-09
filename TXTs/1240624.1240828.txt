@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we introduce an implementation for detailed monitoring of user actions on web pages

@@ -1,1 +1,0 @@
-bABSTRACTnnAn automated vehicle needs to learn how human road users experience the intentions of other drivers and understand how they communicate with each other in order to avoid misunderstandings and prevent giving a negative external image during interactions

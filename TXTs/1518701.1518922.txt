@@ -1,1 +1,0 @@
-bABSTRACTnnWhile most modern web browsers offer history functionality few people use it to revisit previously viewed web pages

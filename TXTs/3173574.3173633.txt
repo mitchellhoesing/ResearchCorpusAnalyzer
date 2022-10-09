@@ -1,1 +1,0 @@
-bABSTRACTnnAlt text short for alternative text is descriptive text associated with an image in HTML and other document formats

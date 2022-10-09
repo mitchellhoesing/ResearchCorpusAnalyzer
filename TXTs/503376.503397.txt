@@ -1,1 +1,0 @@
-bABSTRACTn This paper introduces a new sensor architecture for making interactive surfaces that are sensitive to human hand and finger gestures

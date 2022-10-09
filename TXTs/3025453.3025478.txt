@@ -1,1 +1,0 @@
-bABSTRACTnnnnThe low frame rate and high latency of consumer depth depth camera Kinect latency frame rate configurablernncameras limits their use in interactive applications

@@ -1,1 +1,0 @@
-bABSTRACTnnIn remote collaboration gaze visualizations are designed to display where collaborators are looking in a shared visual space

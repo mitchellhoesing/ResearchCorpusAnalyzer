@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we present a design space for interactive windshield displays in vehicles and discuss how this design space can support designers in creating windshield applications for drivers passengers and pedestrians

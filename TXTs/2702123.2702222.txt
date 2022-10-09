@@ -1,1 +1,0 @@
-bABSTRACTn We present an augmented reality system for large scale 3D reconstruction and recognition in outdoor scenes

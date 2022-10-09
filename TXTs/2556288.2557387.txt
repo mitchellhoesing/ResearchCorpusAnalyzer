@@ -1,1 +1,0 @@
-bABSTRACTn Learning the performance of physically manipulating instruments in minimally invasive surgeries is an impetus for the development of surgical training simulators

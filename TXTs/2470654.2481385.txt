@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe the design and evaluation of a gestural text editing technique for touchscreen devices

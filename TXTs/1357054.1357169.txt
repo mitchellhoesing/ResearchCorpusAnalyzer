@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce MySong a system that automatically chooses chords to accompany a vocal melody

@@ -1,1 +1,0 @@
-bABSTRACTn This paperinvestigates to what extent taskoriented user support based on plan recognition is feasible in a highly situationdriven domain like information retrieval IR and discusses requirements for appropriate task models

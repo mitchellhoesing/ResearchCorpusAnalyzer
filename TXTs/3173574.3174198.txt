@@ -1,1 +1,0 @@
-bABSTRACTnnLearningbased gaze estimation has significant potential to enable attentive user interfaces and gazebased interaction on the billions of cameraequipped handheld devices and ambient displays

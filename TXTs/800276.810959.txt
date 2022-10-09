@@ -1,1 +1,0 @@
-bEvolution of A Query Translation SystemnJyhSheng KenInstitute of Information SciencenAcademia Sinica Taipei TaiwannnShikuo ChangnDepartment of Information EngineeringnUniversity of Illinois at Chicago CirclennThis paper presents the motivation history and idiosyncrasy of a query translation system

@@ -1,1 +1,0 @@
-bABSTRACTnnA system to manage human interaction in immersive environments was designed and implemented

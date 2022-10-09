@@ -1,1 +1,0 @@
-bABSTRACTn Several recent studies have highlighted the need to support parallel usage of multiple devices for crossdevice use

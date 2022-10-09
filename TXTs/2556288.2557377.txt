@@ -1,1 +1,0 @@
-bABSTRACTn To encourage strong passwords system administrators employ passwordcomposition policies such as a traditional policy requiring that passwords have at least 8 characters from 4 character classes and pass a dictionary check

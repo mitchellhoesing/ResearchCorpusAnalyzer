@@ -1,1 +1,0 @@
-bABSTRACTn We present a system for the peripheral display of digital handwritten notes motivated by the joint observation that people seldom refer back to their notes and that these notes often contain useful information

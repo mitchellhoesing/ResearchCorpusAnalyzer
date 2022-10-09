@@ -1,1 +1,0 @@
-bABSTRACTnnTRIDENT is a set of interactive tools that automatically generates a user interface for highlyinteractive businessoriented applications

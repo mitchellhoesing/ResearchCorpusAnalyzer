@@ -1,1 +1,0 @@
-bABSTRACTnnThe development of user interfaces for large applications is subject to a series of wellknown problems including cost maintainability and sensitivity to changes in the operating environment

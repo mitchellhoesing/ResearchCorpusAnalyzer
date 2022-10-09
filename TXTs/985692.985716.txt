@@ -1,1 +1,0 @@
-bAbstractnnThe aim of our study is to investigate systems for supporting remote instruction via a mobile robot

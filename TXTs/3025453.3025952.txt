@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we present Organic Primitives an enabling toolbox that expands upon the library of inputoutput devices in HCI and facilitates the design of interactions with organic fluidbased systems

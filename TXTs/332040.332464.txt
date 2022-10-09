@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents a design for a user interface that supports improved gaze communication in multipoint video conferencing

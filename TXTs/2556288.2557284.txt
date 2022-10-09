@@ -1,1 +1,0 @@
-bABSTRACTn Ontologies have been employed across scientific and business domains for some time and the proliferation of linked data means the number and range of potential authors is set to increase significantly

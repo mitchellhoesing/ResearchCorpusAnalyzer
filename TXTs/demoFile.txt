@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper reports on the results of studies of task management to support the design of a task list manager

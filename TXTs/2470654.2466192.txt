@@ -1,1 +1,0 @@
-bABSTRACTnnWe present WatchIt a prototype device that extends interaction beyond the watch surface to the wristband and two interaction techniques for command selection and execution

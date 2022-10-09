@@ -1,1 +1,0 @@
-bAbstractnnWe present a new interaction technique to simulate textures in desktop applications without a haptic interface

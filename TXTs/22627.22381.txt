@@ -1,1 +1,0 @@
-bABSTRACTnnThe design and implementation of adaptive systems as opposed to nonadaptive systems creates new demands on user interface designers

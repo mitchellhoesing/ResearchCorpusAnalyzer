@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce BIGFile a new fast file retrieval technique based on the Bayesian Information Gain framework

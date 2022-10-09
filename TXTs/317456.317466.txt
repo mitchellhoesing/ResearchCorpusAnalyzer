@@ -1,1 +1,0 @@
-bAbstractn Conventional spreadsheet programs offer a very convenient user interface for many quantitative task but the are restricted to handling precisely pecified quantities and calculations

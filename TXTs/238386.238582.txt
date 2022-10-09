@@ -1,1 +1,0 @@
-bABSTRACTn This paper describes techniques for maximizing the efficient use of small screen space by combining delayed response with semitransparency of control objects widgets and onscreen text

@@ -1,1 +1,0 @@
-bABSTRACTnnAlthough many techniques have been proposed to improve text input on touch screens the vast majority of this research ignores nonalphanumeric input i

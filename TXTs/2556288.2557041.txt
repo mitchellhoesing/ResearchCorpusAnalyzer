@@ -1,1 +1,0 @@
-bABSTRACTnnWe present the design development and evaluation of a bidirectional inductive power transfer circuit for prototyping purposes in the wattrange

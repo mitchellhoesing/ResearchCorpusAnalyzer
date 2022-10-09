@@ -1,1 +1,0 @@
-bABSTRACTnnCurrent mobile devices commonly use vibration feedback to signal incoming notifications

@@ -1,1 +1,0 @@
-bABSTRACTn Programmable User Models PUMs are tools based on psychological theory that enable interface designers to predict the usability of a proposed design

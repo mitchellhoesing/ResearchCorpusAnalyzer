@@ -1,1 +1,0 @@
-bABSTRACTnnThis study proposes a new methodology for conducting synchronous remote usability studies using a threedimensional virtual usability testing laboratory built using the Open Wonderland toolkit

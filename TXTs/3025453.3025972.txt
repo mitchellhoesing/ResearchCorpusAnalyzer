@@ -1,1 +1,0 @@
-bABSTRACTnnSoftware developers rely on support from a variety of resourcesincluding other developersbut the coordination cost of finding another developer with relevant experience explaining the context of the problem composing a specific help request and providing access to relevant code is prohibitively high for all but the largest of tasks

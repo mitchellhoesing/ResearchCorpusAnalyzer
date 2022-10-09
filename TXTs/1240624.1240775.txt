@@ -1,1 +1,0 @@
-bABSTRACTnnTagclouds are visual presentations of a set of words typically a set of tags selected by some rationale in which attributes of the text such as size weight or color are used to represent features such as frequency of the associated terms

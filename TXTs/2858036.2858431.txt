@@ -1,1 +1,0 @@
-bABSTRACTnnSoftware ecosystems as a paradigm for largescale software development encompass a complex mix of technical business and social aspects

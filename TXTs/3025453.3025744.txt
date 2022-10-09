@@ -1,1 +1,0 @@
-bABSTRACTn One of the main barriers to immersivity during object manipulation in virtual reality is the lack of realistic haptic feedback

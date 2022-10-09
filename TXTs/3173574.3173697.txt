@@ -1,1 +1,0 @@
-bABSTRACTnnBuilding graphical user interfaces for visualization authoring is challenging as one must reconcile the tension between flexible graphics manipulation and procedural visualization generation based on a graphical grammar or declarative languages

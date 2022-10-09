@@ -1,1 +1,0 @@
-bABSTRACTn We introduce Flexibles 3Dprinted flexible tangibles that are deformationaware and operate on capacitive touchscreens

@@ -1,1 +1,0 @@
-bABSTRACTnnAbsolute indirect interaction maps the absolute position of a devices endeffector to the absolute position of a remote onscreen object

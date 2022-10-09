@@ -1,1 +1,0 @@
-bAbstractnnGoal items were selected by a series of touchmenu choices among sequentially subdivided ranges of integers or alphabetically ordered words

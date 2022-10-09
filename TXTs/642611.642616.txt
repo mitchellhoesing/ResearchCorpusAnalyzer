@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe a new method for use in the process of codesigning technologies with users called technology probes

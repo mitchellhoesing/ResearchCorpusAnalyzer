@@ -1,1 +1,0 @@
-bABSTRACTn Fittss Law has been used extensively in HCI to describe 2D targeting however the controlled tasks generally used neglect aspects of realworld pointing including how the intended use of a target affects its acquisition

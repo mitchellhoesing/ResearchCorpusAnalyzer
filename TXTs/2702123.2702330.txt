@@ -1,1 +1,0 @@
-bABSTRACTnnA longterm goal of game design research is to achieve endtoend automation of much of the design process one aspect of which is creating effective level progressions

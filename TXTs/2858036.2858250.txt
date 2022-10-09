@@ -1,1 +1,0 @@
-bABSTRACTnnAugmented Reality AR applications may require the precise alignment of virtual objects to the real world

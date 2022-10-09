@@ -1,1 +1,0 @@
-bABSTRACTnnWe explore and evaluate a multifinger raycasting design space that we call multiray

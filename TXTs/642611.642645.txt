@@ -1,1 +1,0 @@
-bABSTRACTnnCurrent interfaces for manipulating curves typically use a standard point cursor to indirectly adjust curve parameters

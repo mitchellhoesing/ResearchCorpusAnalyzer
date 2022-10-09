@@ -1,1 +1,0 @@
-bABSTRACTnnHeuristic evaluation is an informal method of usability analysis where a number of evaluators are presented with an interface design and asked to comment on it

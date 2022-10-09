@@ -1,1 +1,0 @@
-bAbstractnnThe user interface is particularly important for educational software because 1 it must provide an entry to the content domain of the program rather than vice versa andn2 it must be sensitive to the general skill andor developmental level of the user

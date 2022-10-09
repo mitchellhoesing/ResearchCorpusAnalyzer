@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes the design process behind the contact card user interface in Claris Organizer 2

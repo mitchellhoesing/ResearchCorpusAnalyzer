@@ -1,1 +1,0 @@
-bABSTRACTn We describe enhancements to graphical search and replace that allow users to extend the capabilities of a graphical editor

@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce the concept of Graspable User Interfaces that allow direct control of electronic or virtual objects through physical handles for control

@@ -1,1 +1,0 @@
-bABSTRACTnnWe describe the functional requirements and design reasoning leading to a userinterface for an automated clinical neurophysiological monitoring system

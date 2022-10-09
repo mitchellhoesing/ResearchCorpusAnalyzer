@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we propose a novel fabrication machine called ProtoMold which uses interactive vacuum forming system for rapid prototyping

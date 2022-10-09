@@ -1,1 +1,0 @@
-bABSTRACTnnIn this work we investigate how remote collaboration between a local worker and a remote collaborator will change if eye fixations of the collaborator are presented to the worker

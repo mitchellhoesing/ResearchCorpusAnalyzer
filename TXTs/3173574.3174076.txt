@@ -1,1 +1,0 @@
-bABSTRACTnnMotivated by the need to support those managing chronic pain we report on the iterative design development and evaluation of Keppi a novel pressurebased tangible user interfacenTUI for the selfreport of pain intensity

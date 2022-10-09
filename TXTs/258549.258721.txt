@@ -1,1 +1,0 @@
-bABSTRACTnnContinuous visual feedback is becoming a common feature in directmanipulation programming systems of all kindsfrom demonstrational macro builders to spreadsheet packages to visual programming languages featuring direct manipulation

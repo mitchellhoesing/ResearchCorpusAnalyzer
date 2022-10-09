@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we describe our experiences of developing and evaluating GUIDE an intelligent electronic tourist guide

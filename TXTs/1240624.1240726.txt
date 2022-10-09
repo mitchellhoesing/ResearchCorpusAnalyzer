@@ -1,1 +1,0 @@
-bABSTRACTnnWe investigate the differences  in terms of both quantitative performance and subjective preference  between directtouch and mouse input for unimanual and bimanual tasks on tabletop displays

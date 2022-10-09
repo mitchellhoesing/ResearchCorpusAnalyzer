@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we explore how users can control remote devices with a virtual long arm while preserving the perception that the artificial arm is actually part of their own body

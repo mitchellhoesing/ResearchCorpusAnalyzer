@@ -1,1 +1,0 @@
-bABSTRACTn Diagram editing is an attractive application of gestural interfaces and penbased computers which promise a new input paradigm where users communicate with computers in diagram languages by using gestures

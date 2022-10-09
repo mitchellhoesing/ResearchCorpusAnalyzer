@@ -1,1 +1,0 @@
-bABSTRACTnnPavlov is a Programming By Demonstration PBD system that allows animated interfaces to be created without progrmnming

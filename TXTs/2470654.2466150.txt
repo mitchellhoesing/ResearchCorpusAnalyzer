@@ -1,1 +1,0 @@
-bABSTRACTnnDirect Manipulation Video Navigation DMVN systems allow a user to navigate a video by dragging an object along its motion trajectory

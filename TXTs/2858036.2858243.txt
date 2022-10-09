@@ -1,1 +1,0 @@
-bABSTRACTnnRFID tags can be used to add inexpensive wireless batteryless sensing to objects

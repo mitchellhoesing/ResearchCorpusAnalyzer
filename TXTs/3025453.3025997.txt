@@ -1,1 +1,0 @@
-bABSTRACTn While many popular casual games use threestar systems which give players up to three stars based on their performance in a level this technique has seen limited application in human computation games HCGs

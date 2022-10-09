@@ -1,1 +1,0 @@
-bABSTRACTn In order to enable unobtrusive human object interaction detection we propose a minimalistic approach to instrumenting everyday objects with passive i

@@ -1,1 +1,0 @@
-bABSTRACTnnMany systems provide the user with a limited viewport of a larger graphical workspace

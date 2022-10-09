@@ -1,1 +1,0 @@
-bABSTRACTnnThe egocentric analysis of dynamic networks focuses on discovering the temporal patterns of a subnetwork around a specific central actor i

@@ -1,1 +1,0 @@
-bABSTRACTnnWe present the bubble cursor  a new target acquisition technique based on area cursors

@@ -1,1 +1,0 @@
-bABSTRACTn This paper presents BoD Shapes a novel authentication method for smartphones that uses the back of the device for input

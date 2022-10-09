@@ -1,1 +1,0 @@
-bABSTRACTnnWe present Cardiogram a visual analytics system that supports automotive engineers in debugging masses of traces each consisting of millions of recorded messages from incar communication networks

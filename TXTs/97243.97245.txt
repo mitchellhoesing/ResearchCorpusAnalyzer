@@ -1,1 +1,0 @@
-bABSTRACTnnAn information display system is described which uses eyetracking to monitor user looking about its graphics screen

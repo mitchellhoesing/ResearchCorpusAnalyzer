@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper describes the design and evaluation of a technique Direct Pointer that enables users to interact intuitively with large displays using cameras equipped on handheld devices such as mobile phones and personal digital assistant PDA

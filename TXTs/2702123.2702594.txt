@@ -1,1 +1,0 @@
-bABSTRACTnnA common approach in crowdsourcing is to break large tasks into small microtasks so that they can be parallelized across many crowd workers and so that redundant work can be more easily compared for quality control

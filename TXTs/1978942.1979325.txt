@@ -1,1 +1,0 @@
-bABSTRACTn A Completely Automated Public Turing test to tell Computers and Humans Apart CAPTCHA is a mechanism widely used nowadays for protection of web applications interfaces and services from malicious users

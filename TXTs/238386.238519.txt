@@ -1,1 +1,0 @@
-bABSTRACTn Graphical user interfaces GUIs make applications easier to learn and use

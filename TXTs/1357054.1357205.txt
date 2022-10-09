@@ -1,1 +1,0 @@
-bABSTRACTnnControlling graphical user interfaces GUI by speech is slow but proves useful for disabled persons with limitations in operating mouse and keyboard

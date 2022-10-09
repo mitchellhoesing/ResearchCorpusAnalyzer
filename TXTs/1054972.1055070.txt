@@ -1,1 +1,0 @@
-bABSTRACTn HIPs or Human Interactive Proofs are challenges meant to be easily solved by humans while remaining too hard to be economically solved by computers

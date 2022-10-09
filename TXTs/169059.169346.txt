@@ -1,1 +1,0 @@
-bABSTRACTn Current user interface builders provide only lowlevel assistance because they have knowledge of neither the application nor the principles by which interface elements are combined effectively

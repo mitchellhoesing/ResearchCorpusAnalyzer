@@ -1,1 +1,0 @@
-bABSTRACTnnInherent pen input modalities such as tip pressure tilt and azimuth PTA have been extensively used as additional input channels in penbased interactions

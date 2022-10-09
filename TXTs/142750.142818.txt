@@ -1,1 +1,0 @@
-bABSTRACTn This study lays the ground work for a predictive zeroparameter engineering model that characterizes the relationship between system delay and user performance

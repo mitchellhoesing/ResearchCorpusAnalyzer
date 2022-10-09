@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper suggests that there exists a large class of inherently graphical applications that could use pictures as their primary input data

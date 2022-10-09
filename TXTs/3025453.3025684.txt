@@ -1,1 +1,0 @@
-bABSTRACTnnCurrent virtual and augmented reality headmounted displays usually include no or only a single vibration motor for haptic feedback and do not use it for guidance

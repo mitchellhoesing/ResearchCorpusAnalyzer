@@ -1,1 +1,0 @@
-bABSTRACTn Many of the principles that guide userinterface design for commercial systems do not scale down to simple applications developed on personal computers

@@ -1,1 +1,0 @@
-bABSTRACTn This paper presents an empirical approach to designing and deploying technologies to support visitor activities in exhibition spaces

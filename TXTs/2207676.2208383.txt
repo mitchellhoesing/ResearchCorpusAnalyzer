@@ -1,1 +1,0 @@
-bABSTRACTnnWe designed and ran an experiment to measure social influence in online recommender systems specifically how often peoples choices are changed by others recommendations when facing different levels of confirmation and conformity pressures

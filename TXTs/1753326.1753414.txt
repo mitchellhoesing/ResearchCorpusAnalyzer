@@ -1,1 +1,0 @@
-bABSTRACTn We propose RadialStroke and FingerCount Shortcuts two techniques aimed at augmenting the menubar on multitouch surfaces

@@ -1,1 +1,0 @@
-bABSTRACTnnHCI evaluation methods are useful for improving the design of interactive systems yet they may be rejected by nontraditional technology disciplines such as media art

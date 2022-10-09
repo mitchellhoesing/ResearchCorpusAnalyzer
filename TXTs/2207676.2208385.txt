@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we describe the development of a new audionCAPTCHA called the SoundsRight CAPTCHA and the evaluation of the CAPTCHA with 20 blind users

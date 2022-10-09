@@ -1,1 +1,0 @@
-bABSTRACTn LiveWorld is a graphical environment designed to support research into programming with active objects

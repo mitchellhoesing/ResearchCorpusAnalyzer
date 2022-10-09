@@ -1,1 +1,0 @@
-bABSTRACTnnComputer Algebra Systems CAS provide sophisticated functionality to assist with mathematical problem solving

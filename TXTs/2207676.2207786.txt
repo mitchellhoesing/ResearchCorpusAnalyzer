@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we introduce CheekTouch an affective audiotactile communication technique that transmits multifinger touch gestures applied on a senders mobile phone to a receivers cheek in real time during a call

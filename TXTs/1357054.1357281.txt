@@ -1,1 +1,0 @@
-bABSTRACTnnThis paper presents the design and evaluation of Game Over which is the worlds first universally inaccessible game i

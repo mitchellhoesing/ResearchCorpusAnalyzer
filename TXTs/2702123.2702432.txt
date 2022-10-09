@@ -1,1 +1,0 @@
-bABSTRACTn Realtime games such as firstperson shooters FPS are sensitive to even small amounts of lag

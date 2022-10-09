@@ -1,1 +1,0 @@
-bABSTRACTnnWe present GaussRFID a hybrid RFID and magneticfield tag sensing system that supports interactivity when embedded in retrofitted or new physical objects

@@ -1,1 +1,0 @@
-bAbstractnnThe effect of the graphical programming language FPL First Programming Language on the occurrence of conceptual bugs in programs written by novices was studied

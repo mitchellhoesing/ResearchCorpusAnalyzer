@@ -1,1 +1,0 @@
-bABSTRACTnnWe present Project Zanzibar a flexible mat that locates uniquely identifies and communicates with tangible objects placed on its surface as well as senses a users touch and hover gestures

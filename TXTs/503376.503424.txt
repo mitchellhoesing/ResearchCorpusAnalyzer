@@ -1,1 +1,0 @@
-bABSTRACTn Fisheye views allow people to see both a focus region and the surrounding context in the same window

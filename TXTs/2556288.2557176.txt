@@ -1,1 +1,0 @@
-bABSTRACTn Activity recognition can provide computers with the context underlying user inputs enabling more relevant responses and more fluid interaction

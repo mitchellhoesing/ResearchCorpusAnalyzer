@@ -1,1 +1,0 @@
-bABSTRACTnnWe introduce a new usability walkthrough method called Collaborative Critique CC which is inspired by the humancomputer collaboration paradigm of systemuser interaction

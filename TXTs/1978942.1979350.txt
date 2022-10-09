@@ -1,1 +1,0 @@
-bABSTRACTn Recent keyboardbased alternatives to WIMP interfaces do not have good support for commands that require multiple parameters

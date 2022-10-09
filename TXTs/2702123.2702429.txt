@@ -1,1 +1,0 @@
-bABSTRACTnnMost user interfaces require the user to focus on one element at a time but StarCraft 2 is a game where players often control more than a hundred units simultaneously

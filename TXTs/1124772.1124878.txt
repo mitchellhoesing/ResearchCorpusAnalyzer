@@ -1,1 +1,0 @@
-bABSTRACTn In this paper we describe a novel approach for searching large data sets from a mobile phone

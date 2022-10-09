@@ -1,1 +1,0 @@
-bABSTRACTnnIn this paper we present a system that electromagnetically tracks the positions and orientations of multiple wireless objects on a tabletop display surface
