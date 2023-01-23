@@ -2,6 +2,8 @@ import logging
 import torch
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
+
+from src.FileUtility import FileUtility
 from src.TxtFile import TxtFile
 
 
@@ -23,36 +25,45 @@ class BERT:
         else:
             logging.log("You are not using Cuda Cores.")
 
-    # TODO REFACTOR. Break into multiple methods. Rename to be more descriptive.
     def analyze(self):
-        txtFiles = self.txtFile.createTxtFileListFromPath(self.txtFilePath)
+        txtFiles = self.txtFile.sanitizeFilesAtPath(self.txtFilePath)
         for txtFile in txtFiles:
-            self._results.append("year")
-            self._results.append("title")
-            self._results.append("DOI")
-            for paraphrase in self.paraphrases:
-                self._paraphrasePercents = []
-                self._results.append(paraphrase)
-                print("BERT: Analyzing phrase: \"" + paraphrase + "\"\nBERT: IN FILE: \"" + txtFile + "\"", end="\n")
-                for sentence in txtFile:
-                    tensor = self.tokenizer.encode_plus(paraphrase, sentence, truncation=True, return_tensors="pt")
+            self._initializeResults()
+            self._classifyParaphrases(txtFile)
 
-                    if torch.cuda.is_available():
-                        tensor = tensor.to('cuda')
+    def _classifyParaphrases(self, txtFile):
+        for paraphrase in self.paraphrases:
+            self._results.append(paraphrase)
+            print("BERT: Analyzing phrase: \"" + paraphrase + "\"\nBERT: IN FILE: \"" + txtFile + "\"", end="\n")
+            sanitizedFilePath = r"C:\Users\Mitch\PycharmProjects\ResearchCorpusAnalyzer\TXTs\\"
+            # TODO newline needs split on periods. Currently will paraphrase whole files
+            with open(sanitizedFilePath + txtFile, 'r', newline='\r\n') as fileDescriptor:
+                sentences = fileDescriptor.readlines()
+            for sentence in sentences:
+                print("sentence: " + sentence)
+                tensor = self.tokenizer.encode_plus(paraphrase, sentence, truncation=True, return_tensors="pt")
 
-                    paraphraseClassificationLogits = self.model(**tensor)[0]
-                    paraphraseResults = torch.softmax(paraphraseClassificationLogits, dim=1).tolist()[0]
-                    self._paraphrasePercents.append(round(paraphraseResults[1] * 100))
+                if torch.cuda.is_available():
+                    tensor = tensor.to('cuda')
 
-                    # TODO
-                    # Save all sentences over given threshold
-                    # Store the sentence with the highest probability of being a paraphrase.
-                    if round(paraphraseResults[1] * 100) > self._highestPercent:
-                        self._highestPercent = round(paraphraseResults[1] * 100)
-                        self._highestProbabilityParaphrase = sentence
-                        
-                self._printResults()
-                self._clearResults()
+                paraphraseClassificationLogits = self.model(**tensor)[0]
+                paraphraseResults = torch.softmax(paraphraseClassificationLogits, dim=1).tolist()[0]
+                self._paraphrasePercents.append(round(paraphraseResults[1] * 100))
+
+                # TODO
+                # Save all sentences over given threshold
+                # Store the sentence with the highest probability of being a paraphrase.
+                if round(paraphraseResults[1] * 100) > self._highestPercent:
+                    self._highestPercent = round(paraphraseResults[1] * 100)
+                    self._highestProbabilityParaphrase = sentence
+
+            self._printResults()
+            self._clearResults()
+
+    def _initializeResults(self):
+        self._results.append("year")
+        self._results.append("title")
+        self._results.append("DOI")
 
     # TODO Refactor to new class. What type of results are these?
     def _printResults(self):
@@ -66,3 +77,4 @@ class BERT:
         self._highestPercent = 0
         self._paraphrasePercents = []
         self._results = ['BERT: Results: ']
+

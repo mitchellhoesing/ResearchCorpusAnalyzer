@@ -17,7 +17,8 @@ class PDF:
         os.chdir(self.readDirectory)
 
     def readPDFFileNames(self):
-        # TODO: this method is sanitizing the list, sorting and returning. It does too many things, refactor.
+        # TODO: this method is duplication. Also, it is sanitizing the list,
+        #  sorting and returning. It does too many things, refactor.
 
         self.fileNameList = os.listdir()
         if ".DS_Store" in self.fileNameList:

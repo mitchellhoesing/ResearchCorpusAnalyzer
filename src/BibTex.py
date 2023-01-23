@@ -1,5 +1,4 @@
 import re
-from src.FileUtility import FileUtility
 
 
 class BibTex:
