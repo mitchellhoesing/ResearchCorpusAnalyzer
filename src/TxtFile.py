@@ -9,17 +9,12 @@ class TxtFile(FileUtility):
         self.sanitizedTxt = None
         self.txtFiles = None
 
-    def createTxtFileListFromPath(self, path):
+    # TODO FIX ME
+    def sanitizeFilesAtPath(self, path):
         self.txtFiles = FileUtility.createFileListFromPath(path)
         FileUtility.removeGitFiles(self.txtFiles)
         FileUtility.sortFiles(self.txtFiles)
-        self.sanitizeTxtFiles(path)
-
-        return self.txtFiles
-
-    # TODO FIX ME
-    def sanitizeTxtFiles(self, path):
-        tempList = []
+        sanitizedFilePath = r"C:\Users\Mitch\PycharmProjects\ResearchCorpusAnalyzer\TXTs\\"
         for txtFile in self.txtFiles:
             file = open(path + txtFile, "r")
             fileContents = file.read()
@@ -27,10 +22,14 @@ class TxtFile(FileUtility):
             fileContents = re.sub(r'[^A-Za-z0-9\s\.]+', "", fileContents)
             # Replace all newlines with spaces.
             fileContents = fileContents.replace(r"\n", " ")
-            fileContents = re.split(r'\.', fileContents)
-            f = open(r"C:\Users\Mitch\PycharmProjects\ResearchCorpusAnalyzer\TXTs\\" + txtFile, "w")
-            f.write(fileContents[0])
+            f = open(sanitizedFilePath + "Sanitized." + txtFile, "w")
+            f.write(fileContents)
             f.close()
             file.close()
+        self.txtFiles = FileUtility.createFileListFromPath(sanitizedFilePath)
+        FileUtility.removeGitFiles(self.txtFiles)
+        FileUtility.sortFiles(self.txtFiles)
+
+        return self.txtFiles
 
 

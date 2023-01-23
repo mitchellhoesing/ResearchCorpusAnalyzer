@@ -12,7 +12,9 @@ class FileUtility:
 
     @staticmethod
     def createFileListFromPath(path):
-        return os.listdir(path)
+        fileList = os.listdir(path)
+        fileList = FileUtility.removeGitFiles(fileList)
+        return fileList
 
     @staticmethod
     def sortFiles(fileList):
